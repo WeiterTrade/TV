@@ -1,5 +1,17 @@
-#EXTINF:-1 group-title="TEST ⓵",НТК
-https://www.ntk.kz/ru/Live
+#EXTINF:-1 group-title="Казахстан" tvg-id="ntk-kz", НТК
+http://87.76.32.36:8001/ntk
+#EXTINF:-1 group-title="Казахстан" tvg-id="ktk-kz", КТК
+http://87.76.32.36:8001/ktk
+#EXTINF:-1 group-title="Казахстан" tvg-id="almaty", Алматы ТВ
+http://87.76.32.36:8001/almatytv
+#EXTINF:-1 group-title="Казахстан" tvg-id="astana", Астана ТВ
+http://87.76.32.36:8001/astana
+#EXTINF:-1 group-title="Казахстан"  tvg-id="toy-duman", Той Думан
+http://87.76.32.36:8001/toiduman
+#EXTINF:-1 group-title="Казахстан" tvg-id="balapan", Балапан
+http://87.76.32.36:8001/balapan
+#EXTINF:-1 group-title="Казахстан" tvg-id="7kanal-kz", 7 Канал
+http://87.76.32.36:8001/7kanal
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
@@ -1081,24 +1093,10 @@ http://87.76.32.36:8001/zhivi
 http://87.76.32.36:8001/zoo
 #EXTINF:-1 group-title="Евразия-Стар", Gakku
 http://87.76.32.36:8001/gakku
-#EXTINF:-1 group-title="Евразия-Стар"  tvg-id="toy-duman", Toiduman
-http://87.76.32.36:8001/toiduman
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="ktk-kz", ktk
-http://87.76.32.36:8001/ktk
 #EXTINF:-1 group-title="Евразия-Стар" tvg-id="abaitv", Abaitv
 http://87.76.32.36:8001/abaitv
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="almaty", Almatytv
-http://87.76.32.36:8001/almatytv
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="astana", Astana TV
-http://87.76.32.36:8001/astana
 #EXTINF:-1 group-title="Евразия-Стар" tvg-id="atameken-business", Atameken
 http://87.76.32.36:8001/atameken
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="balapan", Balapan
-http://87.76.32.36:8001/balapan
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="ntk-kz", НТК
-http://87.76.32.36:8001/ntk
-#EXTINF:-1 group-title="Евразия-Стар" tvg-id="7kanal-kz", Седьмой канал
-http://87.76.32.36:8001/7kanal
 #EXTINF:-1 group-title="Евразия-Стар", Европа плюс тв
 http://87.76.32.36:8001/europaplus
 #EXTINF:-1 group-title="Евразия-Стар", Мульт
@@ -9964,5 +9962,4 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
-
 
