@@ -16,6 +16,8 @@ http://87.76.32.36:8001/7kanal
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Русский (Каналы)",Русский Роман
+http://tv.ttk.mx:9085
 #EXTINF:-1 group-title="TEST ⓵",ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Пятница! International
@@ -4796,8 +4798,6 @@ http://tv.ttk.mx:9080
 http://tv.ttk.mx:9079
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Телекафе
 http://tv.ttk.mx:9081
-#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Русский роман HD
-http://tv.ttk.mx:9085
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Дом Кино Премиум HD
 http://tv.ttk.mx:9084
 #EXTINF:-1 group-title="Цитадель-Крым (VPN)",Беларусь 24
@@ -9962,4 +9962,3 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
-
