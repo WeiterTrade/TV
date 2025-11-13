@@ -17,11 +17,17 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Детектив
-http://178.212.71.253:8000/play/45/index.m3u8
+http://91.207.115.228:5000/c35
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Роман
 http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 group-title="Русский (Каналы)",Русская Комедия
+http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Русский (Каналы)",Русский Экстрим
+http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Русский (Каналы)",Русский Иллюзион
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST ⓵",ТНТ4 International
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="TEST ⓵",Пятница! International
@@ -2634,8 +2640,6 @@ http://91.207.115.228:5000/c32
 http://91.207.115.228:5000/c33
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Русский Бестселлер
 http://91.207.115.228:5000/c34
-#EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",Русский Детектив
-http://91.207.115.228:5000/c35
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",365 Дней ТВ
 http://91.207.115.228:5000/c36
 #EXTINF:-1 group-title="ДВ-Ком_2 (VPN)",.Black
@@ -4350,14 +4354,8 @@ http://91.194.191.241:8081/chid402/tracks-v1a1/mono.m3u8
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Сарафан
 http://91.194.191.241:8081/chid39/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Русский Экстрим
-http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Русский Иллюзион
-http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Русский Детектив
 http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Русская Комедия
-http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",Ретро
 http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ТЕЛЕОС-1 (VPN)",РБК
