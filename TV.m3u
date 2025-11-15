@@ -21,7 +21,7 @@ http://91.207.115.228:5000/c35
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Роман
-http://46.8.46.14/ruroman/index.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Русский (Каналы)",Русская Комедия
 http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Русский (Каналы)",Русский Экстрим
@@ -276,8 +276,6 @@ http://tv.tuva.ru/machtv/index.m3u8
 http://vod.tuva.ru/zvezda/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Пятница
 http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",Kino TV
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="TEST (VPN)",НСТ
