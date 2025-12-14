@@ -1,1942 +1,1189 @@
-#EXTM3U
+#EXTM3U url-tvg="http://s06.wsbof.com:8080/xml/170e9fbe.gz" catchup-type="shift"
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj.png" tvg-rec="7",Первый канал
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/pervyj/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/pervyj-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://s06.wsbof.com:8080/streams/rossija1.png" tvg-rec="7",Россия 1
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/rossija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/rossija-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://s06.wsbof.com:8080/streams/ntv.png" tvg-rec="7",НТВ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ntv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-hd-orig.png" tvg-rec="7",НТВ HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ntv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ntv-mir/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-mir.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://s06.wsbof.com:8080/streams/TNT.png" tvg-rec="7",ТНТ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/TNT/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/TNT.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tnt-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-hd-orig.png" tvg-rec="7",ТНТ HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tnt-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tnt4" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-4.png" tvg-rec="7",ТНТ4
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tnt4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt4.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tnt4-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tnt4-hd-orig.png" tvg-rec="7",ТНТ4 HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tnt4-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt4-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="http://s06.wsbof.com:8080/streams/CTC.png" tvg-rec="7",СТС
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/CTC/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/CTC.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ctc-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/ctc-hd.png" tvg-rec="7",СТС HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ctc-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ctc-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="http://s06.wsbof.com:8080/streams/sts-love.png" tvg-rec="7",СТС Love
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/sts-love/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sts-love.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="http://s06.wsbof.com:8080/streams/domashnij.png" tvg-rec="7",Домашний
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/domashnij/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnij.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="domashnij-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/domashnij-hd-orig.png" tvg-rec="7",Домашний HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/domashnij-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnij-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="http://s06.wsbof.com:8080/streams/perec.png" tvg-rec="7",Перец
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/perec/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/perec.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="http://s06.wsbof.com:8080/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ren-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ren-tv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/ren-tv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ren-tv-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tv3" tvg-logo="http://s06.wsbof.com:8080/streams/tv-3.png" tvg-rec="7",ТВ3
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tv3/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv3.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tv3-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-hd-orig.png" tvg-rec="7",ТВ3 HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tv3-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv3-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="http://s06.wsbof.com:8080/streams/4e.png" tvg-rec="7",Че
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/4e/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/4e.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda.png" tvg-rec="7",Звезда
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/zvezda/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-hd.png" tvg-rec="7",Звезда HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/zvezda-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-plus.png" tvg-rec="7",Звезда Плюс
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/zvezda-plus/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-plus.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-plus-hd-orig.png" tvg-rec="7",Звезда Плюс HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/zvezda-plus-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-plus-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="http://s06.wsbof.com:8080/streams/tvc.png" tvg-rec="7",ТВЦ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tvc/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tvc.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tvc-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tvc-hd-orig.png" tvg-rec="7",ТВЦ HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/tvc-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tvc-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="sankt-peterburg" tvg-logo="http://s06.wsbof.com:8080/streams/sankt-peterburg.png" tvg-rec="7",Санкт-Петербург
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/sankt-peterburg/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sankt-peterburg.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="sankt-peterburg-hd" tvg-logo="http://s06.wsbof.com:8080/streams/sankt-peterburg-hd.png" tvg-rec="7",Санкт-Петербург HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/sankt-peterburg-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sankt-peterburg-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="centralnoe-tv" tvg-logo="http://s06.wsbof.com:8080/streams/centralnoe-tv.png" tvg-rec="7",Центральное телевидение
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/centralnoe-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/centralnoe-tv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="5kanal" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal.png" tvg-rec="7",5 канал
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/5kanal/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/5kanal.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-k.png" tvg-rec="7",Россия Культура
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/rossija-k/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-k.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k-hd" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-k-hd.png" tvg-rec="7",Россия Культура HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/rossija-k-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-k-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="moskva-doverie" tvg-logo="http://s06.wsbof.com:8080/streams/moskva-doverie.png" tvg-rec="7",Москва Доверие
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/moskva-doverie/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/moskva-doverie.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="souz" tvg-logo="http://s06.wsbof.com:8080/streams/souz.png" tvg-rec="7",Союз
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/souz/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/souz.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="spas" tvg-logo="http://s06.wsbof.com:8080/streams/spas.png" tvg-rec="7",Спас
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/spas/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/spas.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="krasnaja-linija" tvg-logo="http://s06.wsbof.com:8080/streams/krasnaja-linija.png" tvg-rec="7",Красная линия
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/krasnaja-linija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/krasnaja-linija.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal" tvg-logo="http://s06.wsbof.com:8080/streams/8-kanal.png" tvg-rec="7",8 канал
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/8-kanal/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/8-kanal.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal" tvg-logo="http://s06.wsbof.com:8080/streams/9-kanal.png" tvg-rec="7",9 Канал
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/9-kanal/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/9-kanal.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="otp" tvg-logo="http://s06.wsbof.com:8080/streams/otp.png" tvg-rec="7",ОТР
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/otp/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/otp.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="otr-hd" tvg-logo="http://s06.wsbof.com:8080/streams/otr-hd.png" tvg-rec="7",ОТР HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/otr-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/otr-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="mir" tvg-logo="http://s06.wsbof.com:8080/streams/mir.png" tvg-rec="7",Мир
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/mir/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="mir-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mir-hd.png" tvg-rec="7",Мир HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/mir-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="mir-24" tvg-logo="http://s06.wsbof.com:8080/streams/mir-24.png" tvg-rec="7",Мир 24
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/mir-24/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-24.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="mir-24-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mir-24-hd.png" tvg-rec="7",Мир 24 HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/mir-24-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-24-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="sarafan" tvg-logo="http://s06.wsbof.com:8080/streams/sarafan.png" tvg-rec="7",Сарафан
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/sarafan/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sarafan.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork" tvg-logo="http://s06.wsbof.com:8080/streams/gagsnetwork.png" tvg-rec="7",Gagsnetwork
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/gagsnetwork/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/gagsnetwork.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork-hd" tvg-logo="http://s06.wsbof.com:8080/streams/gagsnetwork-hd.png" tvg-rec="7",Gagsnetwork HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/gagsnetwork-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/gagsnetwork-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv" tvg-logo="http://s06.wsbof.com:8080/streams/kvn-tv.png" tvg-rec="7",КВН ТВ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/kvn-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kvn-tv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="piatnica" tvg-logo="http://s06.wsbof.com:8080/streams/piatnica.png" tvg-rec="7",Пятница
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/piatnica/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/piatnica.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="piatnica-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/piatnica-hd-orig.png" tvg-rec="7",Пятница HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/piatnica-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/piatnica-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="super" tvg-logo="http://s06.wsbof.com:8080/streams/super.png" tvg-rec="7",Суббота
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/super/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/super.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="super-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/super-hd-orig.png" tvg-rec="7",Суббота HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/super-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/super-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv" tvg-logo="http://s06.wsbof.com:8080/streams/yu-tv.png" tvg-rec="7",Ю ТВ
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/yu-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/yu-tv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="telekanal-360" tvg-logo="http://s06.wsbof.com:8080/streams/podmoskovje.png" tvg-rec="7",Телеканал 360
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/telekanal-360/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/telekanal-360.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="telekanal-360-hd" tvg-logo="http://s06.wsbof.com:8080/streams/telekanal-360-hd.png" tvg-rec="7",Телеканал 360 HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/telekanal-360-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/telekanal-360-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="my-hd" tvg-logo="http://s06.wsbof.com:8080/streams/my-hd.png" tvg-rec="7",Мы HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/my-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/my-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="vremya" tvg-logo="http://s06.wsbof.com:8080/streams/vremya.png" tvg-rec="7",Время
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/vremya/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vremya.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="russia-today-doc" tvg-logo="http://s06.wsbof.com:8080/streams/rt-doc.png" tvg-rec="7",RT Док
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/russia-today-doc/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russia-today-doc.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="russia-today-doc-hd" tvg-logo="http://s06.wsbof.com:8080/streams/russia-today-doc-hd.png" tvg-rec="7",RT Док HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/russia-today-doc-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russia-today-doc-hd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rtvi" tvg-logo="http://s06.wsbof.com:8080/streams/rtvi.png" tvg-rec="7",RTVi
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/rtvi/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rtvi.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="dozhd" tvg-logo="http://s06.wsbof.com:8080/streams/dozhd.png" tvg-rec="7",Дождь
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/dozhd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dozhd.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="dozhd-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/dozhd-hd-orig.png" tvg-rec="7",Дождь HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/dozhd-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dozhd-hd-orig.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="nastoyaschee-vremya-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nastoyaschee-vremya-hd.png" tvg-rec="7",Настоящее время HD
-#EXTGRP:Общероссийские
-http://s06.wsbof.com/nastoyaschee-vremya-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nastoyaschee-vremya-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="rossija24" tvg-logo="http://s06.wsbof.com:8080/streams/rossija24.png" tvg-rec="7",Россия 24
-#EXTGRP:Новости
-http://s06.wsbof.com/rossija24/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija24.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="evronews" tvg-logo="http://s06.wsbof.com:8080/streams/evronews.png" tvg-rec="0",EuroNews
-#EXTGRP:Новости
-http://s06.wsbof.com/evronews/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evronews.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="evronews-hd" tvg-logo="http://s06.wsbof.com:8080/streams/evronews-hd.png" tvg-rec="0",EuroNews HD
-#EXTGRP:Новости
-http://s06.wsbof.com/evronews-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evronews-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="izvestija" tvg-logo="http://s06.wsbof.com:8080/streams/izvestija.png" tvg-rec="0",Известия
-#EXTGRP:Новости
-http://s06.wsbof.com/izvestija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/izvestija.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="izvestija-hd" tvg-logo="http://s06.wsbof.com:8080/streams/izvestija-hd.png" tvg-rec="0",Известия HD
-#EXTGRP:Новости
-http://s06.wsbof.com/izvestija-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/izvestija-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="360-novosti-hd" tvg-logo="http://s06.wsbof.com:8080/streams/360-novosti-hd.png" tvg-rec="7",360 Новости HD
-#EXTGRP:Новости
-http://s06.wsbof.com/360-novosti-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/360-novosti-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="moskva-24" tvg-logo="http://s06.wsbof.com:8080/streams/moskva-24.png" tvg-rec="0",Москва 24
-#EXTGRP:Новости
-http://s06.wsbof.com/moskva-24/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/moskva-24.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="rbk" tvg-logo="http://s06.wsbof.com:8080/streams/rbk.png" tvg-rec="7",РБК
-#EXTGRP:Новости
-http://s06.wsbof.com/rbk/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rbk.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="rbk-hd" tvg-logo="http://s06.wsbof.com:8080/streams/rbk-hd.png" tvg-rec="7",РБК HD
-#EXTGRP:Новости
-http://s06.wsbof.com/rbk-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rbk-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="russia-today" tvg-logo="http://s06.wsbof.com:8080/streams/rt-english.png" tvg-rec="0",RT
-#EXTGRP:Новости
-http://s06.wsbof.com/russia-today/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russia-today.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="russia-today-hd" tvg-logo="http://s06.wsbof.com:8080/streams/russia-today-hd.png" tvg-rec="0",RT HD
-#EXTGRP:Новости
-http://s06.wsbof.com/russia-today-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russia-today-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="deutsche-welle" tvg-logo="http://s06.wsbof.com:8080/streams/deutsche-welle.png" tvg-rec="0",DW Russian
-#EXTGRP:Новости
-http://s06.wsbof.com/deutsche-welle/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/deutsche-welle.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="http://s06.wsbof.com:8080/streams/sky-news-uk.png" tvg-rec="0",Sky News
-#EXTGRP:Новости
-http://s06.wsbof.com/sky-news-uk/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sky-news-uk.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="sky-news-uk-hd" tvg-logo="http://s06.wsbof.com:8080/streams/sky-news-uk-hd.png" tvg-rec="0",Sky News HD
-#EXTGRP:Новости
-http://s06.wsbof.com/sky-news-uk-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sky-news-uk-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="fox-news-hd" tvg-logo="http://s06.wsbof.com:8080/streams/fox-news-hd.png" tvg-rec="0",FOX News HD
-#EXTGRP:Новости
-http://s06.wsbof.com/fox-news-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fox-news-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="http://s06.wsbof.com:8080/streams/cnn.png" tvg-rec="0",CNN
-#EXTGRP:Новости
-http://s06.wsbof.com/cnn/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cnn.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="cnn-hd" tvg-logo="http://s06.wsbof.com:8080/streams/cnn-hd.png" tvg-rec="0",CNN HD
-#EXTGRP:Новости
-http://s06.wsbof.com/cnn-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cnn-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="abc-us-hd" tvg-logo="http://s06.wsbof.com:8080/streams/abc-us-hd.png" tvg-rec="0",ABC News HD
-#EXTGRP:Новости
-http://s06.wsbof.com/abc-us-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/abc-us-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="nbc-us-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nbc-us-hd.png" tvg-rec="0",NBC HD
-#EXTGRP:Новости
-http://s06.wsbof.com/nbc-us-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nbc-us-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="cnbc-us-hd" tvg-logo="http://s06.wsbof.com:8080/streams/cnbc-us-hd.png" tvg-rec="0",CNBC HD
-#EXTGRP:Новости
-http://s06.wsbof.com/cnbc-us-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cnbc-us-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="msnbc-us-hd" tvg-logo="http://s06.wsbof.com:8080/streams/msnbc-us-hd.png" tvg-rec="0",MSNBC HD
-#EXTGRP:Новости
-http://s06.wsbof.com/msnbc-us-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/msnbc-us-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="http://s06.wsbof.com:8080/streams/bbc-world-news.png" tvg-rec="0",BBC News
-#EXTGRP:Новости
-http://s06.wsbof.com/bbc-world-news/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bbc-world-news.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="bbc-world-news-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bbc-world-news-hd.png" tvg-rec="0",BBC News HD
-#EXTGRP:Новости
-http://s06.wsbof.com/bbc-world-news-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bbc-world-news-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="bloomberg-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bloomberg-hd.png" tvg-rec="0",Bloomberg TV HD
-#EXTGRP:Новости
-http://s06.wsbof.com/bloomberg-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bloomberg-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="al-jazeera-hd" tvg-logo="http://s06.wsbof.com:8080/streams/al-jazeera-hd.png" tvg-rec="0",Al Jazeera HD
-#EXTGRP:Новости
-http://s06.wsbof.com/al-jazeera-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/al-jazeera-hd.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="france-24-hd" tvg-logo="http://s06.wsbof.com:8080/streams/france-24-hd.png" tvg-rec="0",France 24 HD
-#EXTGRP:Новости
-http://s06.wsbof.com/france-24-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/france-24-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinopremiera-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinopremiera-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd-orig.png" tvg-rec="7",Премиальное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kino-premium-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kino-premium-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd-orig.png" tvg-rec="7",Остросюжетное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/ostrosujetnoe-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ostrosujetnoe-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="hit-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd-orig.png" tvg-rec="7",Хит HD
-#EXTGRP:Кино
-http://s06.wsbof.com/hit-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hit-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="http://s06.wsbof.com:8080/streams/kinohit.png" tvg-rec="7",Кинохит
-#EXTGRP:Кино
-http://s06.wsbof.com/kinohit/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinohit.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinohit-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinohit-hd-orig.png" tvg-rec="7",Кинохит HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinohit-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinohit-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="http://s06.wsbof.com:8080/streams/kinomix.png" tvg-rec="7",Киномикс
-#EXTGRP:Кино
-http://s06.wsbof.com/kinomix/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinomix.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinomix-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinomix-hd-orig.png" tvg-rec="7",Киномикс HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinomix-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinomix-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="http://s06.wsbof.com:8080/streams/kinosemja.png" tvg-rec="7",Киносемья
-#EXTGRP:Кино
-http://s06.wsbof.com/kinosemja/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinosemja.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinosemja-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinosemja-hd-orig.png" tvg-rec="7",Киносемья HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinosemja-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinosemja-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="http://s06.wsbof.com:8080/streams/kinosvidanije.png" tvg-rec="7",Киносвидание
-#EXTGRP:Кино
-http://s06.wsbof.com/kinosvidanije/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinosvidanije.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinosvidanije-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinosvidanije-hd-orig.png" tvg-rec="7",Киносвидание HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinosvidanije-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinosvidanije-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="http://s06.wsbof.com:8080/streams/mnogo-tv.png" tvg-rec="7",Киносерия
-#EXTGRP:Кино
-http://s06.wsbof.com/mnogo-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mnogo-tv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mnogo-tv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/mnogo-tv-hd-orig.png" tvg-rec="7",Киносерия HD
-#EXTGRP:Кино
-http://s06.wsbof.com/mnogo-tv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mnogo-tv-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="http://s06.wsbof.com:8080/streams/kinopokaz.png" tvg-rec="7",Кинопоказ
-#EXTGRP:Кино
-http://s06.wsbof.com/kinopokaz/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinopokaz.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinopokaz-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinopokaz-hd-orig.png" tvg-rec="7",Кинопоказ HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinopokaz-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinopokaz-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="blokbaster-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/blokbaster-hd-orig.png" tvg-rec="7",Блокбастер HD
-#EXTGRP:Кино
-http://s06.wsbof.com/blokbaster-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/blokbaster-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="boeviki-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/boeviki-hd-orig.png" tvg-rec="7",Боевики HD
-#EXTGRP:Кино
-http://s06.wsbof.com/boeviki-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/boeviki-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nash-kinopokaz-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nash-kinopokaz-hd-orig.png" tvg-rec="7",Наш Кинопоказ HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nash-kinopokaz-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nash-kinopokaz-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Душевное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nash-kinoroman-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nash-kinoroman-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nash-detektiv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nash-detektiv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nash-detektiv-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nashe-lubimoe-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nashe-lubimoe-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vip-premiere-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/vip-premiere-hd-orig.png" tvg-rec="7",Viju+ premiere HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vip-premiere-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vip-premiere-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vip-megahit-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/vip-megahit-hd-orig.png" tvg-rec="7",Viju+ megahit HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vip-megahit-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vip-megahit-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vip-comedy-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/vip-comedy-hd-orig.png" tvg-rec="7",Viju+ comedy HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vip-comedy-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vip-comedy-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/vip-serial-hd-orig.png" tvg-rec="7",Viju+ serial HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vip-serial-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vip-serial-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000.png" tvg-rec="7",Viju TV1000
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-hd-orig.png" tvg-rec="7",Viju TV1000 HD
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-action.png" tvg-rec="7",Viju TV1000 action
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-action/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-action.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-action-hd-orig.png" tvg-rec="7",Viju TV1000 action HD
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-action-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-action-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-ru-kino.png" tvg-rec="7",Viju TV1000 русское
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-russkoje/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-russkoje.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-russkoje-hd.png" tvg-rec="7",Viju TV1000 русское HD
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-russkoje-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-russkoje-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viju-tv1000-nowella-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/viju-tv1000-nowella-hd-orig.png" tvg-rec="7",Viju TV1000 новелла HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viju-tv1000-nowella-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viju-tv1000-nowella-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viasat-kino-action-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-action-hd.png" tvg-rec="7",Viasat Kino Action HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viasat-kino-action-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-kino-action-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viasat-kino-megahit-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-megahit-hd.png" tvg-rec="7",Viasat Kino Megahit HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viasat-kino-megahit-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-kino-megahit-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viasat-kino-comedy-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-comedy-hd.png" tvg-rec="7",Viasat Kino Comedy HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viasat-kino-comedy-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-kino-comedy-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-world-kino.png" tvg-rec="7",Viasat Kino World
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-world-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-world-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-world-kino-hd.png" tvg-rec="7",Viasat Kino World HD
-#EXTGRP:Кино
-http://s06.wsbof.com/tv1000-world-kino-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv1000-world-kino-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viasat-kino-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-hd.png" tvg-rec="7",Viasat Kino HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viasat-kino-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-kino-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="viasat-serial-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-serial-hd.png" tvg-rec="7",Viasat Serial HD
-#EXTGRP:Кино
-http://s06.wsbof.com/viasat-serial-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-serial-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mgm-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mgm-hd.png" tvg-rec="7",Hollywood HD
-#EXTGRP:Кино
-http://s06.wsbof.com/mgm-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mgm-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="http://s06.wsbof.com:8080/streams/cinema.png" tvg-rec="7",Cinema
-#EXTGRP:Кино
-http://s06.wsbof.com/cinema/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cinema.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="cinema-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/cinema-hd-orig.png" tvg-rec="7",Cinema HD
-#EXTGRP:Кино
-http://s06.wsbof.com/cinema-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cinema-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="http://s06.wsbof.com:8080/streams/kino-tv.png" tvg-rec="7",Кино ТВ
-#EXTGRP:Кино
-http://s06.wsbof.com/kino-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kino-tv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kino-tv-hd-orig.png" tvg-rec="7",Кино ТВ HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kino-tv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kino-tv-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinojam1-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kinojam1-hd.png" tvg-rec="7",Kinojam 1 HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinojam1-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinojam1-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinojam2-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kinojam2-hd.png" tvg-rec="7",Kinojam 2 HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinojam2-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinojam2-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="family-jam-hd" tvg-logo="http://s06.wsbof.com:8080/streams/family-jam-hd.png" tvg-rec="7",Family Jam HD
-#EXTGRP:Кино
-http://s06.wsbof.com/family-jam-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/family-jam-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="detective-jam-hd" tvg-logo="http://s06.wsbof.com:8080/streams/detective-jam-hd.png" tvg-rec="7",Detective Jam HD
-#EXTGRP:Кино
-http://s06.wsbof.com/detective-jam-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/detective-jam-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinoliving-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kinoliving-hd.png" tvg-rec="7",KinoLiving HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinoliving-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinoliving-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kion-hit-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kion-hit-hd.png" tvg-rec="7",KION Хит HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kion-hit-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kion-hit-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="start-world" tvg-logo="http://s06.wsbof.com:8080/streams/start-world.png" tvg-rec="7",Start World
-#EXTGRP:Кино
-http://s06.wsbof.com/start-world/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/start-world.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="start-world-hd" tvg-logo="http://s06.wsbof.com:8080/streams/start-world-hd.png" tvg-rec="7",Start World HD
-#EXTGRP:Кино
-http://s06.wsbof.com/start-world-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/start-world-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="start-air" tvg-logo="http://s06.wsbof.com:8080/streams/start-air.png" tvg-rec="7",Start Air
-#EXTGRP:Кино
-http://s06.wsbof.com/start-air/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/start-air.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="start-air-hd" tvg-logo="http://s06.wsbof.com:8080/streams/start-air-hd.png" tvg-rec="7",Start Air HD
-#EXTGRP:Кино
-http://s06.wsbof.com/start-air-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/start-air-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="plan-b" tvg-logo="http://s06.wsbof.com:8080/streams/plan-b.png" tvg-rec="7",Plan B
-#EXTGRP:Кино
-http://s06.wsbof.com/plan-b/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/plan-b.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="plan-b-hd" tvg-logo="http://s06.wsbof.com:8080/streams/plan-b-hd.png" tvg-rec="7",Plan B HD
-#EXTGRP:Кино
-http://s06.wsbof.com/plan-b-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/plan-b-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="legenda-hd" tvg-logo="http://s06.wsbof.com:8080/streams/legenda-hd.png" tvg-rec="7",Легенда HD
-#EXTGRP:Кино
-http://s06.wsbof.com/legenda-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/legenda-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="4ever-cinema-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/4ever-cinema-ua-hd.png" tvg-rec="7",4ever Cinema HD
-#EXTGRP:Кино
-http://s06.wsbof.com/4ever-cinema-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/4ever-cinema-ua-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="4ever-drama-hd" tvg-logo="http://s06.wsbof.com:8080/streams/4ever-drama-hd.png" tvg-rec="7",4ever Drama HD
-#EXTGRP:Кино
-http://s06.wsbof.com/4ever-drama-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/4ever-drama-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="4ever-theater-hd" tvg-logo="http://s06.wsbof.com:8080/streams/4ever-theater-hd.png" tvg-rec="7",4ever Theater HD
-#EXTGRP:Кино
-http://s06.wsbof.com/4ever-theater-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/4ever-theater-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinokult-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kinokult-hd.png" tvg-rec="7",КиноКульт HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinokult-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinokult-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kineko-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kineko-hd.png" tvg-rec="7",Кинеко HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kineko-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kineko-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="http://s06.wsbof.com:8080/streams/evrokino.png" tvg-rec="7",Еврокино
-#EXTGRP:Кино
-http://s06.wsbof.com/evrokino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evrokino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="evrokino-hd" tvg-logo="http://s06.wsbof.com:8080/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
-#EXTGRP:Кино
-http://s06.wsbof.com/evrokino-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evrokino-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="flix-snip" tvg-logo="http://s06.wsbof.com:8080/streams/flix-snip.png" tvg-rec="7",Flix Snip
-#EXTGRP:Кино
-http://s06.wsbof.com/flix-snip/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/flix-snip.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="flix-snip-hd" tvg-logo="http://s06.wsbof.com:8080/streams/flix-snip-hd.png" tvg-rec="7",Flix Snip HD
-#EXTGRP:Кино
-http://s06.wsbof.com/flix-snip-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/flix-snip-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="http://s06.wsbof.com:8080/streams/egoist-tv.png" tvg-rec="7",SHOT TV
-#EXTGRP:Кино
-http://s06.wsbof.com/egoist-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/egoist-tv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="egoist-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/egoist-tv-hd.png" tvg-rec="7",SHOT TV HD
-#EXTGRP:Кино
-http://s06.wsbof.com/egoist-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/egoist-tv-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vhska-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/vhska-hd-orig.png" tvg-rec="7",VHS-ка HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vhska-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vhska-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="vhs-serial-hd" tvg-logo="http://s06.wsbof.com:8080/streams/vhs-serial-hd.png" tvg-rec="7",VHS Сериал HD
-#EXTGRP:Кино
-http://s06.wsbof.com/vhs-serial-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vhs-serial-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://s06.wsbof.com:8080/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
-#EXTGRP:Кино
-http://s06.wsbof.com/muzhskoe-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muzhskoe-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/muzhskoe-kino-hd-orig.png" tvg-rec="7",Мужское кино HD
-#EXTGRP:Кино
-http://s06.wsbof.com/muzhskoe-kino-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muzhskoe-kino-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nashe-muzshkoe-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-muzshkoe-hd-orig.png" tvg-rec="7",Наше Мужское HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nashe-muzshkoe-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nashe-muzshkoe-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="trash-hd" tvg-logo="http://s06.wsbof.com:8080/streams/trash-hd.png" tvg-rec="7",Trash HD
-#EXTGRP:Кино
-http://s06.wsbof.com/trash-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/trash-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="http://s06.wsbof.com:8080/streams/strashnoe-hd.png" tvg-rec="7",Страшное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/strashnoe-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/strashnoe-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="shokiruschee-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/shokiruschee-hd-orig.png" tvg-rec="7",Шокирующее HD
-#EXTGRP:Кино
-http://s06.wsbof.com/shokiruschee-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/shokiruschee-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinouzhas-hd-orig.png" tvg-rec="7",Киноужас HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinouzhas-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinouzhas-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="uzhasy-hd" tvg-logo="http://s06.wsbof.com:8080/streams/uzhasy-hd.png" tvg-rec="7",Ужасы HD
-#EXTGRP:Кино
-http://s06.wsbof.com/uzhasy-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/uzhasy-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="Scream" tvg-logo="http://s06.wsbof.com:8080/streams/Scream.png" tvg-rec="7",Scream
-#EXTGRP:Кино
-http://s06.wsbof.com/Scream/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/Scream.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="scream-hd" tvg-logo="http://s06.wsbof.com:8080/streams/scream-hd.png" tvg-rec="7",Scream HD
-#EXTGRP:Кино
-http://s06.wsbof.com/scream-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/scream-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="http://s06.wsbof.com:8080/streams/hct.png" tvg-rec="7",НСТ
-#EXTGRP:Кино
-http://s06.wsbof.com/hct/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hct.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="http://s06.wsbof.com:8080/streams/russkaja-comedija.png" tvg-rec="7",Комедия
-#EXTGRP:Кино
-http://s06.wsbof.com/russkaja-comedija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkaja-comedija.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://s06.wsbof.com:8080/streams/kinokomedia.png" tvg-rec="7",Кинокомедия
-#EXTGRP:Кино
-http://s06.wsbof.com/kinokomedia/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinokomedia.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinokomedia-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kinokomedia-hd-orig.png" tvg-rec="7",Кинокомедия HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kinokomedia-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinokomedia-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="komedijnoe-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/komedijnoe-hd-orig.png" tvg-rec="7",Комедийное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/komedijnoe-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/komedijnoe-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="comedy-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/comedy-hd-orig.png" tvg-rec="7",Камеди HD
-#EXTGRP:Кино
-http://s06.wsbof.com/comedy-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/comedy-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium.png" tvg-rec="7",Amedia Premium
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-premium/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-premium.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-premium-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd-orig.png" tvg-rec="7",AMEDIA Premium HD
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-premium-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-premium-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit.png" tvg-rec="7",Amedia Hit
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-hit/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-hit.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-hit-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd-orig.png" tvg-rec="7",AMEDIA HIT HD
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-hit-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-hit-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia1" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-1.png" tvg-rec="7",A1
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia1/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia1.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia1-hd" tvg-logo="http://s06.wsbof.com:8080/streams/amedia1-hd.png" tvg-rec="7",A1 HD
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia1-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia1-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-2" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-2.png" tvg-rec="7",A2
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-2.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="amedia-2-hd" tvg-logo="http://s06.wsbof.com:8080/streams/amedia-2-hd.png" tvg-rec="7",A2 HD
-#EXTGRP:Кино
-http://s06.wsbof.com/amedia-2-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/amedia-2-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="fox" tvg-logo="http://s06.wsbof.com:8080/streams/fox.png" tvg-rec="7",FX
-#EXTGRP:Кино
-http://s06.wsbof.com/fox/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fox.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="fox-hd" tvg-logo="http://s06.wsbof.com:8080/streams/fox-hd.png" tvg-rec="7",FX HD
-#EXTGRP:Кино
-http://s06.wsbof.com/fox-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fox-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="fox-life" tvg-logo="http://s06.wsbof.com:8080/streams/fox-life.png" tvg-rec="7",FX Life
-#EXTGRP:Кино
-http://s06.wsbof.com/fox-life/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fox-life.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="fox-life-hd" tvg-logo="http://s06.wsbof.com:8080/streams/fox-life-hd.png" tvg-rec="7",FX Life HD
-#EXTGRP:Кино
-http://s06.wsbof.com/fox-life-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fox-life-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="set" tvg-logo="http://s06.wsbof.com:8080/streams/set.png" tvg-rec="7",Red
-#EXTGRP:Кино
-http://s06.wsbof.com/set/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/set.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="set-hd" tvg-logo="http://s06.wsbof.com:8080/streams/set-hd.png" tvg-rec="7",Red HD
-#EXTGRP:Кино
-http://s06.wsbof.com/set-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/set-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="sci-fi" tvg-logo="http://s06.wsbof.com:8080/streams/sony-sci-fi.png" tvg-rec="7",Sci-Fi
-#EXTGRP:Кино
-http://s06.wsbof.com/sci-fi/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sci-fi.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="sci-fi-hd" tvg-logo="http://s06.wsbof.com:8080/streams/sci-fi-hd.png" tvg-rec="7",Sci-Fi HD
-#EXTGRP:Кино
-http://s06.wsbof.com/sci-fi-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sci-fi-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="suspense-hd" tvg-logo="http://s06.wsbof.com:8080/streams/suspense-hd.png" tvg-rec="7",Suspense HD
-#EXTGRP:Кино
-http://s06.wsbof.com/suspense-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/suspense-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="black" tvg-logo="http://s06.wsbof.com:8080/streams/sony-turbo.png" tvg-rec="7",Black
-#EXTGRP:Кино
-http://s06.wsbof.com/black/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/black.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="black-hd" tvg-logo="http://s06.wsbof.com:8080/streams/black-hd.png" tvg-rec="7",Black HD
-#EXTGRP:Кино
-http://s06.wsbof.com/black-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/black-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="http://s06.wsbof.com:8080/streams/tv-xxi.png" tvg-rec="7",ТВ21
-#EXTGRP:Кино
-http://s06.wsbof.com/tv-xxi/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv-xxi.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mosfilm" tvg-logo="http://s06.wsbof.com:8080/streams/mosfilm.png" tvg-rec="7",Мосфильм
-#EXTGRP:Кино
-http://s06.wsbof.com/mosfilm/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mosfilm.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mosfilm-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/mosfilm-hd-orig.png" tvg-rec="7",Мосфильм HD
-#EXTGRP:Кино
-http://s06.wsbof.com/mosfilm-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mosfilm-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="http://s06.wsbof.com:8080/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
-#EXTGRP:Кино
-http://s06.wsbof.com/lubimoe-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/lubimoe-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino-hd" tvg-logo="http://s06.wsbof.com:8080/streams/lubimoe-kino-hd.png" tvg-rec="7",Любимое Кино HD
-#EXTGRP:Кино
-http://s06.wsbof.com/lubimoe-kino-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/lubimoe-kino-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="sovetskaya-kinoclassica-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/sovetskaya-kinoclassica-hd-orig.png" tvg-rec="7",Советская Киноклассика HD
-#EXTGRP:Кино
-http://s06.wsbof.com/sovetskaya-kinoclassica-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sovetskaya-kinoclassica-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="http://s06.wsbof.com:8080/streams/rodnoje_kino.png" tvg-rec="7",Родное кино
-#EXTGRP:Кино
-http://s06.wsbof.com/rodnoje_kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rodnoje_kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="patriot" tvg-logo="http://s06.wsbof.com:8080/streams/patriot.png" tvg-rec="7",Патриот
-#EXTGRP:Кино
-http://s06.wsbof.com/patriot/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/patriot.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="http://s06.wsbof.com:8080/streams/pobeda.png" tvg-rec="7",Победа
-#EXTGRP:Кино
-http://s06.wsbof.com/pobeda/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pobeda.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="pobeda-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/pobeda-hd-orig.png" tvg-rec="7",Победа HD
-#EXTGRP:Кино
-http://s06.wsbof.com/pobeda-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pobeda-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="den-pobedy-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/den-pobedy-hd-orig.png" tvg-rec="7",День Победы HD
-#EXTGRP:Кино
-http://s06.wsbof.com/den-pobedy-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/den-pobedy-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nashe-nasledie-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-nasledie-hd.png" tvg-rec="7",Наше наследие HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nashe-nasledie-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nashe-nasledie-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-novoe-kino.png" tvg-rec="7",Наше новое кино
-#EXTGRP:Кино
-http://s06.wsbof.com/nashe-novoe-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nashe-novoe-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nashe-novoe-kino-hd-orig.png" tvg-rec="7",Наше новое кино HD
-#EXTGRP:Кино
-http://s06.wsbof.com/nashe-novoe-kino-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nashe-novoe-kino-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-bestseller.png" tvg-rec="7",Русский Бестселлер
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-bestseller/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-bestseller.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="telekafe" tvg-logo="http://s06.wsbof.com:8080/streams/telekafe.png" tvg-rec="7",Телекафе
-#EXTGRP:Кино
-http://s06.wsbof.com/telekafe/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/telekafe.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="http://s06.wsbof.com:8080/streams/dom-kino.png" tvg-rec="7",Дом Кино
-#EXTGRP:Кино
-http://s06.wsbof.com/dom-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dom-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="dom-kino-premium-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/dom-kino-premium-hd-orig.png" tvg-rec="7",Дом Кино Премиум HD
-#EXTGRP:Кино
-http://s06.wsbof.com/dom-kino-premium-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dom-kino-premium-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-roman" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-roman.png" tvg-rec="7",Русский Роман
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-roman/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-roman.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-roman-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-roman-hd-orig.png" tvg-rec="7",Русский Роман HD
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-roman-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-roman-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-detektiv.png" tvg-rec="7",Русский Детектив
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-detektiv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-detektiv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-iluzion.png" tvg-rec="7",Русский Иллюзион
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-iluzion/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-iluzion.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion-hd" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-iluzion-hd.png" tvg-rec="7",Русский Иллюзион HD
-#EXTGRP:Кино
-http://s06.wsbof.com/russkij-iluzion-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-iluzion-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="iluzion-plus" tvg-logo="http://s06.wsbof.com:8080/streams/iluzion-plus.png" tvg-rec="7",Иллюзион +
-#EXTGRP:Кино
-http://s06.wsbof.com/iluzion-plus/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/iluzion-plus.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="iluzion-plus-hd" tvg-logo="http://s06.wsbof.com:8080/streams/iluzion-plus-hd.png" tvg-rec="7",Иллюзион + HD
-#EXTGRP:Кино
-http://s06.wsbof.com/iluzion-plus-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/iluzion-plus-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kriminalnoe-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/kriminalnoe-hd-orig.png" tvg-rec="7",Криминальное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/kriminalnoe-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kriminalnoe-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="http://s06.wsbof.com:8080/streams/feniks-plus-kino.png" tvg-rec="7",Феникс+Кино
-#EXTGRP:Кино
-http://s06.wsbof.com/feniks-plus-kino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/feniks-plus-kino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino-hd" tvg-logo="http://s06.wsbof.com:8080/streams/feniks-plus-kino-hd.png" tvg-rec="7",Феникс+Кино HD
-#EXTGRP:Кино
-http://s06.wsbof.com/feniks-plus-kino-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/feniks-plus-kino-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mir-seriala" tvg-logo="http://s06.wsbof.com:8080/streams/mir-seriala.png" tvg-rec="7",Мир Сериала
-#EXTGRP:Кино
-http://s06.wsbof.com/mir-seriala/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-seriala.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="mir-seriala-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mir-seriala-hd.png" tvg-rec="7",Мир Сериала HD
-#EXTGRP:Кино
-http://s06.wsbof.com/mir-seriala-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-seriala-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="romantichnoe-hd" tvg-logo="http://s06.wsbof.com:8080/streams/romantichnoe-hd.png" tvg-rec="7",Романтичное HD
-#EXTGRP:Кино
-http://s06.wsbof.com/romantichnoe-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/romantichnoe-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="pro-lubov-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/pro-lubov-hd-orig.png" tvg-rec="7",Про Любовь HD
-#EXTGRP:Кино
-http://s06.wsbof.com/pro-lubov-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pro-lubov-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="love-story-hd" tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png" tvg-rec="7",Лавстори HD
-#EXTGRP:Кино
-http://s06.wsbof.com/love-story-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/love-story-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="romance-hd" tvg-logo="http://s06.wsbof.com:8080/streams/romance-hd.png" tvg-rec="7",Romance HD
-#EXTGRP:Кино
-http://s06.wsbof.com/romance-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/romance-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="okino" tvg-logo="http://s06.wsbof.com:8080/streams/okino.png" tvg-rec="7",О!Кино
-#EXTGRP:Кино
-http://s06.wsbof.com/okino/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/okino.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="ntv-hit" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-hit.png" tvg-rec="7",НТВ Хит
-#EXTGRP:Кино
-http://s06.wsbof.com/ntv-hit/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-hit.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="ntv-hit-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-hit-hd-orig.png" tvg-rec="7",НТВ Хит HD
-#EXTGRP:Кино
-http://s06.wsbof.com/ntv-hit-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-hit-hd-orig.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="ntv-serial" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-serial.png" tvg-rec="7",НТВ Сериал
-#EXTGRP:Кино
-http://s06.wsbof.com/ntv-serial/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-serial.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="ntv-serial-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-serial-hd.png" tvg-rec="7",НТВ Сериал HD
-#EXTGRP:Кино
-http://s06.wsbof.com/ntv-serial-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-serial-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="http://s06.wsbof.com:8080/streams/nostalgia.png" tvg-rec="7",Ностальгия
-#EXTGRP:Кино
-http://s06.wsbof.com/nostalgia/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nostalgia.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="http://s06.wsbof.com:8080/streams/retro.png" tvg-rec="7",Ретро ТВ
-#EXTGRP:Кино
-http://s06.wsbof.com/retro/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/retro.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="sapfir-hd" tvg-logo="http://s06.wsbof.com:8080/streams/sapfir-hd.png" tvg-rec="7",Сапфир HD
-#EXTGRP:Кино
-http://s06.wsbof.com/sapfir-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sapfir-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="dorama-hd" tvg-logo="http://s06.wsbof.com:8080/streams/dorama-hd.png" tvg-rec="7",Дорама HD
-#EXTGRP:Кино
-http://s06.wsbof.com/dorama-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dorama-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="timeless-dizi-channel-hd" tvg-logo="http://s06.wsbof.com:8080/streams/timeless-dizi-channel-hd.png" tvg-rec="7",Timeless Dizi Channel HD
-#EXTGRP:Кино
-http://s06.wsbof.com/timeless-dizi-channel-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/timeless-dizi-channel-hd.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="bollywood" tvg-logo="http://s06.wsbof.com:8080/streams/bollywood.png" tvg-rec="7",Bollywood HD
-#EXTGRP:Кино
-http://s06.wsbof.com/bollywood/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bollywood.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="http://s06.wsbof.com:8080/streams/indija-tv.png" tvg-rec="7",Индийское Кино
-#EXTGRP:Кино
-http://s06.wsbof.com/indija-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/indija-tv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="http://s06.wsbof.com:8080/streams/zee-tv.png" tvg-rec="7",Индия ТВ
-#EXTGRP:Кино
-http://s06.wsbof.com/zee-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zee-tv.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="zee-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zee-tv-hd.png" tvg-rec="7",Индия ТВ HD
-#EXTGRP:Кино
-http://s06.wsbof.com/zee-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zee-tv-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="nash-futbol" tvg-logo="http://s06.wsbof.com:8080/streams/nash-futbol.png" tvg-rec="7",Матч Премьер
-#EXTGRP:Спорт
-http://s06.wsbof.com/nash-futbol/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nash-futbol.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="nash-futbol-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-premier-hd-orig.png" tvg-rec="7",Матч Премьер HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/nash-futbol-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nash-futbol-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="futbol" tvg-logo="http://s06.wsbof.com:8080/streams/futbol.png" tvg-rec="7",Футбол
-#EXTGRP:Спорт
-http://s06.wsbof.com/futbol/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/futbol.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="futbol-hd" tvg-logo="http://s06.wsbof.com:8080/streams/futbol-hd.png" tvg-rec="7",Футбол HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/futbol-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/futbol-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-1.png" tvg-rec="7",МАТЧ! Футбол 1
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-1/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-1.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-1-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 1 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-1-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-1-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-2.png" tvg-rec="7",МАТЧ! Футбол 2
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-2.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-2-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 2 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-2-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-2-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-3.png" tvg-rec="7",МАТЧ! Футбол 3
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-3/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-3.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol-3-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 3 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-futbol-3-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-futbol-3-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://s06.wsbof.com:8080/streams/match.png" tvg-rec="7",Матч ТВ
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-tv.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-tv-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-tv-hd-orig.png" tvg-rec="7",Матч ТВ HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-tv-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-tv-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://s06.wsbof.com:8080/streams/match-igra.png" tvg-rec="7",Матч! Игра
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-igra/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-igra.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-igra-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-igra-hd-orig.png" tvg-rec="7",Матч! Игра HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-igra-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-igra-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://s06.wsbof.com:8080/streams/match-arena.png" tvg-rec="7",Матч! Арена
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-arena/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-arena.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-arena-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/match-arena-hd-orig.png" tvg-rec="7",Матч! Арена HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-arena-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-arena-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-strana" tvg-logo="http://s06.wsbof.com:8080/streams/match-nash-sport.png" tvg-rec="7",Матч! Страна
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-strana/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-strana.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-strana-hd" tvg-logo="http://s06.wsbof.com:8080/streams/match-strana-hd.png" tvg-rec="7",Матч! Страна HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-strana-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-strana-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="start-hd" tvg-logo="http://s06.wsbof.com:8080/streams/start-hd.png" tvg-rec="7",Старт HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/start-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/start-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="khl-tv" tvg-logo="http://s06.wsbof.com:8080/streams/khl-tv.png" tvg-rec="7",KHL
-#EXTGRP:Спорт
-http://s06.wsbof.com/khl-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/khl-tv.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="khl-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/khl-tv-hd.png" tvg-rec="7",KHL HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/khl-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/khl-tv-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="khl-prime-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/khl-prime-hd-orig.png" tvg-rec="7",KHL Prime HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/khl-prime-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/khl-prime-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="hokkejnyj-hd" tvg-logo="http://s06.wsbof.com:8080/streams/hokkejnyj-hd.png" tvg-rec="7",Хоккей ТВ HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/hokkejnyj-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hokkejnyj-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="futbolnyj-hd" tvg-logo="http://s06.wsbof.com:8080/streams/futbolnyj-hd.png" tvg-rec="7",Мяч HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/futbolnyj-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/futbolnyj-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="sportivnyj-hd" tvg-logo="http://s06.wsbof.com:8080/streams/sportivnyj-hd.png" tvg-rec="7",Спорт HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/sportivnyj-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sportivnyj-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="nhl-network-hd-us" tvg-logo="http://s06.wsbof.com:8080/streams/nhl-network-hd-us.png" tvg-rec="7",NHL Network HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/nhl-network-hd-us/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nhl-network-hd-us.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="nba-us-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nba-us-hd.png" tvg-rec="7",NBA TV HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/nba-us-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nba-us-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-sport.png" tvg-rec="7",Viju+ sport
-#EXTGRP:Спорт
-http://s06.wsbof.com/viasat-sport/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-sport.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="viasat-sport-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-sport-hd.png" tvg-rec="7",Viju+ sport HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/viasat-sport-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-sport-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="eurosport" tvg-logo="http://s06.wsbof.com:8080/streams/evrosport.png" tvg-rec="7",Eurosport 1
-#EXTGRP:Спорт
-http://s06.wsbof.com/eurosport/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eurosport.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="eurosport-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/eurosport-hd-orig.png" tvg-rec="7",Eurosport 1 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/eurosport-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eurosport-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="eurosport2" tvg-logo="http://s06.wsbof.com:8080/streams/evrosport-2.png" tvg-rec="7",Eurosport 2
-#EXTGRP:Спорт
-http://s06.wsbof.com/eurosport2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eurosport2.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="eurosport2-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/eurosport2-hd-orig.png" tvg-rec="7",Eurosport 2 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/eurosport2-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eurosport2-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-eurasia.png" tvg-rec="7",Setanta Sports 1 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sport-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sport-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-plus-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-eurasia-plus.png" tvg-rec="7",Setanta Sports 2 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sport-plus-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sport-plus-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sports-baltic-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sports-baltic-hd.png" tvg-rec="7",Setanta Sports Baltic 1 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sports-baltic-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sports-baltic-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sports2-baltic-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sports2-baltic-hd.png" tvg-rec="7",Setanta Sports Baltic 2 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sports2-baltic-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sports2-baltic-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-ua-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-ua-hd-orig.png" tvg-rec="7",Setanta Sports UA HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sport-ua-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sport-ua-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-plus-ua-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd-orig.png" tvg-rec="7",Setanta Sports + UA HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sport-plus-ua-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sport-plus-ua-hd-orig.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-premium-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-premium-ua-hd.png" tvg-rec="7",Setanta Sport Premium HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-sport-premium-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-sport-premium-ua-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="okko-sport-hd" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport-hd.png" tvg-rec="7",ОККО Спорт HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/okko-sport-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/okko-sport-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="okko-sport2-hd" tvg-logo="http://s06.wsbof.com:8080/streams/okko-sport2-hd.png" tvg-rec="7",ОККО Прайм Cпорт HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/okko-sport2-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/okko-sport2-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="okko-futbol-hd" tvg-logo="http://s06.wsbof.com:8080/streams/okko-futbol-hd.png" tvg-rec="7",ОККО Футбол HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/okko-futbol-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/okko-futbol-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="megogo-sport-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png" tvg-rec="7",MEGOGO Спорт HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/megogo-sport-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/megogo-sport-ua-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="upl1-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/upl1-ua-hd.png" tvg-rec="7",UPL 1 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/upl1-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/upl1-ua-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="setanta-qazaqstan-hd" tvg-logo="http://s06.wsbof.com:8080/streams/setanta-qazaqstan-hd.png" tvg-rec="7",Setanta Qazaqstan HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/setanta-qazaqstan-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/setanta-qazaqstan-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="qsport-hd" tvg-logo="http://s06.wsbof.com:8080/streams/qsport-hd.png" tvg-rec="7",QSport HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/qsport-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/qsport-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="http://s06.wsbof.com:8080/streams/sport1-ua.png" tvg-rec="7",Спорт 1
-#EXTGRP:Спорт
-http://s06.wsbof.com/sport1-ua/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sport1-ua.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="http://s06.wsbof.com:8080/streams/sport2-ua.png" tvg-rec="7",Спорт 2
-#EXTGRP:Спорт
-http://s06.wsbof.com/sport2-ua/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sport2-ua.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="m1-global" tvg-logo="http://s06.wsbof.com:8080/streams/m1-global-tv.png" tvg-rec="7",MMA-TV
-#EXTGRP:Спорт
-http://s06.wsbof.com/m1-global/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/m1-global.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="m1-global-hd" tvg-logo="http://s06.wsbof.com:8080/streams/m1-global-hd.png" tvg-rec="7",MMA-TV HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/m1-global-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/m1-global-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="ufc-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ufc-hd.png" tvg-rec="7",UDAR HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/ufc-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ufc-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-boec" tvg-logo="http://s06.wsbof.com:8080/streams/match-boec.png" tvg-rec="7",МАТЧ! Боец
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-boec/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-boec.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="match-boec-hd" tvg-logo="http://s06.wsbof.com:8080/streams/match-boec-hd.png" tvg-rec="7",Матч! Боец HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/match-boec-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-boec-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="http://s06.wsbof.com:8080/streams/tochka-otryva.png" tvg-rec="7",Точка Отрыва
-#EXTGRP:Спорт
-http://s06.wsbof.com/tochka-otryva/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tochka-otryva.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="russkij-extrim-hd" tvg-logo="http://s06.wsbof.com:8080/streams/russkij-extrim-hd.png" tvg-rec="7",Русский Экстрим HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/russkij-extrim-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russkij-extrim-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="http://s06.wsbof.com:8080/streams/extreme-sports.png" tvg-rec="7",Extreme Sports
-#EXTGRP:Спорт
-http://s06.wsbof.com/extreme-sports/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/extreme-sports.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="konnyj-mir-hd" tvg-logo="http://s06.wsbof.com:8080/streams/konnyj-mir-hd.png" tvg-rec="7",Конный Мир HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/konnyj-mir-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/konnyj-mir-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="auto-plus-hd" tvg-logo="http://s06.wsbof.com:8080/streams/auto-plus-hd.png" tvg-rec="7",Авто Плюс HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/auto-plus-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/auto-plus-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="avto-24-hd" tvg-logo="http://s06.wsbof.com:8080/streams/avto-24-hd.png" tvg-rec="7",Авто 24 HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/avto-24-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/avto-24-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="drive-hd" tvg-logo="http://s06.wsbof.com:8080/streams/drive-hd.png" tvg-rec="7",Драйв HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/drive-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/drive-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-avto-hd-ua.png" tvg-rec="7",Первый Автомобильный HD
-#EXTGRP:Спорт
-http://s06.wsbof.com/pervyj-avto-hd-ua/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-avto-hd-ua.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="http://s06.wsbof.com:8080/streams/detskij-mir.png" tvg-rec="7",Детский мир
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/detskij-mir/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/detskij-mir.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir-hd" tvg-logo="http://s06.wsbof.com:8080/streams/detskij-mir-hd.png" tvg-rec="7",Детский Мир HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/detskij-mir-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/detskij-mir-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="karusel" tvg-logo="http://s06.wsbof.com:8080/streams/karusel.png" tvg-rec="7",Карусель
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/karusel/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/karusel.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="karusel-hd" tvg-logo="http://s06.wsbof.com:8080/streams/karusel-hd.png" tvg-rec="7",Карусель HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/karusel-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/karusel-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka" tvg-logo="http://s06.wsbof.com:8080/streams/gosti-skazka.png" tvg-rec="7",В гостях у сказки
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/gosti-skazka/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/gosti-skazka.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka-hd" tvg-logo="http://s06.wsbof.com:8080/streams/gosti-skazka-hd.webp" tvg-rec="7",В гостях у сказки HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/gosti-skazka-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/gosti-skazka-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="chizik-hd" tvg-logo="http://s06.wsbof.com:8080/streams/chizik-hd.png" tvg-rec="7",Чижик HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/chizik-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/chizik-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="tararam-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tararam-hd.png" tvg-rec="7",Тарарам! HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/tararam-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tararam-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="mult" tvg-logo="http://s06.wsbof.com:8080/streams/mult.png" tvg-rec="7",Мульт
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/mult/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mult.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="mult-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tlum-hd.png" tvg-rec="7",Мульт HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/mult-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mult-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="kinomult" tvg-logo="http://s06.wsbof.com:8080/streams/kinomult.png" tvg-rec="7",КиноМульт
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/kinomult/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kinomult.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="http://s06.wsbof.com:8080/streams/multimania.png" tvg-rec="7",Мультиландия
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/multimania/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/multimania.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="multimania-hd" tvg-logo="http://s06.wsbof.com:8080/streams/multimania-hd.png" tvg-rec="7",Мультиландия HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/multimania-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/multimania-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="strana" tvg-logo="http://s06.wsbof.com:8080/streams/strana.png" tvg-rec="7",Мультимузыка
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/strana/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/strana.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids" tvg-logo="http://s06.wsbof.com:8080/streams/ctc-kids.png" tvg-rec="7",СТС Kids
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ctc-kids/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ctc-kids.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ctc-kids-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ctc-kids-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ginger-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ginger-hd.png" tvg-rec="7",Капитан Фантастика HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ginger-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ginger-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="super-geroi-hd" tvg-logo="http://s06.wsbof.com:8080/streams/super-geroi-hd.png" tvg-rec="7",СуперГерои HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/super-geroi-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/super-geroi-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="minijam-hd" tvg-logo="http://s06.wsbof.com:8080/streams/minijam-hd.png" tvg-rec="7",MiniJam HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/minijam-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/minijam-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij" tvg-logo="http://s06.wsbof.com:8080/streams/ryzhij.png" tvg-rec="7",Рыжий
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ryzhij/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ryzhij.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="detksij" tvg-logo="http://s06.wsbof.com:8080/streams/detksij.png" tvg-rec="7",Уникум
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/detksij/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/detksij.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-hd" tvg-logo="http://s06.wsbof.com:8080/streams/detskij-hd.png" tvg-rec="7",Уникум HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/detskij-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/detskij-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ducktv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ducktv-hd.png" tvg-rec="7",Ducktv HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ducktv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ducktv-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ljova-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ljova-hd.png" tvg-rec="7",Лёва HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ljova-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ljova-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="solnce" tvg-logo="http://s06.wsbof.com:8080/streams/solnce.png" tvg-rec="7",Солнце
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/solnce/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/solnce.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o" tvg-logo="http://s06.wsbof.com:8080/streams/kanal-o.png" tvg-rec="7",О!
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/kanal-o/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kanal-o.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon" tvg-logo="http://s06.wsbof.com:8080/streams/nickelodeon.png" tvg-rec="7",Nickelodeon
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/nickelodeon/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nickelodeon.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nickelodeon-hd.png" tvg-rec="7",Nickelodeon HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/nickelodeon-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nickelodeon-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="nicktoons-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nicktoons-hd.png" tvg-rec="7",Nick Toons HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/nicktoons-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nicktoons-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="http://s06.wsbof.com:8080/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/cartoon-network/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cartoon-network.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-classics" tvg-logo="http://s06.wsbof.com:8080/streams/cartoon-classics.png" tvg-rec="7",Cartoon Classics
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/cartoon-classics/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cartoon-classics.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="tip-top-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tip-top-hd.png" tvg-rec="7",ТипТоп HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/tip-top-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tip-top-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="cartoonito-hd" tvg-logo="http://s06.wsbof.com:8080/streams/cartoonito-hd.png" tvg-rec="7",Cartoonito HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/cartoonito-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/cartoonito-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr" tvg-logo="http://s06.wsbof.com:8080/streams/nickjr.png" tvg-rec="7",Nick Jr
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/nickjr/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nickjr.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="tiji" tvg-logo="http://s06.wsbof.com:8080/streams/tiji.png" tvg-rec="7",TiJi
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/tiji/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tiji.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="gulli" tvg-logo="http://s06.wsbof.com:8080/streams/gulli.png" tvg-rec="7",Gulli Girl
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/gulli/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/gulli.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="ani" tvg-logo="http://s06.wsbof.com:8080/streams/ani.png" tvg-rec="7",Ani
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/ani/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ani.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="2x2" tvg-logo="http://s06.wsbof.com:8080/streams/2x2.png" tvg-rec="7",2x2
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/2x2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/2x2.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="fan-hd" tvg-logo="http://s06.wsbof.com:8080/streams/fan-hd.png" tvg-rec="7",FAN HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/fan-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fan-hd.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/plus-plus-ua-hd.png" tvg-rec="7",ПлюсПлюс HD
-#EXTGRP:Мультфильмы
-http://s06.wsbof.com/plus-plus-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/plus-plus-ua-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo" tvg-logo="http://s06.wsbof.com:8080/streams/national-geographic.png" tvg-rec="7",National Geographic
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nat-geo/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nat-geo.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nat-geo-hd-orig.png" tvg-rec="7",National Geographic HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nat-geo-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nat-geo-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="discovery" tvg-logo="http://s06.wsbof.com:8080/streams/discovery.png" tvg-rec="7",Discovery Channel
-#EXTGRP:Познавательные
-http://s06.wsbof.com/discovery/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/discovery.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="discovery-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/discovery-hd-orig.png" tvg-rec="7",Discovery Channel HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/discovery-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/discovery-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="id-xtra" tvg-logo="http://s06.wsbof.com:8080/streams/id-xtra.png" tvg-rec="7",Investigation Discovery
-#EXTGRP:Познавательные
-http://s06.wsbof.com/id-xtra/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/id-xtra.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd" tvg-logo="http://s06.wsbof.com:8080/streams/id-xtra-hd.png" tvg-rec="7",Investigation Discovery HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/id-xtra-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/id-xtra-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="history-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/history-hd-orig.png" tvg-rec="7",History HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/history-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/history-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="h2-hd" tvg-logo="http://s06.wsbof.com:8080/streams/h2-hd.png" tvg-rec="7",History 2 HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/h2-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/h2-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-history.png" tvg-rec="7",Viju history
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-history/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-history.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-history-hd.png" tvg-rec="7",Viju history HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-history-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-history-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="tlc" tvg-logo="http://s06.wsbof.com:8080/streams/tlc.png" tvg-rec="7",TLC
-#EXTGRP:Познавательные
-http://s06.wsbof.com/tlc/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tlc.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="tlc-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/tlc-hd-orig.png" tvg-rec="7",TLC HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/tlc-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tlc-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="womens-magazine-hd" tvg-logo="http://s06.wsbof.com:8080/streams/womens-magazine-hd.png" tvg-rec="7",Womens Magazine HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/womens-magazine-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/womens-magazine-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="http://s06.wsbof.com:8080/streams/animal-planet.png" tvg-rec="7",Animal planet
-#EXTGRP:Познавательные
-http://s06.wsbof.com/animal-planet/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/animal-planet.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/animal-planet-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/animal-planet-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://s06.wsbof.com:8080/streams/nat-geo-wild.png" tvg-rec="7",Nat Geo Wild
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nat-geo-wild/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nat-geo-wild.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nat-geo-wild-hd-orig.png" tvg-rec="7",Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nat-geo-wild-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nat-geo-wild-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="love-nature-hd" tvg-logo="http://s06.wsbof.com:8080/streams/love-nature-hd.png" tvg-rec="7",Love Nature HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/love-nature-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/love-nature-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="animal-family-hd" tvg-logo="http://s06.wsbof.com:8080/streams/animal-family-hd.png" tvg-rec="7",В мире животных HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/animal-family-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/animal-family-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-nature.png" tvg-rec="7",Viju nature
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-nature/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-nature.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-nature-hd.png" tvg-rec="7",Viju nature HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-nature-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-nature-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd-test" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-history-hd-test.png" tvg-rec="7",Viju+ planet HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-history-hd-test/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-history-hd-test.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-explorer.png" tvg-rec="7",Viju explore
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-explore/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-explore.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-explore-hd.png" tvg-rec="7",Viju explore HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/viasat-explore-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/viasat-explore-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="http://s06.wsbof.com:8080/streams/moya-planeta.png" tvg-rec="7",Моя планета
-#EXTGRP:Познавательные
-http://s06.wsbof.com/moya-planeta/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/moya-planeta.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta-hd" tvg-logo="http://s06.wsbof.com:8080/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/moya-planeta-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/moya-planeta-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="morskoj-hd" tvg-logo="http://s06.wsbof.com:8080/streams/morskoj-hd.png" tvg-rec="7",Моя Стихия HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/morskoj-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/morskoj-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="http://s06.wsbof.com:8080/streams/zhivaya-planeta.png" tvg-rec="7",Живая Планета
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zhivaya-planeta/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhivaya-planeta.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivaja-priroda-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zhivaja-priroda-hd.png" tvg-rec="7",Живая природа HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zhivaja-priroda-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhivaja-priroda-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="terra-hd" tvg-logo="http://s06.wsbof.com:8080/streams/terra-hd.png" tvg-rec="7",Terra HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/terra-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/terra-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="big-planet-hd" tvg-logo="http://s06.wsbof.com:8080/streams/big-planet-hd.png" tvg-rec="7",Big Planet HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/big-planet-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/big-planet-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="http://s06.wsbof.com:8080/streams/ocean-tv.png" tvg-rec="7",Ocean-TV
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ocean-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ocean-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="http://s06.wsbof.com:8080/streams/zoopark.png" tvg-rec="7",Zooпарк
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zoopark/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zoopark.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="http://s06.wsbof.com:8080/streams/travel-channel.png" tvg-rec="7",Travel Channel
-#EXTGRP:Познавательные
-http://s06.wsbof.com/travel-channel/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/travel-channel.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-channel-hd" tvg-logo="http://s06.wsbof.com:8080/streams/travel-channel-hd.png" tvg-rec="7",Travel Channel HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/travel-channel-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/travel-channel-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="http://s06.wsbof.com:8080/streams/travel-adventure.png" tvg-rec="7",Travel+Adventure
-#EXTGRP:Познавательные
-http://s06.wsbof.com/travel-adventure/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/travel-adventure.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/travel-adventure-hd-orig.png" tvg-rec="7",Travel+Adventure HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/travel-adventure-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/travel-adventure-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="teletravel-hd" tvg-logo="http://s06.wsbof.com:8080/streams/teletravel-hd.png" tvg-rec="7",Приключения HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/teletravel-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/teletravel-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="the-explorers-hd" tvg-logo="http://s06.wsbof.com:8080/streams/the-explorers-hd.png" tvg-rec="7",The Explorers HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/the-explorers-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/the-explorers-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="epic-hd" tvg-logo="http://s06.wsbof.com:8080/streams/epic-hd.png" tvg-rec="7",Epic HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/epic-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/epic-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mir-vokrug-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mir-vokrug-hd.png" tvg-rec="7",Мир Вокруг HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/mir-vokrug-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-vokrug-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija" tvg-logo="http://s06.wsbof.com:8080/streams/teleputeshestvija.png" tvg-rec="7",Телепутешествия
-#EXTGRP:Познавательные
-http://s06.wsbof.com/teleputeshestvija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/teleputeshestvija.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista-hd" tvg-logo="http://s06.wsbof.com:8080/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/glazami-turista-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/glazami-turista-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="neizvestnaya-rossia-hd" tvg-logo="http://s06.wsbof.com:8080/streams/neizvestnaya-rossia-hd.png" tvg-rec="7",Неизвестная Россия HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/neizvestnaya-rossia-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/neizvestnaya-rossia-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="big-asia-hd" tvg-logo="http://s06.wsbof.com:8080/streams/big-asia-hd.png" tvg-rec="7",Большая Азия HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/big-asia-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/big-asia-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="rtg" tvg-logo="http://s06.wsbof.com:8080/streams/rtg-tv.png" tvg-rec="7",RTG
-#EXTGRP:Познавательные
-http://s06.wsbof.com/rtg/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rtg.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="http://s06.wsbof.com:8080/streams/rtg-hd.png" tvg-rec="7",RTG HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/rtg-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rtg-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="http://s06.wsbof.com:8080/streams/hd-life.png" tvg-rec="7",Точка РФ HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/hd-life/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hd-life.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="t24" tvg-logo="http://s06.wsbof.com:8080/streams/t24.png" tvg-rec="7",Техно 24
-#EXTGRP:Познавательные
-http://s06.wsbof.com/t24/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/t24.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nauka" tvg-logo="http://s06.wsbof.com:8080/streams/nauka-20.png" tvg-rec="7",Наука
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nauka/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nauka.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nauka-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nauka-hd-orig.png" tvg-rec="7",Наука HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nauka-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nauka-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nautchpop-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/nautchpop-hd.png" tvg-rec="7",НаучПоп HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nautchpop-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nautchpop-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nano-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nano-hd.png" tvg-rec="7",Nano HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nano-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nano-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="galaxy-hd-orig" tvg-logo="http://s06.wsbof.com:8080/streams/galaxy-hd-orig.png" tvg-rec="7",Galaxy HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/galaxy-hd-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/galaxy-hd-orig.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="http://s06.wsbof.com:8080/streams/eureka-hd.png" tvg-rec="7",Первый космический HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/eureka-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eureka-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="http://s06.wsbof.com:8080/streams/da-vinci-learning.png" tvg-rec="7",Da Vinci
-#EXTGRP:Познавательные
-http://s06.wsbof.com/da-vinci-learning/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/da-vinci-learning.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="http://s06.wsbof.com:8080/streams/nasha-tema.png" tvg-rec="7",Наша Тема
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nasha-tema/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nasha-tema.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema-hd" tvg-logo="http://s06.wsbof.com:8080/streams/nasha-tema-ua-hd.png" tvg-rec="7",Наша Тема HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/nasha-tema-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/nasha-tema-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="http://s06.wsbof.com:8080/streams/dialogi-rybalka.png" tvg-rec="7",Диалоги о Рыбалке
-#EXTGRP:Познавательные
-http://s06.wsbof.com/dialogi-rybalka/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dialogi-rybalka.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka-hd" tvg-logo="http://s06.wsbof.com:8080/streams/dialogi-rybalka-hd.png" tvg-rec="7",Диалоги о Рыбалке HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/dialogi-rybalka-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dialogi-rybalka-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ohotnik-rybolov-hd.png" tvg-rec="7",Охотник и рыболов HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ohotnik-rybolov-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ohotnik-rybolov-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="http://s06.wsbof.com:8080/streams/dikaya-rybalka-hd.png" tvg-rec="7",Дикая Рыбалка HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/dikaya-rybalka-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dikaya-rybalka-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="dikaya-ohota-hd" tvg-logo="http://s06.wsbof.com:8080/streams/dikaya-ohota-hd.png" tvg-rec="7",Дикая Охота HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/dikaya-ohota-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dikaya-ohota-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka" tvg-logo="http://s06.wsbof.com:8080/streams/oxota-rybalka.png" tvg-rec="7",Охота и рыбалка
-#EXTGRP:Познавательные
-http://s06.wsbof.com/oxota-rybalka/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/oxota-rybalka.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov" tvg-logo="http://s06.wsbof.com:8080/streams/ohotnik-rybolov.png" tvg-rec="7",Рыболов
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ohotnik-rybolov/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ohotnik-rybolov.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="arsenal-hd" tvg-logo="http://s06.wsbof.com:8080/streams/arsenal-hd.png" tvg-rec="7",Арсенал HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/arsenal-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/arsenal-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="http://s06.wsbof.com:8080/streams/oruzhie.png" tvg-rec="7",Оружие
-#EXTGRP:Познавательные
-http://s06.wsbof.com/oruzhie/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/oruzhie.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj" tvg-logo="http://s06.wsbof.com:8080/streams/muzhskoj.png" tvg-rec="7",Мужской
-#EXTGRP:Познавательные
-http://s06.wsbof.com/muzhskoj/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muzhskoj.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="curiosity-stream-hd" tvg-logo="http://s06.wsbof.com:8080/streams/curiosity-stream-hd.png" tvg-rec="7",Curiosity Stream HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/curiosity-stream-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/curiosity-stream-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zal-suda-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zal-suda-hd.png" tvg-rec="7",Зал Суда HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zal-suda-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zal-suda-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-pravo.png" tvg-rec="7",НТВ Право
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ntv-pravo/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-pravo.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-style.png" tvg-rec="7",НТВ Стиль
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ntv-style/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-style.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="ntv-style-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-style-hd.png" tvg-rec="7",НТВ Стиль HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/ntv-style-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-style-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="hgtv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/hgtv-hd.png" tvg-rec="7",HGTV HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/hgtv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hgtv-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="http://s06.wsbof.com:8080/streams/zagorodnaya-zhizn.png" tvg-rec="7",Загородная Жизнь HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zagorodnaya-zhizn/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zagorodnaya-zhizn.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zagorodnyy-int-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zagorodnyy-int-hd.png" tvg-rec="7",Загородный int HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zagorodnyy-int-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zagorodnyy-int-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="http://s06.wsbof.com:8080/streams/usadba.png" tvg-rec="7",Усадьба
-#EXTGRP:Познавательные
-http://s06.wsbof.com/usadba/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/usadba.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="usadba-hd" tvg-logo="http://s06.wsbof.com:8080/streams/usadba-hd.png" tvg-rec="7",Усадьба HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/usadba-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/usadba-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="http://s06.wsbof.com:8080/streams/bober.png" tvg-rec="7",Бобер
-#EXTGRP:Познавательные
-http://s06.wsbof.com/bober/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bober.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="istorija" tvg-logo="http://s06.wsbof.com:8080/streams/istorija.png" tvg-rec="7",История
-#EXTGRP:Познавательные
-http://s06.wsbof.com/istorija/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/istorija.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="mashina-vremeny-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mashina-vremeny-hd.png" tvg-rec="7",Машина Времени HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/mashina-vremeny-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mashina-vremeny-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="http://s06.wsbof.com:8080/streams/365-dnej.png" tvg-rec="7",365 Дней
-#EXTGRP:Познавательные
-http://s06.wsbof.com/365-dnej/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/365-dnej.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="http://s06.wsbof.com:8080/streams/kto-est-kto.png" tvg-rec="7",Кто есть кто
-#EXTGRP:Познавательные
-http://s06.wsbof.com/kto-est-kto/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kto-est-kto.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno" tvg-logo="http://s06.wsbof.com:8080/streams/sovershenno-sekretno.png" tvg-rec="7",Top Secret
-#EXTGRP:Познавательные
-http://s06.wsbof.com/sovershenno-sekretno/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sovershenno-sekretno.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety" tvg-logo="http://s06.wsbof.com:8080/streams/voprosy-otvety.png" tvg-rec="7",Вопросы и ответы
-#EXTGRP:Познавательные
-http://s06.wsbof.com/voprosy-otvety/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/voprosy-otvety.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="http://s06.wsbof.com:8080/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
-#EXTGRP:Познавательные
-http://s06.wsbof.com/domashnije-zhivotnye/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnije-zhivotnye.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="http://s06.wsbof.com:8080/streams/zdorovoe-tv.png" tvg-rec="7",Доктор
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zdorovoe-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zdorovoe-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zdorovoe-tv-hd.png" tvg-rec="7",Доктор HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zdorovoe-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zdorovoe-tv-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="http://s06.wsbof.com:8080/streams/zhivi.png" tvg-rec="7",Живи
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zhivi/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhivi.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="zhivi-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zhivi-hd.png" tvg-rec="7",Живи HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/zhivi-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhivi-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="food-network-hd" tvg-logo="http://s06.wsbof.com:8080/streams/food-network-hd.png" tvg-rec="7",Food Network HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/food-network-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/food-network-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="food-time-hd" tvg-logo="http://s06.wsbof.com:8080/streams/eda-hd.png" tvg-rec="7",Food Time HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/food-time-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/food-time-hd.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv" tvg-logo="http://s06.wsbof.com:8080/streams/kuxnya-tv.png" tvg-rec="7",Кухня ТВ
-#EXTGRP:Познавательные
-http://s06.wsbof.com/kuxnya-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kuxnya-tv.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="eda" tvg-logo="http://s06.wsbof.com:8080/streams/eda.png" tvg-rec="7",Еда
-#EXTGRP:Познавательные
-http://s06.wsbof.com/eda/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eda.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="fashion-hd" tvg-logo="http://s06.wsbof.com:8080/streams/fashion-tv.png" tvg-rec="0",Fashion and LifeStyle HD
-#EXTGRP:Познавательные
-http://s06.wsbof.com/fashion-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/fashion-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="1hd" tvg-logo="http://s06.wsbof.com:8080/streams/1hd.png" tvg-rec="0",1HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/1hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/1hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="http://s06.wsbof.com:8080/streams/muzyka-pervogo.png" tvg-rec="0",Музыка Первого
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/muzyka-pervogo/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muzyka-pervogo.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="http://s06.wsbof.com:8080/streams/ru-tv.png" tvg-rec="0",RU TV
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/ru-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ru-tv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ru-tv-hd.png" tvg-rec="0",RU TV HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/ru-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ru-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv" tvg-logo="http://s06.wsbof.com:8080/streams/muz-tv.png" tvg-rec="0",Муз-ТВ
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/muz-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muz-tv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/muz-tv-hd.png" tvg-rec="0",Муз-ТВ HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/muz-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/muz-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv" tvg-logo="http://s06.wsbof.com:8080/streams/evropa-plus-tv.png" tvg-rec="0",Europa Plus TV
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/evropa-plus-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evropa-plus-tv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/evropa-plus-tv-hd.png" tvg-rec="0",Europa Plus TV HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/evropa-plus-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evropa-plus-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="zhara" tvg-logo="http://s06.wsbof.com:8080/streams/zhara.png" tvg-rec="0",Жара
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/zhara/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhara.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="zhara-hd" tvg-logo="http://s06.wsbof.com:8080/streams/zhara.png" tvg-rec="0",Жара HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/zhara-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zhara-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-music.png" tvg-rec="0",ТНТ Music
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/tnt-music/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-music.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-music-hd.png" tvg-rec="0",ТНТ Music HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/tnt-music-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-music-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="russian-musicbox" tvg-logo="http://s06.wsbof.com:8080/streams/music-box-russian.png" tvg-rec="0",Russian MusicBox
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/russian-musicbox/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russian-musicbox.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="russian-musicbox-hd" tvg-logo="http://s06.wsbof.com:8080/streams/russian-musicbox-hd.png" tvg-rec="0",Russian MusicBox HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/russian-musicbox-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/russian-musicbox-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="music-box-gold" tvg-logo="http://s06.wsbof.com:8080/streams/music-box-gold.png" tvg-rec="0",Music Box Gold
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/music-box-gold/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/music-box-gold.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv.png" tvg-rec="0",Bridge TV
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-hd.png" tvg-rec="0",Bridge TV HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-hits.png" tvg-rec="0",Bridge TV Hits
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-hits/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-hits.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-hits-hd.png" tvg-rec="0",Bridge TV Hits HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-hits-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-hits-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-deluxe-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-deluxe-hd.png" tvg-rec="0",Bridge TV Deluxe HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-deluxe-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-deluxe-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-fresh" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-fresh.png" tvg-rec="0",Bridge TV Fresh HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-fresh/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-fresh.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-russky-hit" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-russky-hit.png" tvg-rec="0",Bridge TV Русский Хит
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-russky-hit/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-russky-hit.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-russky-hit-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-russky-hit-hd.png" tvg-rec="0",Bridge TV Русский Хит HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-russky-hit-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-russky-hit-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-classic.png" tvg-rec="0",Bridge TV Classic
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-classic/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-classic.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-shlager" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-shlager.png" tvg-rec="0",Bridge TV Шлягер
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-shlager/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-shlager.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-rock" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-rock.png" tvg-rec="0",Bridge TV Rock
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-rock/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-rock.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-rock-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-rock-hd.png" tvg-rec="0",Bridge TV Rock HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/bridge-tv-rock-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/bridge-tv-rock-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="aiva-hd" tvg-logo="http://s06.wsbof.com:8080/streams/aiva-hd.png" tvg-rec="0",AIVA HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/aiva-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/aiva-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="kronehit-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kronehit-hd.png" tvg-rec="0",Kronehit HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/kronehit-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/kronehit-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="clubbing-hd" tvg-logo="http://s06.wsbof.com:8080/streams/clubbing-hd.png" tvg-rec="0",Clubbing HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/clubbing-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/clubbing-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="one-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/one-by-hd.png" tvg-rec="0",One BY HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/one-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/one-by-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="one-by-russia-hd" tvg-logo="http://s06.wsbof.com:8080/streams/one-by-russia-hd.png" tvg-rec="0",One by Russia HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/one-by-russia-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/one-by-russia-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-live-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mtv-live-hd.png" tvg-rec="0",MTV Live HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mtv-live-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mtv-live-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-europe" tvg-logo="http://s06.wsbof.com:8080/streams/mtv-europe.png" tvg-rec="0",MTV Europe
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mtv-europe/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mtv-europe.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="http://s06.wsbof.com:8080/streams/vh1-europe.png" tvg-rec="0",MTV 00s
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/vh1-europe/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vh1-europe.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-80s" tvg-logo="http://s06.wsbof.com:8080/streams/mtv-80s.png" tvg-rec="0",MTV 80s
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mtv-80s/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mtv-80s.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="http://s06.wsbof.com:8080/streams/mtv-rocks.png" tvg-rec="0",MTV 90s
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mtv-rocks/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mtv-rocks.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits" tvg-logo="http://s06.wsbof.com:8080/streams/mtv-hits.png" tvg-rec="0",MTV Hits
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mtv-hits/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mtv-hits.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="club-mtv" tvg-logo="http://s06.wsbof.com:8080/streams/club-mtv.png" tvg-rec="0",Club MTV
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/club-mtv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/club-mtv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mcm-top" tvg-logo="http://s06.wsbof.com:8080/streams/mcm.png" tvg-rec="0",MCM TOP
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mcm-top/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mcm-top.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mcm-top-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mcm-top-hd.png" tvg-rec="0",MCM TOP HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mcm-top-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mcm-top-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="4ever-music-hd" tvg-logo="http://s06.wsbof.com:8080/streams/4ever-music-hd.png" tvg-rec="0",4ever Music HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/4ever-music-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/4ever-music-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="m1-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/m1-ua-hd.png" tvg-rec="0",M1 HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/m1-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/m1-ua-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="m2-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/m2-ua-hd.png" tvg-rec="0",M2 HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/m2-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/m2-ua-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="eu-music-hd" tvg-logo="http://s06.wsbof.com:8080/streams/eu-music-hd.png" tvg-rec="0",EU Music HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/eu-music-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eu-music-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="http://s06.wsbof.com:8080/streams/la-minor.png" tvg-rec="0",Музыка Live
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/la-minor/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/la-minor.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="http://s06.wsbof.com:8080/streams/shanson-tv.png" tvg-rec="0",Шансон ТВ
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/shanson-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/shanson-tv.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="iconcerts-hd" tvg-logo="http://s06.wsbof.com:8080/streams/iconcerts-hd.png" tvg-rec="0",iConcerts
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/iconcerts-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/iconcerts-hd.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="classic-music" tvg-logo="http://s06.wsbof.com:8080/streams/classic-music.png" tvg-rec="0",Classic Music HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/classic-music/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/classic-music.m3u8
 #EXTINF:0 group-title="Музыкальные" tvg-id="mezzo-hd" tvg-logo="http://s06.wsbof.com:8080/streams/mezzo-hd.png" tvg-rec="0",Mezzo Live HD
-#EXTGRP:Музыкальные
-http://s06.wsbof.com/mezzo-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mezzo-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="eromania-4k-orig" tvg-logo="http://s06.wsbof.com:8080/streams/eromania-4k-orig.png" tvg-rec="0",Eromania 4k
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/eromania-4k-orig/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eromania-4k-orig.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="extasy-4k" tvg-logo="http://s06.wsbof.com:8080/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/extasy-4k/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/extasy-4k.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="extasy-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/extasy-tv-hd.png" tvg-rec="0",Extasy TV HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/extasy-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/extasy-tv-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="penthouse1-hd" tvg-logo="http://s06.wsbof.com:8080/streams/penthouse1-hd.png" tvg-rec="0",Penthouse Gold HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/penthouse1-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/penthouse1-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="penthouse2-hd" tvg-logo="http://s06.wsbof.com:8080/streams/penthouse2-hd.png" tvg-rec="0",Penthouse Reality TV HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/penthouse2-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/penthouse2-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="penthouse-passion-hd" tvg-logo="http://s06.wsbof.com:8080/streams/penthouse-passion-hd.png" tvg-rec="0",Penthouse Passion HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/penthouse-passion-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/penthouse-passion-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="redlight-hd" tvg-logo="http://s06.wsbof.com:8080/streams/redlight-hd.png" tvg-rec="0",Redlight HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/redlight-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/redlight-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="vivid-red-hd" tvg-logo="http://s06.wsbof.com:8080/streams/vivid-red-hd.png" tvg-rec="0",Vivid Red HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/vivid-red-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vivid-red-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="private-tv" tvg-logo="http://s06.wsbof.com:8080/streams/private-tv.png" tvg-rec="0",Private HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/private-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/private-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="hustler-hd" tvg-logo="http://s06.wsbof.com:8080/streams/hustler-hd.png" tvg-rec="0",Hustler HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/hustler-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/hustler-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="brazzers-tv" tvg-logo="http://s06.wsbof.com:8080/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/brazzers-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/brazzers-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="babes-hd" tvg-logo="http://s06.wsbof.com:8080/streams/babes-hd.png" tvg-rec="0",Babes HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/babes-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/babes-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="vixen-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/vixen-tv-hd.png" tvg-rec="0",Vixen TV HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/vixen-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vixen-tv-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="evil-angel-hd" tvg-logo="http://s06.wsbof.com:8080/streams/evil-angel-hd.png" tvg-rec="0",Evil Angel HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/evil-angel-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/evil-angel-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="erox" tvg-logo="http://s06.wsbof.com:8080/streams/erox.png" tvg-rec="0",Erox
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/erox/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/erox.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="erox-hd" tvg-logo="http://s06.wsbof.com:8080/streams/erox-hd.png" tvg-rec="0",Erox HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/erox-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/erox-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="eroxxx-hd" tvg-logo="http://s06.wsbof.com:8080/streams/eroxxx-hd.png" tvg-rec="0",Eroxxx HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/eroxxx-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/eroxxx-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="dorcel-tv" tvg-logo="http://s06.wsbof.com:8080/streams/dorcel-tv.png" tvg-rec="0",Dorcel TV
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/dorcel-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dorcel-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="dorcel-tv-hd" tvg-logo="http://s06.wsbof.com:8080/streams/dorcel-hd.png" tvg-rec="0",Dorcel TV HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/dorcel-tv-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/dorcel-tv-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="super-one" tvg-logo="http://s06.wsbof.com:8080/streams/super-one.png" tvg-rec="0",SuperOne
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/super-one/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/super-one.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="super-one-hd" tvg-logo="http://s06.wsbof.com:8080/streams/super-one-hd.png" tvg-rec="0",SuperOne HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/super-one-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/super-one-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="xxl-tv" tvg-logo="http://s06.wsbof.com:8080/streams/xxl-tv.png" tvg-rec="0",XXL
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/xxl-tv/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/xxl-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="shalun-hd" tvg-logo="http://s06.wsbof.com:8080/streams/shalun-hd.png" tvg-rec="0",Шалун HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/shalun-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/shalun-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="shyolk-hd" tvg-logo="http://s06.wsbof.com:8080/streams/shyolk-hd.png" tvg-rec="0",Шёлк HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/shyolk-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/shyolk-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="exxxotica-hd" tvg-logo="http://s06.wsbof.com:8080/streams/exxxotica-hd.png" tvg-rec="0",Exxxotica HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/exxxotica-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/exxxotica-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="vivid-touch-hd" tvg-logo="http://s06.wsbof.com:8080/streams/vivid-touch-hd.png" tvg-rec="0",Vivid Touch HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/vivid-touch-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/vivid-touch-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="red-lips" tvg-logo="http://s06.wsbof.com:8080/streams/red-lips.png" tvg-rec="0",Red Lips HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/red-lips/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/red-lips.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="blue-hustler" tvg-logo="http://s06.wsbof.com:8080/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/blue-hustler/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/blue-hustler.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="blue-hustler-hd" tvg-logo="http://s06.wsbof.com:8080/streams/blue-hustler-hd.png" tvg-rec="0",Blue Hustler HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/blue-hustler-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/blue-hustler-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="ruskaja-noch" tvg-logo="http://s06.wsbof.com:8080/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/ruskaja-noch/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ruskaja-noch.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="ruskaja-noch-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ruskaja-noch-hd.png" tvg-rec="0",Русская Ночь HD
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/ruskaja-noch-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ruskaja-noch-hd.m3u8
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000" tvg-id="playboy-tv" tvg-logo="http://s06.wsbof.com:8080/streams/playboy-tv.png" tvg-rec="0",Playboy TV
-#EXTGRP:XXX (18+)
-http://s06.wsbof.com/playboy-tv/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="24ch-ua" tvg-logo="http://s06.wsbof.com:8080/streams/24ch-ua.png" tvg-rec="7",24 Канал
-#EXTGRP:Украина
-http://s06.wsbof.com/24ch-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="24ch-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/24tv-ua.png" tvg-rec="7",24 Канал HD
-#EXTGRP:Украина
-http://s06.wsbof.com/24ch-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="oboz-ua" tvg-logo="http://s06.wsbof.com:8080/streams/oboz-ua.png" tvg-rec="7",OBOZ TV
-#EXTGRP:Украина
-http://s06.wsbof.com/oboz-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="oboz-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/oboz-tv-ua-hd.png" tvg-rec="7",OBOZ TV HD
-#EXTGRP:Украина
-http://s06.wsbof.com/oboz-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="ntn-ua" tvg-logo="http://s06.wsbof.com:8080/streams/ntn.png" tvg-rec="7",НТН
-#EXTGRP:Украина
-http://s06.wsbof.com/ntn-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="ntn-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ntn-ua-hd.png" tvg-rec="7",НТН HD
-#EXTGRP:Украина
-http://s06.wsbof.com/ntn-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tet-ua" tvg-logo="http://s06.wsbof.com:8080/streams/tet.png" tvg-rec="7",ТЕТ
-#EXTGRP:Украина
-http://s06.wsbof.com/tet-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tet-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tet-ua-hd.png" tvg-rec="7",ТЕТ HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tet-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="espresso-ua" tvg-logo="http://s06.wsbof.com:8080/streams/plus-plus.png" tvg-rec="7",Eспресо TV
-#EXTGRP:Украина
-http://s06.wsbof.com/espresso-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="espresso-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/espresso-ua-hd.png" tvg-rec="7",Eспресо TV HD
-#EXTGRP:Украина
-http://s06.wsbof.com/espresso-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tonis-ua" tvg-logo="http://s06.wsbof.com:8080/streams/tonis-ua.png" tvg-rec="7",Прямий
-#EXTGRP:Украина
-http://s06.wsbof.com/tonis-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tonis-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tonis-hd-ua.png" tvg-rec="7",Прямий HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tonis-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="k1-ua" tvg-logo="http://s06.wsbof.com:8080/streams/k1-ua.png" tvg-rec="7",K1
-#EXTGRP:Украина
-http://s06.wsbof.com/k1-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="k1-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/k1-ua-hd.png" tvg-rec="7",K1 HD
-#EXTGRP:Украина
-http://s06.wsbof.com/k1-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua" tvg-logo="http://s06.wsbof.com:8080/streams/kvartal-tv-ua.png" tvg-rec="7",Квартал ТВ
-#EXTGRP:Украина
-http://s06.wsbof.com/kvartal-tv-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kvartal-tv-ua-hd.png" tvg-rec="7",Квартал ТВ HD
-#EXTGRP:Украина
-http://s06.wsbof.com/kvartal-tv-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal-ukraina.png" tvg-rec="7",5 канал UA
-#EXTGRP:Украина
-http://s06.wsbof.com/5kanal-ukraina/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina-hd" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal-ukraina-hd.png" tvg-rec="7",5 канал HD UA
-#EXTGRP:Украина
-http://s06.wsbof.com/5kanal-ukraina-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tvoe-kino-hit-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tvoe-kino-hit-ua-hd.png" tvg-rec="7",Твоє кіно. Хіт HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tvoe-kino-hit-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tvoe-kino-action-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tvoe-kino-action-ua-hd.png" tvg-rec="7",Твоє кіно. Action HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tvoe-kino-action-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tvoe-kino-relax-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tvoe-kino-relax-ua-hd.png" tvg-rec="7",Твоє кіно. Relax HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tvoe-kino-relax-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="tviy-serial-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/tviy-serial-ua-hd.png" tvg-rec="7",Твій Серіал HD
-#EXTGRP:Украина
-http://s06.wsbof.com/tviy-serial-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kino-premiere-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kino-premiere-ua-hd.png" tvg-rec="7",Kino Premiere HD
-#EXTGRP:Украина
-http://s06.wsbof.com/kino-premiere-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kino-action-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kino-action-ua-hd.png" tvg-rec="7",Kino Action HD
-#EXTGRP:Украина
-http://s06.wsbof.com/kino-action-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kino-comedy-ua" tvg-logo="http://s06.wsbof.com:8080/streams/kino-comedy-ua.png" tvg-rec="7",Kino Comedy HD
-#EXTGRP:Украина
-http://s06.wsbof.com/kino-comedy-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="viasat-kino-megahit-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/viasat-kino-megahit-ua-hd.png" tvg-rec="7",Viasat Kino Megahit HD UA
-#EXTGRP:Украина
-http://s06.wsbof.com/viasat-kino-megahit-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="super-plus-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/super-plus-ua-hd.png" tvg-rec="7",Super+ HD
-#EXTGRP:Украина
-http://s06.wsbof.com/super-plus-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="star-cinema-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/star-cinema-ua-hd.png" tvg-rec="7",Star Cinema HD
-#EXTGRP:Украина
-http://s06.wsbof.com/star-cinema-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="bolt-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bolt-ua-hd.png" tvg-rec="7",Болт HD
-#EXTGRP:Украина
-http://s06.wsbof.com/bolt-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua" tvg-logo="http://s06.wsbof.com:8080/streams/enter-film-ua.png" tvg-rec="7",Enter-фільм
-#EXTGRP:Украина
-http://s06.wsbof.com/enter-film-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/enter-film-ua-hd.png" tvg-rec="7",Enter-фільм HD
-#EXTGRP:Украина
-http://s06.wsbof.com/enter-film-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="ictv-ua" tvg-logo="http://s06.wsbof.com:8080/streams/ictv.png" tvg-rec="7",ICTV
-#EXTGRP:Украина
-http://s06.wsbof.com/ictv-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="ictv-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ictv-ua-hd.png" tvg-rec="7",ICTV HD
-#EXTGRP:Украина
-http://s06.wsbof.com/ictv-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="ictv2-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ictv2-ua-hd.png" tvg-rec="7",ICTV2 HD
-#EXTGRP:Украина
-http://s06.wsbof.com/ictv2-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="stb-ua" tvg-logo="http://s06.wsbof.com:8080/streams/stb.png" tvg-rec="7",СТБ
-#EXTGRP:Украина
-http://s06.wsbof.com/stb-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="stb-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/stb-ua-hd.png" tvg-rec="7",СТБ HD
-#EXTGRP:Украина
-http://s06.wsbof.com/stb-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="pervyj-ua" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-national-ua.png" tvg-rec="7",Перший Національний
-#EXTGRP:Украина
-http://s06.wsbof.com/pervyj-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="pervyj-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-ua-hd.png" tvg-rec="7",Перший Національний HD
-#EXTGRP:Украина
-http://s06.wsbof.com/pervyj-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="suspilne-kyiv-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/suspilne-kyiv-ua-hd.png" tvg-rec="7",Суспільне Київ HD
-#EXTGRP:Украина
-http://s06.wsbof.com/suspilne-kyiv-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="inter-ua" tvg-logo="http://s06.wsbof.com:8080/streams/inter.png" tvg-rec="7",Интер
-#EXTGRP:Украина
-http://s06.wsbof.com/inter-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="inter-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/inter-ua-hd.png" tvg-rec="7",Интер HD
-#EXTGRP:Украина
-http://s06.wsbof.com/inter-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="1-plus-1" tvg-logo="http://s06.wsbof.com:8080/streams/1-plus-1.png" tvg-rec="7",1+1
-#EXTGRP:Украина
-http://s06.wsbof.com/1-plus-1/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="1-plus-1-hd" tvg-logo="http://s06.wsbof.com:8080/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
-#EXTGRP:Украина
-http://s06.wsbof.com/1-plus-1-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua" tvg-logo="http://s06.wsbof.com:8080/streams/2-plus-2-ua.png" tvg-rec="7",2+2
-#EXTGRP:Украина
-http://s06.wsbof.com/2-plus-2-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/2-plus-2-ua-hd.png" tvg-rec="7",2+2 HD
-#EXTGRP:Украина
-http://s06.wsbof.com/2-plus-2-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua" tvg-logo="http://s06.wsbof.com:8080/streams/bigudi.png" tvg-rec="7",Бигуди
-#EXTGRP:Украина
-http://s06.wsbof.com/bigudi-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/bigudi-ua-hd.png" tvg-rec="7",Бигуди HD
-#EXTGRP:Украина
-http://s06.wsbof.com/bigudi-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua" tvg-logo="http://s06.wsbof.com:8080/streams/novij-kanal.png" tvg-rec="7",Новый Канал
-#EXTGRP:Украина
-http://s06.wsbof.com/novyj-kanal-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/novyj-kanal-ua-hd.png" tvg-rec="7",Новый Канал HD
-#EXTGRP:Украина
-http://s06.wsbof.com/novyj-kanal-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="freedom-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/freedom-ua-hd.png" tvg-rec="7",Freeдом HD
-#EXTGRP:Украина
-http://s06.wsbof.com/freedom-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="unian-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/unian-ua-hd.png" tvg-rec="7",УНИАН HD
-#EXTGRP:Украина
-http://s06.wsbof.com/unian-ua-hd/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua" tvg-logo="http://s06.wsbof.com:8080/streams/kus-kus-ua.png" tvg-rec="7",Кус-Кус
-#EXTGRP:Украина
-http://s06.wsbof.com/kus-kus-ua/mpegts?token=15733515
-#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua-hd" tvg-logo="http://s06.wsbof.com:8080/streams/kus-kus-ua-hd.png" tvg-rec="7",Кус-Кус HD
-#EXTGRP:Украина
-http://s06.wsbof.com/kus-kus-ua-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/playboy-tv.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by" tvg-logo="http://s06.wsbof.com:8080/streams/belarus1-by.png" tvg-rec="7",Беларусь 1
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus1-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus1-by.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus1-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus1-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus2-by" tvg-logo="http://s06.wsbof.com:8080/streams/belarus2.png" tvg-rec="7",Беларусь 2
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus2-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus2-by.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus2-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/belarus2-by-hd.png" tvg-rec="7",Беларусь 2 HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus2-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus2-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by" tvg-logo="http://s06.wsbof.com:8080/streams/belarus3-by.png" tvg-rec="7",Беларусь 3
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus3-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus3-by.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/belarus3-by-hd.png" tvg-rec="7",Беларусь 3 HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus3-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus3-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus5-by" tvg-logo="http://s06.wsbof.com:8080/streams/belarus5.png" tvg-rec="7",Беларусь 5
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus5-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus5-by.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus5-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/belarus5-by-hd.png" tvg-rec="7",Беларусь 5 HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus5-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus5-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus-24" tvg-logo="http://s06.wsbof.com:8080/streams/belarus-24.png" tvg-rec="0",Беларусь 24
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus-24/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus-24.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belarus-24-hd" tvg-logo="http://s06.wsbof.com:8080/streams/belarus-24-hd.png" tvg-rec="0",Беларусь 24 HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belarus-24-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belarus-24-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="pervyj-informacionnyj-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-informacionnyj-by-hd.png" tvg-rec="7",Первый Информационный HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/pervyj-informacionnyj-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-informacionnyj-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="ont-by" tvg-logo="http://s06.wsbof.com:8080/streams/ont-by.png" tvg-rec="7",ОНТ
-#EXTGRP:Беларусь
-http://s06.wsbof.com/ont-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ont-by.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="ont-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ont-by-hd.png" tvg-rec="7",ОНТ HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/ont-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ont-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="rtr-belarus-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/rtr-belarus-by-hd.png" tvg-rec="7",РТР Беларусь HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/rtr-belarus-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rtr-belarus-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="ntv-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-by-hd.png" tvg-rec="7",НТВ Беларусь HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/ntv-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="stv-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/stv-by-hd.png" tvg-rec="7",СТВ Беларусь HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/stv-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/stv-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="channel8-by-hd" tvg-logo="http://s06.wsbof.com:8080/streams/channel8-by-hd.png" tvg-rec="7",8 Канал HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/channel8-by-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/channel8-by-hd.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="belsat-by" tvg-logo="http://s06.wsbof.com:8080/streams/belsat-by.png" tvg-rec="7",Белсат HD
-#EXTGRP:Беларусь
-http://s06.wsbof.com/belsat-by/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/belsat-by.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="pervyj-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-plus-2.png" tvg-rec="7",Первый канал (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/pervyj-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="rossija1-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/rossija1-plus-2.png" tvg-rec="7",Россия 1 (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/rossija1-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija1-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="ntv-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-plus-2.png" tvg-rec="7",НТВ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/ntv-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="tnt-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-plus-2.png" tvg-rec="7",ТНТ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/tnt-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="rentv-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-2.png" tvg-rec="7",РЕН ТВ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/rentv-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rentv-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="sts-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/sts-plus-2.png" tvg-rec="7",СТС (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/sts-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sts-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="domashnij-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/domashnij-plus-2.png" tvg-rec="7",Домашний (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/domashnij-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnij-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="piatnica-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/piatnica-plus-2.png" tvg-rec="7",Пятница (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/piatnica-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/piatnica-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="yu-tv-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/yu-tv-plus-2.png" tvg-rec="7",Ю ТВ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/yu-tv-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/yu-tv-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="tv3-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-2.png" tvg-rec="7",ТВ3 (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/tv3-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv3-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="tvc-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/tvc-plus-2.png" tvg-rec="7",ТВЦ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/tvc-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tvc-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="zvezda-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-plus-2.png" tvg-rec="7",Звезда (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/zvezda-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="5kanal-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal-plus-2.png" tvg-rec="7",5 канал (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/5kanal-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/5kanal-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="mir-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/mir-plus-2.png" tvg-rec="7",Мир (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/mir-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="otp-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/otp-plus-2.png" tvg-rec="7",ОТР (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/otp-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/otp-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="rossija-k-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-k-plus-2.png" tvg-rec="7",Россия Культура (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/rossija-k-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-k-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="match-plus-2" tvg-logo="http://s06.wsbof.com:8080/streams/match-plus-2.png" tvg-rec="7",Матч ТВ (+2)
-#EXTGRP:Россия +2ч
-http://s06.wsbof.com/match-plus-2/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-plus-2.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-plus-4.png" tvg-rec="7",Первый канал (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/pervyj-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-plus-4-hd" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-hd-plus-4.png" tvg-rec="7",Первый канал HD (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/pervyj-plus-4-hd/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-plus-4-hd.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="rossija1-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/rossija1-plus-4.png" tvg-rec="7",Россия 1 (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/rossija1-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija1-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="ntv-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-plus-4.png" tvg-rec="7",НТВ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/ntv-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="tnt-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-plus-4.png" tvg-rec="7",ТНТ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/tnt-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="rentv-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-4.png" tvg-rec="7",РЕН ТВ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/rentv-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rentv-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="sts-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/sts-plus-4.png" tvg-rec="7",СТС (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/sts-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sts-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="domashnij-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/domashnij-plus-4.png" tvg-rec="7",Домашний (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/domashnij-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnij-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="piatnica-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/piatnica-plus-4.png" tvg-rec="7",Пятница (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/piatnica-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/piatnica-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="yu-tv-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/yu-tv-plus-4.png" tvg-rec="7",Ю ТВ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/yu-tv-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/yu-tv-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="tv3-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-4.png" tvg-rec="7",ТВ3 (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/tv3-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv3-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="tvc-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/tvc-plus-4.png" tvg-rec="7",ТВЦ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/tvc-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tvc-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="zvezda-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-plus-4.png" tvg-rec="7",Звезда (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/zvezda-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="5kanal-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal-plus-4.png" tvg-rec="7",5 канал (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/5kanal-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/5kanal-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="mir-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/mir-plus-4.png" tvg-rec="7",Мир (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/mir-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="otp-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/otp-plus-4.png" tvg-rec="7",ОТР (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/otp-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/otp-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="rossija-k-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-k-plus-4.png" tvg-rec="7",Россия Культура (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/rossija-k-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-k-plus-4.m3u8
 #EXTINF:0 group-title="Россия +4ч" tvg-id="match-plus-4" tvg-logo="http://s06.wsbof.com:8080/streams/match-plus-4.png" tvg-rec="7",Матч ТВ (+4)
-#EXTGRP:Россия +4ч
-http://s06.wsbof.com/match-plus-4/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-plus-4.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="pervyj-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-plus-7.png" tvg-rec="7",Первый канал (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/pervyj-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/pervyj-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="rossija1-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/rossija1-plus-7.png" tvg-rec="7",Россия 1 (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/rossija1-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija1-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="ntv-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/ntv-plus-7.png" tvg-rec="7",НТВ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/ntv-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/ntv-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="tnt-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/tnt-plus-7.png" tvg-rec="7",ТНТ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/tnt-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tnt-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="rentv-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/rentv-plus-7.png" tvg-rec="7",РЕН ТВ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/rentv-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rentv-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="sts-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/sts-plus-7.png" tvg-rec="7",СТС (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/sts-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/sts-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="domashnij-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/domashnij-plus-7.png" tvg-rec="7",Домашний (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/domashnij-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/domashnij-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="piatnica-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/piatnica-plus-7.png" tvg-rec="7",Пятница (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/piatnica-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/piatnica-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="yu-tv-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/yu-tv-plus-7.png" tvg-rec="7",Ю ТВ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/yu-tv-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/yu-tv-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="tv3-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/tv3-plus-7.png" tvg-rec="7",ТВ3 (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/tv3-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tv3-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="tvc-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/tvc-plus-7.png" tvg-rec="7",ТВЦ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/tvc-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/tvc-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="zvezda-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/zvezda-plus-7.png" tvg-rec="7",Звезда (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/zvezda-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/zvezda-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="5kanal-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/5kanal-plus-7.png" tvg-rec="7",5 канал (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/5kanal-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/5kanal-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="mir-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/mir-plus-7.png" tvg-rec="7",Мир (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/mir-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/mir-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="otp-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/otp-plus-7.png" tvg-rec="7",ОТР (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/otp-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/otp-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="rossija-k-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/rossija-k-plus-7.png" tvg-rec="7",Россия Культура (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/rossija-k-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/rossija-k-plus-7.m3u8
 #EXTINF:0 group-title="Россия +7ч" tvg-id="match-plus-7" tvg-logo="http://s06.wsbof.com:8080/streams/match-plus-7.png" tvg-rec="7",Матч ТВ (+7)
-#EXTGRP:Россия +7ч
-http://s06.wsbof.com/match-plus-7/mpegts?token=15733515
+http://s06.wsbof.com:8080/s/15733515/match-plus-7.m3u8
