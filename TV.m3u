@@ -893,9 +893,6 @@ http://cdntv.online/high/3rjt4s289i/437.m3u8
 #EXTINF:0 tvg-id="438" tvg-logo="http://epg.cdntv.online/img/438.png" group-title="Новостные", CNN International
 #EXTGRP:Новостные
 http://cdntv.online/high/3rjt4s289i/438.m3u8
-#EXTINF:0 tvg-id="439" tvg-logo="http://epg.cdntv.online/img/439.png" group-title="Германия", Deutsche Welle
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/439.m3u8
 #EXTINF:0 tvg-id="442" tvg-logo="http://epg.cdntv.online/img/442.png" group-title="Познавательные", English Club TV HD
 #EXTGRP:Познавательные
 http://cdntv.online/high/3rjt4s289i/442.m3u8
@@ -1436,27 +1433,6 @@ http://cdntv.online/high/3rjt4s289i/741.m3u8
 #EXTINF:0 tvg-id="742" tvg-logo="http://epg.cdntv.online/img/742.png" group-title="Взрослые", Visit-X TV
 #EXTGRP:Взрослые
 http://cdntv.online/high/3rjt4s289i/742.m3u8
-#EXTINF:0 tvg-id="744" tvg-logo="http://epg.cdntv.online/img/744.png" group-title="Украина", ЕКО-ТВ
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/744.m3u8
-#EXTINF:0 tvg-id="755" tvg-logo="http://epg.cdntv.online/img/755.png" group-title="Украина", Рада
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/755.m3u8
-#EXTINF:0 tvg-id="758" tvg-logo="http://epg.cdntv.online/img/758.png" group-title="Украина", Бигуди
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/758.m3u8
-#EXTINF:0 tvg-id="759" tvg-logo="http://epg.cdntv.online/img/759.png" group-title="Украина", ПЕРШИЙ
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/759.m3u8
-#EXTINF:0 tvg-id="761" tvg-logo="http://epg.cdntv.online/img/761.png" group-title="Украина", KVARTAL TV
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/761.m3u8
-#EXTINF:0 tvg-id="762" tvg-logo="http://epg.cdntv.online/img/762.png" group-title="Украина", Дача HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/762.m3u8
-#EXTINF:0 tvg-id="768" tvg-logo="http://epg.cdntv.online/img/768.png" group-title="Украина", Fashion TV HD Ukraine
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/768.m3u8
 #EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/770.m3u8
@@ -1475,87 +1451,12 @@ http://cdntv.online/high/3rjt4s289i/779.m3u8
 #EXTINF:0 tvg-id="780" tvg-logo="http://epg.cdntv.online/img/780.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", РТР-Беларусь
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/780.m3u8
-#EXTINF:0 tvg-id="781" tvg-logo="http://epg.cdntv.online/img/781.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Израиль", 9 канал (Израиль)
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/781.m3u8
-#EXTINF:0 tvg-id="782" tvg-logo="http://epg.cdntv.online/img/782.png" group-title="Израиль", 14 Channel
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/782.m3u8
-#EXTINF:0 tvg-id="784" tvg-logo="http://epg.cdntv.online/img/784.png" group-title="Израиль", ערוץ הידברות
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/784.m3u8
-#EXTINF:0 tvg-id="785" tvg-logo="http://epg.cdntv.online/img/785.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", Интер
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/785.m3u8
-#EXTINF:0 tvg-id="789" tvg-logo="http://epg.cdntv.online/img/789.png" group-title="Украина", Прямой HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/789.m3u8
-#EXTINF:0 tvg-id="793" tvg-logo="http://epg.cdntv.online/img/793.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", УНІАН HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/793.m3u8
-#EXTINF:0 tvg-id="799" tvg-logo="http://epg.cdntv.online/img/799.png" group-title="Украина", Zoom
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/799.m3u8
-#EXTINF:0 tvg-id="800" tvg-logo="http://epg.cdntv.online/img/800.png" group-title="Украина", Сварожичи
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/800.m3u8
-#EXTINF:0 tvg-id="801" tvg-logo="http://epg.cdntv.online/img/801.png" group-title="Украина", 8 Канал
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/801.m3u8
-#EXTINF:0 tvg-id="810" tvg-logo="http://epg.cdntv.online/img/810.png" group-title="Украина", Суспільне Дніпро
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/810.m3u8
-#EXTINF:0 tvg-id="811" tvg-logo="http://epg.cdntv.online/img/811.png" group-title="Украина", Суспільне Запоріжжя
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/811.m3u8
-#EXTINF:0 tvg-id="812" tvg-logo="http://epg.cdntv.online/img/812.png" group-title="Украина", Суспільне Культура
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/812.m3u8
-#EXTINF:0 tvg-id="819" tvg-logo="http://epg.cdntv.online/img/819.png" group-title="Украина", Eu Music HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/819.m3u8
-#EXTINF:0 tvg-id="830" tvg-logo="http://epg.cdntv.online/img/830.png" group-title="Украина", М1 HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/830.m3u8
-#EXTINF:0 tvg-id="834" tvg-logo="http://epg.cdntv.online/img/834.png" group-title="Украина", OBOZREVATEL HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/834.m3u8
 #EXTINF:0 tvg-id="846" tvg-logo="http://epg.cdntv.online/img/846.png" group-title="Кинозалы", Аквариум HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/846.m3u8
 #EXTINF:0 tvg-id="847" tvg-logo="http://epg.cdntv.online/img/847.png" group-title="Кинозалы", Камин HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/847.m3u8
-#EXTINF:0 tvg-id="849" tvg-logo="http://epg.cdntv.online/img/849.png" group-title="Украина", Lale
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/849.m3u8
-#EXTINF:0 tvg-id="853" tvg-logo="http://epg.cdntv.online/img/853.png" group-title="Украина", Film.Ua Drama
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/853.m3u8
-#EXTINF:0 tvg-id="854" tvg-logo="http://epg.cdntv.online/img/854.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", 2+2 HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/854.m3u8
-#EXTINF:0 tvg-id="855" tvg-logo="http://epg.cdntv.online/img/855.png" group-title="Украина", К1
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/855.m3u8
-#EXTINF:0 tvg-id="856" tvg-logo="http://epg.cdntv.online/img/856.png" group-title="Украина", К2
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/856.m3u8
-#EXTINF:0 tvg-id="861" tvg-logo="http://epg.cdntv.online/img/861.png" group-title="Украина", Телевсесвит HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/861.m3u8
-#EXTINF:0 tvg-id="863" tvg-logo="http://epg.cdntv.online/img/863.png" group-title="Украина", Setanta Sports Ukraine HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/863.m3u8
-#EXTINF:0 tvg-id="866" tvg-logo="http://epg.cdntv.online/img/866.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", 1+1 HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/866.m3u8
-#EXTINF:0 tvg-id="867" tvg-logo="http://epg.cdntv.online/img/867.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", ICTV HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/867.m3u8
-#EXTINF:0 tvg-id="868" tvg-logo="http://epg.cdntv.online/img/868.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", СТБ HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/868.m3u8
 #EXTINF:0 tvg-id="871" tvg-logo="http://epg.cdntv.online/img/871.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", ОНТ
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/871.m3u8
@@ -1616,69 +1517,6 @@ http://cdntv.online/high/3rjt4s289i/906.m3u8
 #EXTINF:0 tvg-id="907" tvg-logo="http://epg.cdntv.online/img/907.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", День победы HD
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/907.m3u8
-#EXTINF:0 tvg-id="908" tvg-logo="http://epg.cdntv.online/img/908.png" group-title="Германия", Allgäu TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/908.m3u8
-#EXTINF:0 tvg-id="909" tvg-logo="http://epg.cdntv.online/img/909.png" group-title="Германия", Augsburg TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/909.m3u8
-#EXTINF:0 tvg-id="910" tvg-logo="http://epg.cdntv.online/img/910.png" group-title="Германия", Baden TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/910.m3u8
-#EXTINF:0 tvg-id="912" tvg-logo="http://epg.cdntv.online/img/912.png" group-title="Германия", Donau TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/912.m3u8
-#EXTINF:0 tvg-id="913" tvg-logo="http://epg.cdntv.online/img/913.png" group-title="Германия", Campus TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/913.m3u8
-#EXTINF:0 tvg-id="914" tvg-logo="http://epg.cdntv.online/img/914.png" group-title="Германия", Filstalwelle
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/914.m3u8
-#EXTINF:0 tvg-id="915" tvg-logo="http://epg.cdntv.online/img/915.png" group-title="Германия", Franken Fernsehen HD
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/915.m3u8
-#EXTINF:0 tvg-id="916" tvg-logo="http://epg.cdntv.online/img/916.png" group-title="Германия", FS1 AUSTRIA
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/916.m3u8
-#EXTINF:0 tvg-id="917" tvg-logo="http://epg.cdntv.online/img/917.png" group-title="Германия", Halle
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/917.m3u8
-#EXTINF:0 tvg-id="920" tvg-logo="http://epg.cdntv.online/img/920.png" group-title="Германия", München TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/920.m3u8
-#EXTINF:0 tvg-id="921" tvg-logo="http://epg.cdntv.online/img/921.png" group-title="Германия", NRWision
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/921.m3u8
-#EXTINF:0 tvg-id="922" tvg-logo="http://epg.cdntv.online/img/922.png" group-title="Германия", Oberpfalz TV
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/922.m3u8
-#EXTINF:0 tvg-id="924" tvg-logo="http://epg.cdntv.online/img/924.png" group-title="Германия", RNF
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/924.m3u8
-#EXTINF:0 tvg-id="925" tvg-logo="http://epg.cdntv.online/img/925.png" group-title="Германия", RFO
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/925.m3u8
-#EXTINF:0 tvg-id="926" tvg-logo="http://epg.cdntv.online/img/926.png" group-title="Германия", Saarland Fernsehen 1
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/926.m3u8
-#EXTINF:0 tvg-id="927" tvg-logo="http://epg.cdntv.online/img/927.png" group-title="Германия", Saarland Fernsehen 2
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/927.m3u8
-#EXTINF:0 tvg-id="930" tvg-logo="http://epg.cdntv.online/img/930.png" group-title="Армения", ARTN TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/930.m3u8
-#EXTINF:0 tvg-id="931" tvg-logo="http://epg.cdntv.online/img/931.png" group-title="Армения", H1
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/931.m3u8
-#EXTINF:0 tvg-id="932" tvg-logo="http://epg.cdntv.online/img/932.png" group-title="Армения", US Armenia TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/932.m3u8
-#EXTINF:0 tvg-id="933" tvg-logo="http://epg.cdntv.online/img/933.png" group-title="Грузия", 1TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/933.m3u8
-#EXTINF:0 tvg-id="935" tvg-logo="http://epg.cdntv.online/img/935.png" group-title="Грузия", IMEDI HD
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/935.m3u8
 #EXTINF:0 tvg-id="936" tvg-logo="http://epg.cdntv.online/img/936.png" group-title="Казахстан", 31 Канал
 #EXTGRP:Казахстан
 http://cdntv.online/high/3rjt4s289i/936.m3u8
@@ -1691,12 +1529,6 @@ http://cdntv.online/high/3rjt4s289i/940.m3u8
 #EXTINF:0 tvg-id="941" tvg-logo="http://epg.cdntv.online/img/941.png" group-title="Казахстан", Ел Арна
 #EXTGRP:Казахстан
 http://cdntv.online/high/3rjt4s289i/941.m3u8
-#EXTINF:0 tvg-id="943" tvg-logo="http://epg.cdntv.online/img/943.png" group-title="Израиль", Yeshua Chai TV
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/943.m3u8
-#EXTINF:0 tvg-id="945" tvg-logo="http://epg.cdntv.online/img/945.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Moldova 1
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/945.m3u8
 #EXTINF:0 tvg-id="954" tvg-logo="http://epg.cdntv.online/img/954.png" group-title="Познавательные", Океан HD
 #EXTGRP:Познавательные
 http://cdntv.online/high/3rjt4s289i/954.m3u8
@@ -1727,15 +1559,6 @@ http://cdntv.online/high/3rjt4s289i/967.m3u8
 #EXTINF:0 tvg-id="969" tvg-logo="http://epg.cdntv.online/img/969.png" group-title="Религиозные", Три Ангела HD
 #EXTGRP:Религиозные
 http://cdntv.online/high/3rjt4s289i/969.m3u8
-#EXTINF:0 tvg-id="972" tvg-logo="http://epg.cdntv.online/img/972.png" group-title="Украина", Суспільне Одеса
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/972.m3u8
-#EXTINF:0 tvg-id="976" tvg-logo="http://epg.cdntv.online/img/976.png" group-title="Украина", Плюс Плюс
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/976.m3u8
-#EXTINF:0 tvg-id="978" tvg-logo="http://epg.cdntv.online/img/978.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", ТЕТ HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/978.m3u8
 #EXTINF:0 tvg-id="981" tvg-logo="http://epg.cdntv.online/img/981.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Матч! Футбол 1
 #EXTGRP:Спортивные
 http://cdntv.online/high/3rjt4s289i/981.m3u8
@@ -1775,36 +1598,6 @@ http://cdntv.online/high/3rjt4s289i/1000.m3u8
 #EXTINF:0 tvg-id="1001" tvg-logo="http://epg.cdntv.online/img/1001.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 5 HD
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/1001.m3u8
-#EXTINF:0 tvg-id="1003" tvg-logo="http://epg.cdntv.online/img/1003.png" group-title="Израиль", KAN 11
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/1003.m3u8
-#EXTINF:0 tvg-id="1004" tvg-logo="http://epg.cdntv.online/img/1004.png" group-title="Израиль", Keshet 12
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/1004.m3u8
-#EXTINF:0 tvg-id="1005" tvg-logo="http://epg.cdntv.online/img/1005.png" group-title="Израиль", Reshet 13
-#EXTGRP:Израиль
-http://cdntv.online/high/3rjt4s289i/1005.m3u8
-#EXTINF:0 tvg-id="1008" tvg-logo="http://epg.cdntv.online/img/1008.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", Новый канал HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1008.m3u8
-#EXTINF:0 tvg-id="1012" tvg-logo="http://epg.cdntv.online/img/1012.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", VOX DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1012.m3u8
-#EXTINF:0 tvg-id="1013" tvg-logo="http://epg.cdntv.online/img/1013.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sat. 1 DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1013.m3u8
-#EXTINF:0 tvg-id="1014" tvg-logo="http://epg.cdntv.online/img/1014.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sat. 1 Gold HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1014.m3u8
-#EXTINF:0 tvg-id="1015" tvg-logo="http://epg.cdntv.online/img/1015.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sport 1 HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1015.m3u8
-#EXTINF:0 tvg-id="1016" tvg-logo="http://epg.cdntv.online/img/1016.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Kabel Eins DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1016.m3u8
-#EXTINF:0 tvg-id="1017" tvg-logo="http://epg.cdntv.online/img/1017.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", N-TV HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1017.m3u8
 #EXTINF:0 tvg-id="1018" tvg-logo="http://epg.cdntv.online/img/1018.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", НТВ-Мир
 #EXTGRP:Развлекательные
 http://cdntv.online/high/3rjt4s289i/1018.m3u8
@@ -1847,66 +1640,12 @@ http://cdntv.online/high/3rjt4s289i/1034.m3u8
 #EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3 HD
 #EXTGRP:Федеральные
 http://cdntv.online/high/3rjt4s289i/1036.m3u8
-#EXTINF:0 tvg-id="1037" tvg-logo="http://epg.cdntv.online/img/1037.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Moldova 2
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1037.m3u8
-#EXTINF:0 tvg-id="1047" tvg-logo="http://epg.cdntv.online/img/1047.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Pro TV Chisinau HD
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1047.m3u8
-#EXTINF:0 tvg-id="1049" tvg-logo="http://epg.cdntv.online/img/1049.png" group-title="Азербайджан", Baku TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1049.m3u8
-#EXTINF:0 tvg-id="1050" tvg-logo="http://epg.cdntv.online/img/1050.png" group-title="Азербайджан", Apa TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1050.m3u8
-#EXTINF:0 tvg-id="1054" tvg-logo="http://epg.cdntv.online/img/1054.png" group-title="Азербайджан", TRT Haber
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1054.m3u8
 #EXTINF:0 tvg-id="1061" tvg-logo="http://epg.cdntv.online/img/1061.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", СТС HD
 #EXTGRP:Развлекательные
 http://cdntv.online/high/3rjt4s289i/1061.m3u8
 #EXTINF:0 tvg-id="1062" tvg-logo="http://epg.cdntv.online/img/1062.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Первый космический HD
 #EXTGRP:Познавательные
 http://cdntv.online/high/3rjt4s289i/1062.m3u8
-#EXTINF:0 tvg-id="1065" tvg-logo="http://epg.cdntv.online/img/1065.png" group-title="Украина", Setanta Sports+ Ukraine HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1065.m3u8
-#EXTINF:0 tvg-id="1068" tvg-logo="http://epg.cdntv.online/img/1068.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", ProSieben HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1068.m3u8
-#EXTINF:0 tvg-id="1069" tvg-logo="http://epg.cdntv.online/img/1069.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", RTL DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1069.m3u8
-#EXTINF:0 tvg-id="1070" tvg-logo="http://epg.cdntv.online/img/1070.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", RTL2 HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1070.m3u8
-#EXTINF:0 tvg-id="1071" tvg-logo="http://epg.cdntv.online/img/1071.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Super RTL HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1071.m3u8
-#EXTINF:0 tvg-id="1072" tvg-logo="http://epg.cdntv.online/img/1072.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Sport 1 HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1072.m3u8
-#EXTINF:0 tvg-id="1073" tvg-logo="http://epg.cdntv.online/img/1073.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Sport 2 HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1073.m3u8
-#EXTINF:0 tvg-id="1075" tvg-logo="http://epg.cdntv.online/img/1075.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Cinema +24 HD
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1075.m3u8
-#EXTINF:0 tvg-id="1076" tvg-logo="http://epg.cdntv.online/img/1076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Cinema Action HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1076.m3u8
-#EXTINF:0 tvg-id="1077" tvg-logo="http://epg.cdntv.online/img/1077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Cinema Best HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1077.m3u8
-#EXTINF:0 tvg-id="1078" tvg-logo="http://epg.cdntv.online/img/1078.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Cinema Family HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1078.m3u8
-#EXTINF:0 tvg-id="1079" tvg-logo="http://epg.cdntv.online/img/1079.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Германия", Sky Cinema Special HD DE
-#EXTGRP:Германия
-http://cdntv.online/high/3rjt4s289i/1079.m3u8
-#EXTINF:0 tvg-id="1094" tvg-logo="http://epg.cdntv.online/img/1094.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", REN MD
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1094.m3u8
 #EXTINF:0 tvg-id="1095" tvg-logo="http://epg.cdntv.online/img/1095.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Мосфильм HD
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/1095.m3u8
@@ -1928,27 +1667,9 @@ http://cdntv.online/high/3rjt4s289i/1101.m3u8
 #EXTINF:0 tvg-id="1103" tvg-logo="http://epg.cdntv.online/img/1103.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Кино Ultra HD
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/1103.m3u8
-#EXTINF:0 tvg-id="1106" tvg-logo="http://epg.cdntv.online/img/1106.png" group-title="Новостные", Настоящее время
-#EXTGRP:Новостные
-http://cdntv.online/high/3rjt4s289i/1106.m3u8
 #EXTINF:0 tvg-id="1108" tvg-logo="http://epg.cdntv.online/img/1108.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", НТВ Стиль
 #EXTGRP:Развлекательные
 http://cdntv.online/high/3rjt4s289i/1108.m3u8
-#EXTINF:0 tvg-id="1109" tvg-logo="http://epg.cdntv.online/img/1109.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", 1+1
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1109.m3u8
-#EXTINF:0 tvg-id="1110" tvg-logo="http://epg.cdntv.online/img/1110.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", 2+2
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1110.m3u8
-#EXTINF:0 tvg-id="1111" tvg-logo="http://epg.cdntv.online/img/1111.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", ICTV
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1111.m3u8
-#EXTINF:0 tvg-id="1113" tvg-logo="http://epg.cdntv.online/img/1113.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", ТЕТ
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1113.m3u8
-#EXTINF:0 tvg-id="1114" tvg-logo="http://epg.cdntv.online/img/1114.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Украина", Новый канал
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1114.m3u8
 #EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда HD
 #EXTGRP:Федеральные
 http://cdntv.online/high/3rjt4s289i/1115.m3u8
@@ -2027,30 +1748,6 @@ http://cdntv.online/high/3rjt4s289i/1155.m3u8
 #EXTINF:0 tvg-id="1156" tvg-logo="http://epg.cdntv.online/img/1156.png" group-title="Экстра", Матч! Футбол 3+
 #EXTGRP:Экстра
 http://cdntv.online/high/3rjt4s289i/1156.m3u8
-#EXTINF:0 tvg-id="1157" tvg-logo="http://epg.cdntv.online/img/1157.png" group-title="Грузия", TV Formula
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1157.m3u8
-#EXTINF:0 tvg-id="1159" tvg-logo="http://epg.cdntv.online/img/1159.png" group-title="Грузия", GDS TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1159.m3u8
-#EXTINF:0 tvg-id="1160" tvg-logo="http://epg.cdntv.online/img/1160.png" group-title="Грузия", Rustavi 2
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1160.m3u8
-#EXTINF:0 tvg-id="1161" tvg-logo="http://epg.cdntv.online/img/1161.png" group-title="Грузия", Adjara TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1161.m3u8
-#EXTINF:0 tvg-id="1162" tvg-logo="http://epg.cdntv.online/img/1162.png" group-title="Грузия", Marao
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1162.m3u8
-#EXTINF:0 tvg-id="1163" tvg-logo="http://epg.cdntv.online/img/1163.png" group-title="Грузия", Mtavari Arxi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1163.m3u8
-#EXTINF:0 tvg-id="1164" tvg-logo="http://epg.cdntv.online/img/1164.png" group-title="Грузия", Obieqtivi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1164.m3u8
-#EXTINF:0 tvg-id="1167" tvg-logo="http://epg.cdntv.online/img/1167.png" group-title="Грузия", TV Pirveli
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1167.m3u8
 #EXTINF:0 tvg-id="1168" tvg-logo="http://epg.cdntv.online/img/1168.png" group-title="Кинозалы", Твое ТВ
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1168.m3u8
@@ -2066,87 +1763,12 @@ http://cdntv.online/high/3rjt4s289i/1185.m3u8
 #EXTINF:0 tvg-id="1187" tvg-logo="http://epg.cdntv.online/img/1187.png" group-title="Казахстан", Setanta Qazaqstan HD
 #EXTGRP:Казахстан
 http://cdntv.online/high/3rjt4s289i/1187.m3u8
-#EXTINF:0 tvg-id="1189" tvg-logo="http://epg.cdntv.online/img/1189.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", TVR Moldova
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1189.m3u8
-#EXTINF:0 tvg-id="1190" tvg-logo="http://epg.cdntv.online/img/1190.png" group-title="Молдова", RU.TV Moldova
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1190.m3u8
-#EXTINF:0 tvg-id="1191" tvg-logo="http://epg.cdntv.online/img/1191.png" group-title="Молдова", National 24 Plus
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1191.m3u8
-#EXTINF:0 tvg-id="1192" tvg-logo="http://epg.cdntv.online/img/1192.png" group-title="Молдова", Alfa Omega TV
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1192.m3u8
-#EXTINF:0 tvg-id="1194" tvg-logo="http://epg.cdntv.online/img/1194.png" group-title="Молдова", Busuioc TV
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1194.m3u8
-#EXTINF:0 tvg-id="1195" tvg-logo="http://epg.cdntv.online/img/1195.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Gurinel TV HD
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1195.m3u8
-#EXTINF:0 tvg-id="1198" tvg-logo="http://epg.cdntv.online/img/1198.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Молдова", Jurnal TV HD
-#EXTGRP:Молдова
-http://cdntv.online/high/3rjt4s289i/1198.m3u8
-#EXTINF:0 tvg-id="1205" tvg-logo="http://epg.cdntv.online/img/1205.png" group-title="Таджикистан", Таджикская Музыка
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1205.m3u8
-#EXTINF:0 tvg-id="1210" tvg-logo="http://epg.cdntv.online/img/1210.png" group-title="Таджикистан", ТВ-Бадахшон
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1210.m3u8
-#EXTINF:0 tvg-id="1211" tvg-logo="http://epg.cdntv.online/img/1211.png" group-title="Таджикистан", ТВ-Кулоб
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1211.m3u8
-#EXTINF:0 tvg-id="1213" tvg-logo="http://epg.cdntv.online/img/1213.png" group-title="Таджикистан", Jahonnamo
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1213.m3u8
-#EXTINF:0 tvg-id="1214" tvg-logo="http://epg.cdntv.online/img/1214.png" group-title="Таджикистан", Safina
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1214.m3u8
-#EXTINF:0 tvg-id="1216" tvg-logo="http://epg.cdntv.online/img/1216.png" group-title="Таджикистан", TVT 1
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1216.m3u8
-#EXTINF:0 tvg-id="1217" tvg-logo="http://epg.cdntv.online/img/1217.png" group-title="Таджикистан", Синамо
-#EXTGRP:Таджикистан
-http://cdntv.online/high/3rjt4s289i/1217.m3u8
-#EXTINF:0 tvg-id="1223" tvg-logo="http://epg.cdntv.online/img/1223.png" group-title="Узбекистан", Aqlvoy
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1223.m3u8
-#EXTINF:0 tvg-id="1225" tvg-logo="http://epg.cdntv.online/img/1225.png" group-title="Узбекистан", Yoshlar
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1225.m3u8
-#EXTINF:0 tvg-id="1226" tvg-logo="http://epg.cdntv.online/img/1226.png" group-title="Узбекистан", Toshkent
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1226.m3u8
-#EXTINF:0 tvg-id="1227" tvg-logo="http://epg.cdntv.online/img/1227.png" group-title="Узбекистан", O'zbekiston
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1227.m3u8
-#EXTINF:0 tvg-id="1228" tvg-logo="http://epg.cdntv.online/img/1228.png" group-title="Узбекистан", Dunyo Boylab
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1228.m3u8
-#EXTINF:0 tvg-id="1232" tvg-logo="http://epg.cdntv.online/img/1232.png" group-title="Узбекистан", Navo
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1232.m3u8
-#EXTINF:0 tvg-id="1235" tvg-logo="http://epg.cdntv.online/img/1235.png" group-title="Узбекистан", O'zbekiston 24
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1235.m3u8
-#EXTINF:0 tvg-id="1236" tvg-logo="http://epg.cdntv.online/img/1236.png" group-title="Узбекистан", Zo'rTV
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1236.m3u8
-#EXTINF:0 tvg-id="1238" tvg-logo="http://epg.cdntv.online/img/1238.png" group-title="Узбекистан", MilliyTV
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1238.m3u8
-#EXTINF:0 tvg-id="1246" tvg-logo="http://epg.cdntv.online/img/1246.png" group-title="Украина", Кус-кус HD
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1246.m3u8
 #EXTINF:0 tvg-id="1248" tvg-logo="http://epg.cdntv.online/img/1248.png" group-title="Региональные", ГТРК Вайнах
 #EXTGRP:Региональные
 http://cdntv.online/high/3rjt4s289i/1248.m3u8
 #EXTINF:0 tvg-id="1249" tvg-logo="http://epg.cdntv.online/img/1249.png" group-title="Региональные", ЧГТРК Грозный
 #EXTGRP:Региональные
 http://cdntv.online/high/3rjt4s289i/1249.m3u8
-#EXTINF:0 tvg-id="1250" tvg-logo="http://epg.cdntv.online/img/1250.png" group-title="Узбекистан", Kinoteatr
-#EXTGRP:Узбекистан
-http://cdntv.online/high/3rjt4s289i/1250.m3u8
 #EXTINF:0 tvg-id="1251" tvg-logo="http://epg.cdntv.online/img/1251.png" group-title="Казахстан", Qazaqstan
 #EXTGRP:Казахстан
 http://cdntv.online/high/3rjt4s289i/1251.m3u8
@@ -2203,31 +1825,6 @@ http://cdntv.online/high/3rjt4s289i/1267.m3u8
 http://cdntv.online/high/3rjt4s289i/1269.m3u8
 #EXTINF:0 tvg-id="1271" tvg-logo="http://epg.cdntv.online/img/1271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Катастрофы
 #EXTGRP:Кинозалы
-http://cdntv.online/high/3rjt4s289i/1271.m3u8
-#EXTINF:0 tvg-id="1272" tvg-logo="http://epg.cdntv.online/img/1272.png" group-title="Турция", A Haber
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1272.m3u8
-#EXTINF:0 tvg-id="1274" tvg-logo="http://epg.cdntv.online/img/1274.png" group-title="Турция", TRT Cocuk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1274.m3u8
-#EXTINF:0 tvg-id="1276" tvg-logo="http://epg.cdntv.online/img/1276.png" group-title="Турция", TRT Arapca
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1276.m3u8
-#EXTINF:0 tvg-id="1277" tvg-logo="http://epg.cdntv.online/img/1277.png" group-title="Турция", Power TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1277.m3u8
-#EXTINF:0 tvg-id="1278" tvg-logo="http://epg.cdntv.online/img/1278.png" group-title="Турция", TRT Muzik
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1278.m3u8
-#EXTINF:0 tvg-id="1280" tvg-logo="http://epg.cdntv.online/img/1280.png" group-title="Турция", TRT World
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1280.m3u8
-#EXTINF:0 tvg-id="1282" tvg-logo="http://epg.cdntv.online/img/1282.png" group-title="Турция", Power Turk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1282.m3u8
-#EXTINF:0 tvg-id="1283" tvg-logo="http://epg.cdntv.online/img/1283.png" group-title="Турция", Can TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1283.m3u8
 #EXTINF:0 tvg-id="1294" tvg-logo="http://epg.cdntv.online/img/1294.png" group-title="Развлекательные", RTVi
 #EXTGRP:Развлекательные
 http://cdntv.online/high/3rjt4s289i/1294.m3u8
@@ -2240,27 +1837,6 @@ http://cdntv.online/high/3rjt4s289i/1296.m3u8
 #EXTINF:0 tvg-id="1297" tvg-logo="http://epg.cdntv.online/img/1297.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Лесник
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1297.m3u8
-#EXTINF:0 tvg-id="1300" tvg-logo="http://epg.cdntv.online/img/1300.png" group-title="Польша", Telewizja Torun
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1300.m3u8
-#EXTINF:0 tvg-id="1301" tvg-logo="http://epg.cdntv.online/img/1301.png" group-title="Польша", Trwam TV
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1301.m3u8
-#EXTINF:0 tvg-id="1302" tvg-logo="http://epg.cdntv.online/img/1302.png" group-title="Польша", TV Kujawy
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1302.m3u8
-#EXTINF:0 tvg-id="1303" tvg-logo="http://epg.cdntv.online/img/1303.png" group-title="Польша", TV Republika
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1303.m3u8
-#EXTINF:0 tvg-id="1322" tvg-logo="http://epg.cdntv.online/img/1322.png" group-title="Польша", TVT
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1322.m3u8
-#EXTINF:0 tvg-id="1323" tvg-logo="http://epg.cdntv.online/img/1323.png" group-title="Польша", TVT Zgorzelec
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1323.m3u8
-#EXTINF:0 tvg-id="1325" tvg-logo="http://epg.cdntv.online/img/1325.png" group-title="Польша", Bloomberg TV Europe HD
-#EXTGRP:Польша
-http://cdntv.online/high/3rjt4s289i/1325.m3u8
 #EXTINF:0 tvg-id="1329" tvg-logo="http://epg.cdntv.online/img/1329.png" group-title="Казахстан", Balapan
 #EXTGRP:Казахстан
 http://cdntv.online/high/3rjt4s289i/1329.m3u8
@@ -2294,21 +1870,6 @@ http://cdntv.online/high/3rjt4s289i/1354.m3u8
 #EXTINF:0 tvg-id="1355" tvg-logo="http://epg.cdntv.online/img/1355.png" group-title="Новостные", RT News
 #EXTGRP:Новостные
 http://cdntv.online/high/3rjt4s289i/1355.m3u8
-#EXTINF:0 tvg-id="1358" tvg-logo="http://epg.cdntv.online/img/1358.png" group-title="Армения", Kentron
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1358.m3u8
-#EXTINF:0 tvg-id="1360" tvg-logo="http://epg.cdntv.online/img/1360.png" group-title="Армения", 5TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1360.m3u8
-#EXTINF:0 tvg-id="1361" tvg-logo="http://epg.cdntv.online/img/1361.png" group-title="Армения", Cineman
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1361.m3u8
-#EXTINF:0 tvg-id="1363" tvg-logo="http://epg.cdntv.online/img/1363.png" group-title="Армения", Filmzone
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1363.m3u8
-#EXTINF:0 tvg-id="1365" tvg-logo="http://epg.cdntv.online/img/1365.png" group-title="Армения", U! Premium
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1365.m3u8
 #EXTINF:0 tvg-id="1379" tvg-logo="http://epg.cdntv.online/img/1379.png" group-title="Кинозалы", Z!Channel HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1379.m3u8
@@ -2381,9 +1942,6 @@ http://cdntv.online/high/3rjt4s289i/1409.m3u8
 #EXTINF:0 tvg-id="1410" tvg-logo="http://epg.cdntv.online/img/1410.png" group-title="Новостные", Fox News
 #EXTGRP:Новостные
 http://cdntv.online/high/3rjt4s289i/1410.m3u8
-#EXTINF:0 tvg-id="1412" tvg-logo="http://epg.cdntv.online/img/1412.png" group-title="Саудовская Аравия", Al Sunnah
-#EXTGRP:Саудовская Аравия
-http://cdntv.online/high/3rjt4s289i/1412.m3u8
 #EXTINF:0 tvg-id="1413" tvg-logo="http://epg.cdntv.online/img/1413.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Miniseries
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1413.m3u8
@@ -2405,60 +1963,12 @@ http://cdntv.online/high/3rjt4s289i/1425.m3u8
 #EXTINF:0 tvg-id="1426" tvg-logo="http://epg.cdntv.online/img/1426.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Premium
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1426.m3u8
-#EXTINF:0 tvg-id="1428" tvg-logo="http://epg.cdntv.online/img/1428.png" group-title="Турция", Akit TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1428.m3u8
-#EXTINF:0 tvg-id="1432" tvg-logo="http://epg.cdntv.online/img/1432.png" group-title="Турция", Cekmeköy TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1432.m3u8
-#EXTINF:0 tvg-id="1435" tvg-logo="http://epg.cdntv.online/img/1435.png" group-title="Турция", ETB Basque
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1435.m3u8
-#EXTINF:0 tvg-id="1441" tvg-logo="http://epg.cdntv.online/img/1441.png" group-title="Турция", Sat7 Türk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1441.m3u8
-#EXTINF:0 tvg-id="1442" tvg-logo="http://epg.cdntv.online/img/1442.png" group-title="Турция", Tempo TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1442.m3u8
-#EXTINF:0 tvg-id="1444" tvg-logo="http://epg.cdntv.online/img/1444.png" group-title="Турция", AS TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1444.m3u8
-#EXTINF:0 tvg-id="1448" tvg-logo="http://epg.cdntv.online/img/1448.png" group-title="Турция", TRT EBA Ortaokul
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1448.m3u8
-#EXTINF:0 tvg-id="1449" tvg-logo="http://epg.cdntv.online/img/1449.png" group-title="Турция", TRT Haber
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1449.m3u8
-#EXTINF:0 tvg-id="1450" tvg-logo="http://epg.cdntv.online/img/1450.png" group-title="Турция", TRT Kurdî
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1450.m3u8
-#EXTINF:0 tvg-id="1451" tvg-logo="http://epg.cdntv.online/img/1451.png" group-title="Турция", TRT Türk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1451.m3u8
-#EXTINF:0 tvg-id="1453" tvg-logo="http://epg.cdntv.online/img/1453.png" group-title="Турция", TV4
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1453.m3u8
-#EXTINF:0 tvg-id="1454" tvg-logo="http://epg.cdntv.online/img/1454.png" group-title="Турция", TVnet
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1454.m3u8
 #EXTINF:0 tvg-id="1457" tvg-logo="http://epg.cdntv.online/img/1457.png" group-title="Другие (тест)", BeritaSatu World [IDN]
 #EXTGRP:Другие (тест)
 http://cdntv.online/high/3rjt4s289i/1457.m3u8
 #EXTINF:0 tvg-id="1470" tvg-logo="http://epg.cdntv.online/img/1470.png" group-title="Другие (тест)", Red Bull TV [AT]
 #EXTGRP:Другие (тест)
 http://cdntv.online/high/3rjt4s289i/1470.m3u8
-#EXTINF:0 tvg-id="1472" tvg-logo="http://epg.cdntv.online/img/1472.png" group-title="Эстония", Taevas TV7 EE
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/1472.m3u8
-#EXTINF:0 tvg-id="1473" tvg-logo="http://epg.cdntv.online/img/1473.png" group-title="Эстония", TBN Baltia EE
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/1473.m3u8
-#EXTINF:0 tvg-id="1477" tvg-logo="http://epg.cdntv.online/img/1477.png" group-title="Азербайджан", KONUL TV AZERBAIJAN
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1477.m3u8
-#EXTINF:0 tvg-id="1485" tvg-logo="http://epg.cdntv.online/img/1485.png" group-title="Эстония", ETV+ HD 
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/1485.m3u8
 #EXTINF:0 tvg-id="1486" tvg-logo="http://epg.cdntv.online/img/1486.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Познавательные", Terra
 #EXTGRP:Познавательные
 http://cdntv.online/high/3rjt4s289i/1486.m3u8
@@ -2471,15 +1981,9 @@ http://cdntv.online/high/3rjt4s289i/1491.m3u8
 #EXTINF:0 tvg-id="1492" tvg-logo="http://epg.cdntv.online/img/1492.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Horror TV HD
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/1492.m3u8
-#EXTINF:0 tvg-id="1493" tvg-logo="http://epg.cdntv.online/img/1493.png" group-title="Турция", Kanal 7
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1493.m3u8
 #EXTINF:0 tvg-id="1494" tvg-logo="http://epg.cdntv.online/img/1494.png" group-title="Региональные", Новгородское областное ТВ
 #EXTGRP:Региональные
 http://cdntv.online/high/3rjt4s289i/1494.m3u8
-#EXTINF:0 tvg-id="1495" tvg-logo="http://epg.cdntv.online/img/1495.png" group-title="Украина", Ukraine World News
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/1495.m3u8
 #EXTINF:0 tvg-id="1496" tvg-logo="http://epg.cdntv.online/img/1496.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Спортивные", Мяч HD
 #EXTGRP:Спортивные
 http://cdntv.online/high/3rjt4s289i/1496.m3u8
@@ -2705,42 +2209,9 @@ http://cdntv.online/high/3rjt4s289i/1588.m3u8
 #EXTINF:0 tvg-id="1590" tvg-logo="http://epg.cdntv.online/img/1590.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", Советская киноклассика
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/1590.m3u8
-#EXTINF:0 tvg-id="1609" tvg-logo="http://epg.cdntv.online/img/1609.png" group-title="Азербайджан", ATV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1609.m3u8
-#EXTINF:0 tvg-id="1610" tvg-logo="http://epg.cdntv.online/img/1610.png" group-title="Азербайджан", CBC
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1610.m3u8
-#EXTINF:0 tvg-id="1624" tvg-logo="http://epg.cdntv.online/img/1624.png" group-title="Азербайджан", Konul TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1624.m3u8
-#EXTINF:0 tvg-id="1625" tvg-logo="http://epg.cdntv.online/img/1625.png" group-title="Азербайджан", AZSTAR TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1625.m3u8
 #EXTINF:0 tvg-id="1629" tvg-logo="http://epg.cdntv.online/img/1629.png" group-title="Кинозалы", CineMan Relax 4K
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1629.m3u8
-#EXTINF:0 tvg-id="1631" tvg-logo="http://epg.cdntv.online/img/1631.png" group-title="Турция", KANAL 61
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1631.m3u8
-#EXTINF:0 tvg-id="1632" tvg-logo="http://epg.cdntv.online/img/1632.png" group-title="Турция", Euro Indie Music Chart TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1632.m3u8
-#EXTINF:0 tvg-id="1634" tvg-logo="http://epg.cdntv.online/img/1634.png" group-title="Турция", Diyanet TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1634.m3u8
-#EXTINF:0 tvg-id="1636" tvg-logo="http://epg.cdntv.online/img/1636.png" group-title="Турция", Power Love
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1636.m3u8
-#EXTINF:0 tvg-id="1637" tvg-logo="http://epg.cdntv.online/img/1637.png" group-title="Турция", PowerTurk Taptaze
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1637.m3u8
-#EXTINF:0 tvg-id="1638" tvg-logo="http://epg.cdntv.online/img/1638.png" group-title="Турция", kANAL Z
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1638.m3u8
-#EXTINF:0 tvg-id="1639" tvg-logo="http://epg.cdntv.online/img/1639.png" group-title="Турция", Kanal 15
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1639.m3u8
 #EXTINF:0 tvg-id="1641" tvg-logo="http://epg.cdntv.online/img/1641.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", START Air
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/1641.m3u8
@@ -2978,558 +2449,12 @@ http://cdntv.online/high/3rjt4s289i/1722.m3u8
 #EXTINF:0 tvg-id="1723" tvg-logo="http://epg.cdntv.online/img/1723.png" group-title="Взрослые", EroLuxe Asian
 #EXTGRP:Взрослые
 http://cdntv.online/high/3rjt4s289i/1723.m3u8
-#EXTINF:0 tvg-id="1725" tvg-logo="http://epg.cdntv.online/img/1725.png" group-title="Азербайджан", Dunya TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1725.m3u8
-#EXTINF:0 tvg-id="1729" tvg-logo="http://epg.cdntv.online/img/1729.png" group-title="Азербайджан", POP STAR
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1729.m3u8
-#EXTINF:0 tvg-id="1730" tvg-logo="http://epg.cdntv.online/img/1730.png" group-title="Азербайджан", AYAZ TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1730.m3u8
-#EXTINF:0 tvg-id="1735" tvg-logo="http://epg.cdntv.online/img/1735.png" group-title="Турция", FBTV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1735.m3u8
-#EXTINF:0 tvg-id="1736" tvg-logo="http://epg.cdntv.online/img/1736.png" group-title="Турция", SPORTS TV HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1736.m3u8
-#EXTINF:0 tvg-id="1739" tvg-logo="http://epg.cdntv.online/img/1739.png" group-title="Турция", Show TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1739.m3u8
-#EXTINF:0 tvg-id="1740" tvg-logo="http://epg.cdntv.online/img/1740.png" group-title="Турция", Kanal D
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1740.m3u8
-#EXTINF:0 tvg-id="1741" tvg-logo="http://epg.cdntv.online/img/1741.png" group-title="Турция", EuroD HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1741.m3u8
-#EXTINF:0 tvg-id="1749" tvg-logo="http://epg.cdntv.online/img/1749.png" group-title="Турция", TEVE 2 HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1749.m3u8
 #EXTINF:0 tvg-id="1750" tvg-logo="http://epg.cdntv.online/img/1750.png" group-title="Кинозалы", Teve 2
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/1750.m3u8
-#EXTINF:0 tvg-id="1751" tvg-logo="http://epg.cdntv.online/img/1751.png" group-title="Турция", TV8
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1751.m3u8
-#EXTINF:0 tvg-id="1752" tvg-logo="http://epg.cdntv.online/img/1752.png" group-title="Турция", CiNE 1
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1752.m3u8
-#EXTINF:0 tvg-id="1753" tvg-logo="http://epg.cdntv.online/img/1753.png" group-title="Турция", 360 TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1753.m3u8
-#EXTINF:0 tvg-id="1756" tvg-logo="http://epg.cdntv.online/img/1756.png" group-title="Турция", Isvicre TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1756.m3u8
-#EXTINF:0 tvg-id="1757" tvg-logo="http://epg.cdntv.online/img/1757.png" group-title="Турция", Slow Karadeniz
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1757.m3u8
-#EXTINF:0 tvg-id="1760" tvg-logo="http://epg.cdntv.online/img/1760.png" group-title="Турция", Kanal 53
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1760.m3u8
-#EXTINF:0 tvg-id="1761" tvg-logo="http://epg.cdntv.online/img/1761.png" group-title="Турция", VRT TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1761.m3u8
-#EXTINF:0 tvg-id="1765" tvg-logo="http://epg.cdntv.online/img/1765.png" group-title="Турция", HOSEN TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1765.m3u8
-#EXTINF:0 tvg-id="1775" tvg-logo="http://epg.cdntv.online/img/1775.png" group-title="Турция", ON4
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1775.m3u8
-#EXTINF:0 tvg-id="1776" tvg-logo="http://epg.cdntv.online/img/1776.png" group-title="Турция", Dost TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1776.m3u8
-#EXTINF:0 tvg-id="1777" tvg-logo="http://epg.cdntv.online/img/1777.png" group-title="Турция", Lalegul TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1777.m3u8
-#EXTINF:0 tvg-id="1778" tvg-logo="http://epg.cdntv.online/img/1778.png" group-title="Турция", AL ZEHRA TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1778.m3u8
-#EXTINF:0 tvg-id="1779" tvg-logo="http://epg.cdntv.online/img/1779.png" group-title="Турция", DMAX
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1779.m3u8
-#EXTINF:0 tvg-id="1780" tvg-logo="http://epg.cdntv.online/img/1780.png" group-title="Турция", TLC
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1780.m3u8
-#EXTINF:0 tvg-id="1781" tvg-logo="http://epg.cdntv.online/img/1781.png" group-title="Турция", TRT DIYANET COCUK
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1781.m3u8
-#EXTINF:0 tvg-id="1782" tvg-logo="http://epg.cdntv.online/img/1782.png" group-title="Турция", CiNE 5
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1782.m3u8
-#EXTINF:0 tvg-id="1783" tvg-logo="http://epg.cdntv.online/img/1783.png" group-title="Турция", RiZE TURK TV 
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1783.m3u8
-#EXTINF:0 tvg-id="1784" tvg-logo="http://epg.cdntv.online/img/1784.png" group-title="Турция", Tivi 6
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1784.m3u8
-#EXTINF:0 tvg-id="1785" tvg-logo="http://epg.cdntv.online/img/1785.png" group-title="Турция", Sat7 Turk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1785.m3u8
-#EXTINF:0 tvg-id="1786" tvg-logo="http://epg.cdntv.online/img/1786.png" group-title="Турция", LUYS
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1786.m3u8
-#EXTINF:0 tvg-id="1787" tvg-logo="http://epg.cdntv.online/img/1787.png" group-title="Турция", TRT TURK
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1787.m3u8
-#EXTINF:0 tvg-id="1788" tvg-logo="http://epg.cdntv.online/img/1788.png" group-title="Турция", TRT Avaz
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1788.m3u8
-#EXTINF:0 tvg-id="1789" tvg-logo="http://epg.cdntv.online/img/1789.png" group-title="Турция", Kanal S
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1789.m3u8
-#EXTINF:0 tvg-id="1790" tvg-logo="http://epg.cdntv.online/img/1790.png" group-title="Турция", Cay TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1790.m3u8
-#EXTINF:0 tvg-id="1791" tvg-logo="http://epg.cdntv.online/img/1791.png" group-title="Турция", Tatlises TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1791.m3u8
-#EXTINF:0 tvg-id="1793" tvg-logo="http://epg.cdntv.online/img/1793.png" group-title="Турция", KRALPOP TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1793.m3u8
-#EXTINF:0 tvg-id="1794" tvg-logo="http://epg.cdntv.online/img/1794.png" group-title="Турция", TRT MUZiK
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1794.m3u8
-#EXTINF:0 tvg-id="1795" tvg-logo="http://epg.cdntv.online/img/1795.png" group-title="Турция", NUMBER 1
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1795.m3u8
-#EXTINF:0 tvg-id="1796" tvg-logo="http://epg.cdntv.online/img/1796.png" group-title="Турция", Nr1 Turk
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1796.m3u8
-#EXTINF:0 tvg-id="1797" tvg-logo="http://epg.cdntv.online/img/1797.png" group-title="Турция", NR1 DANCE HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1797.m3u8
-#EXTINF:0 tvg-id="1798" tvg-logo="http://epg.cdntv.online/img/1798.png" group-title="Турция", NR1 DAMAR HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1798.m3u8
-#EXTINF:0 tvg-id="1799" tvg-logo="http://epg.cdntv.online/img/1799.png" group-title="Турция", POWER TURK TAPTAZE
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1799.m3u8
-#EXTINF:0 tvg-id="1800" tvg-logo="http://epg.cdntv.online/img/1800.png" group-title="Турция", DREAM TURK HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1800.m3u8
-#EXTINF:0 tvg-id="1801" tvg-logo="http://epg.cdntv.online/img/1801.png" group-title="Турция", ERCIS TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1801.m3u8
-#EXTINF:0 tvg-id="1802" tvg-logo="http://epg.cdntv.online/img/1802.png" group-title="Турция", Ocko Expres
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1802.m3u8
-#EXTINF:0 tvg-id="1804" tvg-logo="http://epg.cdntv.online/img/1804.png" group-title="Турция", Ocko TV
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1804.m3u8
-#EXTINF:0 tvg-id="1805" tvg-logo="http://epg.cdntv.online/img/1805.png" group-title="Турция", Ocko Gold
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1805.m3u8
-#EXTINF:0 tvg-id="1806" tvg-logo="http://epg.cdntv.online/img/1806.png" group-title="Турция", MUZZIK HIP-HOP
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1806.m3u8
-#EXTINF:0 tvg-id="1807" tvg-logo="http://epg.cdntv.online/img/1807.png" group-title="Турция", Trace Urban HD
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/1807.m3u8
-#EXTINF:0 tvg-id="1808" tvg-logo="http://epg.cdntv.online/img/1808.png" group-title="Грузия", 1TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1808.m3u8
-#EXTINF:0 tvg-id="1809" tvg-logo="http://epg.cdntv.online/img/1809.png" group-title="Грузия", Formula TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1809.m3u8
-#EXTINF:0 tvg-id="1810" tvg-logo="http://epg.cdntv.online/img/1810.png" group-title="Грузия", Rustavi 2
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1810.m3u8
-#EXTINF:0 tvg-id="1811" tvg-logo="http://epg.cdntv.online/img/1811.png" group-title="Грузия", Imedi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1811.m3u8
-#EXTINF:0 tvg-id="1813" tvg-logo="http://epg.cdntv.online/img/1813.png" group-title="Грузия", PosTV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1813.m3u8
-#EXTINF:0 tvg-id="1814" tvg-logo="http://epg.cdntv.online/img/1814.png" group-title="Грузия", TV Pirveli
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1814.m3u8
-#EXTINF:0 tvg-id="1815" tvg-logo="http://epg.cdntv.online/img/1815.png" group-title="Грузия", Euronews Georgia
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1815.m3u8
-#EXTINF:0 tvg-id="1816" tvg-logo="http://epg.cdntv.online/img/1816.png" group-title="Грузия", Silk Sport 1
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1816.m3u8
-#EXTINF:0 tvg-id="1817" tvg-logo="http://epg.cdntv.online/img/1817.png" group-title="Грузия", Silk Sport 2
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1817.m3u8
-#EXTINF:0 tvg-id="1818" tvg-logo="http://epg.cdntv.online/img/1818.png" group-title="Грузия", Silk Sport 3
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1818.m3u8
-#EXTINF:0 tvg-id="1819" tvg-logo="http://epg.cdntv.online/img/1819.png" group-title="Грузия", Silk Documentary
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1819.m3u8
-#EXTINF:0 tvg-id="1820" tvg-logo="http://epg.cdntv.online/img/1820.png" group-title="Грузия", Silk kids
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1820.m3u8
-#EXTINF:0 tvg-id="1821" tvg-logo="http://epg.cdntv.online/img/1821.png" group-title="Грузия", Silk Hollywood Movies
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1821.m3u8
-#EXTINF:0 tvg-id="1822" tvg-logo="http://epg.cdntv.online/img/1822.png" group-title="Грузия", Silk Movie Collection
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1822.m3u8
-#EXTINF:0 tvg-id="1823" tvg-logo="http://epg.cdntv.online/img/1823.png" group-title="Грузия", Setanta Sports 1
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1823.m3u8
-#EXTINF:0 tvg-id="1824" tvg-logo="http://epg.cdntv.online/img/1824.png" group-title="Грузия", Setanta Sports 2
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1824.m3u8
-#EXTINF:0 tvg-id="1825" tvg-logo="http://epg.cdntv.online/img/1825.png" group-title="Грузия", Setanta Sports 3
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1825.m3u8
-#EXTINF:0 tvg-id="1826" tvg-logo="http://epg.cdntv.online/img/1826.png" group-title="Грузия", Silk Universal
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1826.m3u8
-#EXTINF:0 tvg-id="1827" tvg-logo="http://epg.cdntv.online/img/1827.png" group-title="Грузия", Palitra News
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1827.m3u8
-#EXTINF:0 tvg-id="1828" tvg-logo="http://epg.cdntv.online/img/1828.png" group-title="Грузия", Rugby TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1828.m3u8
-#EXTINF:0 tvg-id="1829" tvg-logo="http://epg.cdntv.online/img/1829.png" group-title="Грузия", Sezoni TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1829.m3u8
-#EXTINF:0 tvg-id="1830" tvg-logo="http://epg.cdntv.online/img/1830.png" group-title="Грузия", Kavkasia TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1830.m3u8
-#EXTINF:0 tvg-id="1831" tvg-logo="http://epg.cdntv.online/img/1831.png" group-title="Грузия", Ertsulovneba
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1831.m3u8
-#EXTINF:0 tvg-id="1832" tvg-logo="http://epg.cdntv.online/img/1832.png" group-title="Грузия", GDS
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1832.m3u8
-#EXTINF:0 tvg-id="1833" tvg-logo="http://epg.cdntv.online/img/1833.png" group-title="Грузия", Comedy Arkhi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1833.m3u8
-#EXTINF:0 tvg-id="1834" tvg-logo="http://epg.cdntv.online/img/1834.png" group-title="Грузия", MusicBox Georgia
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1834.m3u8
-#EXTINF:0 tvg-id="1835" tvg-logo="http://epg.cdntv.online/img/1835.png" group-title="Грузия", Maestro
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1835.m3u8
-#EXTINF:0 tvg-id="1836" tvg-logo="http://epg.cdntv.online/img/1836.png" group-title="Грузия", Marao
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1836.m3u8
-#EXTINF:0 tvg-id="1837" tvg-logo="http://epg.cdntv.online/img/1837.png" group-title="Грузия", Adjara TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1837.m3u8
-#EXTINF:0 tvg-id="1838" tvg-logo="http://epg.cdntv.online/img/1838.png" group-title="Грузия", Enki Benki
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1838.m3u8
-#EXTINF:0 tvg-id="1840" tvg-logo="http://epg.cdntv.online/img/1840.png" group-title="Грузия", Obieqtivi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1840.m3u8
-#EXTINF:0 tvg-id="1841" tvg-logo="http://epg.cdntv.online/img/1841.png" group-title="Грузия", TV25
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1841.m3u8
-#EXTINF:0 tvg-id="1842" tvg-logo="http://epg.cdntv.online/img/1842.png" group-title="Грузия", Samepo Arkhi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1842.m3u8
-#EXTINF:0 tvg-id="1843" tvg-logo="http://epg.cdntv.online/img/1843.png" group-title="Грузия", Pulsi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1843.m3u8
-#EXTINF:0 tvg-id="1844" tvg-logo="http://epg.cdntv.online/img/1844.png" group-title="Грузия", Georgian Times
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1844.m3u8
-#EXTINF:0 tvg-id="1846" tvg-logo="http://epg.cdntv.online/img/1846.png" group-title="Грузия", TV Monitoringi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1846.m3u8
-#EXTINF:0 tvg-id="1847" tvg-logo="http://epg.cdntv.online/img/1847.png" group-title="Грузия", Qartuli TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1847.m3u8
-#EXTINF:0 tvg-id="1848" tvg-logo="http://epg.cdntv.online/img/1848.png" group-title="Грузия", Guria TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1848.m3u8
-#EXTINF:0 tvg-id="1849" tvg-logo="http://epg.cdntv.online/img/1849.png" group-title="Грузия", BastiBubu
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1849.m3u8
-#EXTINF:0 tvg-id="1850" tvg-logo="http://epg.cdntv.online/img/1850.png" group-title="Грузия", Dardimandi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1850.m3u8
-#EXTINF:0 tvg-id="1851" tvg-logo="http://epg.cdntv.online/img/1851.png" group-title="Грузия", Batumi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1851.m3u8
-#EXTINF:0 tvg-id="1852" tvg-logo="http://epg.cdntv.online/img/1852.png" group-title="Грузия", Dia TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1852.m3u8
-#EXTINF:0 tvg-id="1853" tvg-logo="http://epg.cdntv.online/img/1853.png" group-title="Грузия", Tok TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1853.m3u8
-#EXTINF:0 tvg-id="1854" tvg-logo="http://epg.cdntv.online/img/1854.png" group-title="Грузия", Agro TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1854.m3u8
-#EXTINF:0 tvg-id="1856" tvg-logo="http://epg.cdntv.online/img/1856.png" group-title="Грузия", O2
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1856.m3u8
-#EXTINF:0 tvg-id="1857" tvg-logo="http://epg.cdntv.online/img/1857.png" group-title="Грузия", Egrisi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1857.m3u8
-#EXTINF:0 tvg-id="1858" tvg-logo="http://epg.cdntv.online/img/1858.png" group-title="Грузия", Sdasu TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1858.m3u8
-#EXTINF:0 tvg-id="1859" tvg-logo="http://epg.cdntv.online/img/1859.png" group-title="Грузия", Odishi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1859.m3u8
-#EXTINF:0 tvg-id="1860" tvg-logo="http://epg.cdntv.online/img/1860.png" group-title="Грузия", Odishi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1860.m3u8
-#EXTINF:0 tvg-id="1861" tvg-logo="http://epg.cdntv.online/img/1861.png" group-title="Грузия", Qartuli Arkhi
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1861.m3u8
-#EXTINF:0 tvg-id="1862" tvg-logo="http://epg.cdntv.online/img/1862.png" group-title="Грузия", Argo TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1862.m3u8
-#EXTINF:0 tvg-id="1863" tvg-logo="http://epg.cdntv.online/img/1863.png" group-title="Грузия", Gurjaani TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1863.m3u8
-#EXTINF:0 tvg-id="1864" tvg-logo="http://epg.cdntv.online/img/1864.png" group-title="Грузия", Shoni TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1864.m3u8
-#EXTINF:0 tvg-id="1865" tvg-logo="http://epg.cdntv.online/img/1865.png" group-title="Грузия", Stereo Plus
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1865.m3u8
-#EXTINF:0 tvg-id="1867" tvg-logo="http://epg.cdntv.online/img/1867.png" group-title="Грузия", Alt-info
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1867.m3u8
-#EXTINF:0 tvg-id="1868" tvg-logo="http://epg.cdntv.online/img/1868.png" group-title="Грузия", Saperavi TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1868.m3u8
-#EXTINF:0 tvg-id="1869" tvg-logo="http://epg.cdntv.online/img/1869.png" group-title="Грузия", Starvision TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1869.m3u8
-#EXTINF:0 tvg-id="1870" tvg-logo="http://epg.cdntv.online/img/1870.png" group-title="Грузия", Marneuli TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1870.m3u8
-#EXTINF:0 tvg-id="1871" tvg-logo="http://epg.cdntv.online/img/1871.png" group-title="Грузия", TV4
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1871.m3u8
-#EXTINF:0 tvg-id="1872" tvg-logo="http://epg.cdntv.online/img/1872.png" group-title="Грузия", Tanamgzavri
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1872.m3u8
-#EXTINF:0 tvg-id="1873" tvg-logo="http://epg.cdntv.online/img/1873.png" group-title="Грузия", BMG
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1873.m3u8
-#EXTINF:0 tvg-id="1874" tvg-logo="http://epg.cdntv.online/img/1874.png" group-title="Грузия", PK TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1874.m3u8
-#EXTINF:0 tvg-id="1877" tvg-logo="http://epg.cdntv.online/img/1877.png" group-title="Грузия", Rioni
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1877.m3u8
-#EXTINF:0 tvg-id="1878" tvg-logo="http://epg.cdntv.online/img/1878.png" group-title="Грузия", TVC
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1878.m3u8
-#EXTINF:0 tvg-id="1879" tvg-logo="http://epg.cdntv.online/img/1879.png" group-title="Грузия", Tafu TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1879.m3u8
-#EXTINF:0 tvg-id="1880" tvg-logo="http://epg.cdntv.online/img/1880.png" group-title="Грузия", Imervizia
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1880.m3u8
-#EXTINF:0 tvg-id="1881" tvg-logo="http://epg.cdntv.online/img/1881.png" group-title="Грузия", Parlamenti
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1881.m3u8
-#EXTINF:0 tvg-id="1882" tvg-logo="http://epg.cdntv.online/img/1882.png" group-title="Грузия", Akhali Formula
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1882.m3u8
-#EXTINF:0 tvg-id="1883" tvg-logo="http://epg.cdntv.online/img/1883.png" group-title="Грузия", TV Plus
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1883.m3u8
-#EXTINF:0 tvg-id="1884" tvg-logo="http://epg.cdntv.online/img/1884.png" group-title="Грузия", 1TV Sport
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1884.m3u8
-#EXTINF:0 tvg-id="1886" tvg-logo="http://epg.cdntv.online/img/1886.png" group-title="Грузия", Meteo24
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/1886.m3u8
-#EXTINF:0 tvg-id="1887" tvg-logo="http://epg.cdntv.online/img/1887.png" group-title="Армения", ATV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1887.m3u8
-#EXTINF:0 tvg-id="1888" tvg-logo="http://epg.cdntv.online/img/1888.png" group-title="Армения", Shant HD
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1888.m3u8
-#EXTINF:0 tvg-id="1889" tvg-logo="http://epg.cdntv.online/img/1889.png" group-title="Армения", H1
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1889.m3u8
-#EXTINF:0 tvg-id="1890" tvg-logo="http://epg.cdntv.online/img/1890.png" group-title="Армения", Kentron
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1890.m3u8
-#EXTINF:0 tvg-id="1891" tvg-logo="http://epg.cdntv.online/img/1891.png" group-title="Армения", Armenia TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1891.m3u8
-#EXTINF:0 tvg-id="1892" tvg-logo="http://epg.cdntv.online/img/1892.png" group-title="Армения", 21 TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1892.m3u8
-#EXTINF:0 tvg-id="1893" tvg-logo="http://epg.cdntv.online/img/1893.png" group-title="Армения", Nur TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1893.m3u8
-#EXTINF:0 tvg-id="1894" tvg-logo="http://epg.cdntv.online/img/1894.png" group-title="Армения", FreeNews
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1894.m3u8
-#EXTINF:0 tvg-id="1895" tvg-logo="http://epg.cdntv.online/img/1895.png" group-title="Армения", H1 Lratvakan
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1895.m3u8
-#EXTINF:0 tvg-id="1896" tvg-logo="http://epg.cdntv.online/img/1896.png" group-title="Армения", H2
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1896.m3u8
-#EXTINF:0 tvg-id="1897" tvg-logo="http://epg.cdntv.online/img/1897.png" group-title="Армения", Erkir Media
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1897.m3u8
-#EXTINF:0 tvg-id="1898" tvg-logo="http://epg.cdntv.online/img/1898.png" group-title="Армения", New Armenia
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1898.m3u8
-#EXTINF:0 tvg-id="1899" tvg-logo="http://epg.cdntv.online/img/1899.png" group-title="Армения", Bun TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1899.m3u8
-#EXTINF:0 tvg-id="1900" tvg-logo="http://epg.cdntv.online/img/1900.png" group-title="Армения", Shoxakat TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1900.m3u8
-#EXTINF:0 tvg-id="1901" tvg-logo="http://epg.cdntv.online/img/1901.png" group-title="Армения", TV5 Plus
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1901.m3u8
-#EXTINF:0 tvg-id="1902" tvg-logo="http://epg.cdntv.online/img/1902.png" group-title="Армения", TV5
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1902.m3u8
-#EXTINF:0 tvg-id="1903" tvg-logo="http://epg.cdntv.online/img/1903.png" group-title="Армения", HayKino
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1903.m3u8
-#EXTINF:0 tvg-id="1904" tvg-logo="http://epg.cdntv.online/img/1904.png" group-title="Армения", Xaghaliq TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1904.m3u8
-#EXTINF:0 tvg-id="1905" tvg-logo="http://epg.cdntv.online/img/1905.png" group-title="Армения", Muzzone
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1905.m3u8
-#EXTINF:0 tvg-id="1906" tvg-logo="http://epg.cdntv.online/img/1906.png" group-title="Армения", Tava TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1906.m3u8
-#EXTINF:0 tvg-id="1907" tvg-logo="http://epg.cdntv.online/img/1907.png" group-title="Армения", Lifehack
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1907.m3u8
-#EXTINF:0 tvg-id="1908" tvg-logo="http://epg.cdntv.online/img/1908.png" group-title="Армения", Bazmots TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1908.m3u8
-#EXTINF:0 tvg-id="1909" tvg-logo="http://epg.cdntv.online/img/1909.png" group-title="Армения", Hay TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1909.m3u8
-#EXTINF:0 tvg-id="1910" tvg-logo="http://epg.cdntv.online/img/1910.png" group-title="Армения", Fitness TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1910.m3u8
-#EXTINF:0 tvg-id="1911" tvg-logo="http://epg.cdntv.online/img/1911.png" group-title="Армения", U! Premium
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1911.m3u8
-#EXTINF:0 tvg-id="1912" tvg-logo="http://epg.cdntv.online/img/1912.png" group-title="Армения", Cineman
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1912.m3u8
-#EXTINF:0 tvg-id="1913" tvg-logo="http://epg.cdntv.online/img/1913.png" group-title="Армения", JanTV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1913.m3u8
-#EXTINF:0 tvg-id="1914" tvg-logo="http://epg.cdntv.online/img/1914.png" group-title="Армения", Comedy
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1914.m3u8
-#EXTINF:0 tvg-id="1915" tvg-logo="http://epg.cdntv.online/img/1915.png" group-title="Армения", Tun-Tunik
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1915.m3u8
-#EXTINF:0 tvg-id="1916" tvg-logo="http://epg.cdntv.online/img/1916.png" group-title="Армения", Shant Premium
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1916.m3u8
-#EXTINF:0 tvg-id="1917" tvg-logo="http://epg.cdntv.online/img/1917.png" group-title="Армения", Shant Music
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1917.m3u8
-#EXTINF:0 tvg-id="1918" tvg-logo="http://epg.cdntv.online/img/1918.png" group-title="Армения", Shant Kids
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1918.m3u8
-#EXTINF:0 tvg-id="1919" tvg-logo="http://epg.cdntv.online/img/1919.png" group-title="Армения", Shant Serial
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1919.m3u8
-#EXTINF:0 tvg-id="1920" tvg-logo="http://epg.cdntv.online/img/1920.png" group-title="Армения", Shant Gyumri
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1920.m3u8
-#EXTINF:0 tvg-id="1921" tvg-logo="http://epg.cdntv.online/img/1921.png" group-title="Армения", FastSports
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1921.m3u8
-#EXTINF:0 tvg-id="1922" tvg-logo="http://epg.cdntv.online/img/1922.png" group-title="Армения", ABN
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1922.m3u8
-#EXTINF:0 tvg-id="1923" tvg-logo="http://epg.cdntv.online/img/1923.png" group-title="Армения", Azatutyun HD
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1923.m3u8
-#EXTINF:0 tvg-id="1924" tvg-logo="http://epg.cdntv.online/img/1924.png" group-title="Армения", Lori HD
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1924.m3u8
-#EXTINF:0 tvg-id="1925" tvg-logo="http://epg.cdntv.online/img/1925.png" group-title="Армения", PanArmenian TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1925.m3u8
-#EXTINF:0 tvg-id="1926" tvg-logo="http://epg.cdntv.online/img/1926.png" group-title="Армения", Artn
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1926.m3u8
-#EXTINF:0 tvg-id="1927" tvg-logo="http://epg.cdntv.online/img/1927.png" group-title="Армения", Usarmenia TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1927.m3u8
-#EXTINF:0 tvg-id="1928" tvg-logo="http://epg.cdntv.online/img/1928.png" group-title="Армения", Armtoon
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1928.m3u8
-#EXTINF:0 tvg-id="1929" tvg-logo="http://epg.cdntv.online/img/1929.png" group-title="Армения", Horizon TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1929.m3u8
-#EXTINF:0 tvg-id="1930" tvg-logo="http://epg.cdntv.online/img/1930.png" group-title="Армения", Hybrid Education
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1930.m3u8
-#EXTINF:0 tvg-id="1931" tvg-logo="http://epg.cdntv.online/img/1931.png" group-title="Армения", Arma TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1931.m3u8
-#EXTINF:0 tvg-id="1932" tvg-logo="http://epg.cdntv.online/img/1932.png" group-title="Армения", H1 Satellite
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1932.m3u8
-#EXTINF:0 tvg-id="1933" tvg-logo="http://epg.cdntv.online/img/1933.png" group-title="Армения", Noyan Tapan
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1933.m3u8
-#EXTINF:0 tvg-id="1934" tvg-logo="http://epg.cdntv.online/img/1934.png" group-title="Армения", Amga
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1934.m3u8
-#EXTINF:0 tvg-id="1935" tvg-logo="http://epg.cdntv.online/img/1935.png" group-title="Армения", AABC
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1935.m3u8
-#EXTINF:0 tvg-id="1936" tvg-logo="http://epg.cdntv.online/img/1936.png" group-title="Армения", Song TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1936.m3u8
-#EXTINF:0 tvg-id="1937" tvg-logo="http://epg.cdntv.online/img/1937.png" group-title="Армения", Tavush TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1937.m3u8
-#EXTINF:0 tvg-id="1938" tvg-logo="http://epg.cdntv.online/img/1938.png" group-title="Армения", Syunik TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1938.m3u8
-#EXTINF:0 tvg-id="1939" tvg-logo="http://epg.cdntv.online/img/1939.png" group-title="Армения", Kotayk TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1939.m3u8
-#EXTINF:0 tvg-id="1940" tvg-logo="http://epg.cdntv.online/img/1940.png" group-title="Армения", Fortuna TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1940.m3u8
-#EXTINF:0 tvg-id="1941" tvg-logo="http://epg.cdntv.online/img/1941.png" group-title="Армения", Tsayg TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1941.m3u8
-#EXTINF:0 tvg-id="1942" tvg-logo="http://epg.cdntv.online/img/1942.png" group-title="Армения", Delta TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1942.m3u8
-#EXTINF:0 tvg-id="1943" tvg-logo="http://epg.cdntv.online/img/1943.png" group-title="Армения", Geghama TV
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1943.m3u8
-#EXTINF:0 tvg-id="1944" tvg-logo="http://epg.cdntv.online/img/1944.png" group-title="Армения", Ararat
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1944.m3u8
-#EXTINF:0 tvg-id="1945" tvg-logo="http://epg.cdntv.online/img/1945.png" group-title="Армения", Kinoman
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/1945.m3u8
 #EXTINF:0 tvg-id="1946" tvg-logo="http://epg.cdntv.online/img/1946.png" group-title="Беларусь", Первый информационный
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/1946.m3u8
-#EXTINF:0 tvg-id="1965" tvg-logo="http://epg.cdntv.online/img/1965.png" group-title="Азербайджан", ALVIN TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1965.m3u8
-#EXTINF:0 tvg-id="1967" tvg-logo="http://epg.cdntv.online/img/1967.png" group-title="Азербайджан", TURAN TV HD
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1967.m3u8
-#EXTINF:0 tvg-id="1968" tvg-logo="http://epg.cdntv.online/img/1968.png" group-title="Азербайджан", HADI TV HD
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1968.m3u8
-#EXTINF:0 tvg-id="1970" tvg-logo="http://epg.cdntv.online/img/1970.png" group-title="Азербайджан", Live TV
-#EXTGRP:Азербайджан
-http://cdntv.online/high/3rjt4s289i/1970.m3u8
 #EXTINF:0 tvg-id="1974" tvg-logo="http://epg.cdntv.online/img/1974.png" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
 http://cdntv.online/high/3rjt4s289i/1974.m3u8
@@ -3776,351 +2701,18 @@ http://cdntv.online/high/3rjt4s289i/2067.m3u8
 #EXTINF:0 tvg-id="2068" tvg-logo="http://epg.cdntv.online/img/2068.png" group-title="Кинозалы", LIBERTY МЕДИВАЛ 4К
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2068.m3u8
-#EXTINF:0 tvg-id="2069" tvg-logo="http://epg.cdntv.online/img/2069.png" group-title="Грузия", Alt-info
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/2069.m3u8
 #EXTINF:0 tvg-id="2070" tvg-logo="http://epg.cdntv.online/img/2070.png" group-title="Кино", Патриот
 #EXTGRP:Кино
 http://cdntv.online/high/3rjt4s289i/2070.m3u8
-#EXTINF:0 tvg-id="2071" tvg-logo="http://epg.cdntv.online/img/2071.png" group-title="Грузия", Zari TV
-#EXTGRP:Грузия
-http://cdntv.online/high/3rjt4s289i/2071.m3u8
 #EXTINF:0 tvg-id="2072" tvg-logo="http://epg.cdntv.online/img/2072.png" group-title="Кинозалы", МУЛЬТВЕРСИЯ
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2072.m3u8
-#EXTINF:0 tvg-id="2073" tvg-logo="http://epg.cdntv.online/img/2073.png" group-title="Украина", ECO TV
-#EXTGRP:Украина
-http://cdntv.online/high/3rjt4s289i/2073.m3u8
-#EXTINF:0 tvg-id="2074" tvg-logo="http://epg.cdntv.online/img/2074.png" group-title="Армения", 1in AM
-#EXTGRP:Армения
-http://cdntv.online/high/3rjt4s289i/2074.m3u8
 #EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр HD
 #EXTGRP:Федеральные
 http://cdntv.online/high/3rjt4s289i/2076.m3u8
 #EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний HD
 #EXTGRP:Федеральные
 http://cdntv.online/high/3rjt4s289i/2077.m3u8
-#EXTINF:0 tvg-id="2080" tvg-logo="http://epg.cdntv.online/img/2080.png" group-title="Турция", Kanal 12
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/2080.m3u8
-#EXTINF:0 tvg-id="2081" tvg-logo="http://epg.cdntv.online/img/2081.png" group-title="Турция", Power Dance
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/2081.m3u8
-#EXTINF:0 tvg-id="2082" tvg-logo="http://epg.cdntv.online/img/2082.png" group-title="Турция", PowerTurk Akustik
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/2082.m3u8
-#EXTINF:0 tvg-id="2083" tvg-logo="http://epg.cdntv.online/img/2083.png" group-title="Турция", POWER TURK SLOW
-#EXTGRP:Турция
-http://cdntv.online/high/3rjt4s289i/2083.m3u8
-#EXTINF:0 tvg-id="2085" tvg-logo="http://epg.cdntv.online/img/2085.png" group-title="Эстония", TV3 Gold HD EE
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2085.m3u8
-#EXTINF:0 tvg-id="2086" tvg-logo="http://epg.cdntv.online/img/2086.png" group-title="Эстония", Duo 4 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2086.m3u8
-#EXTINF:0 tvg-id="2087" tvg-logo="http://epg.cdntv.online/img/2087.png" group-title="Эстония", Duo 5 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2087.m3u8
-#EXTINF:0 tvg-id="2088" tvg-logo="http://epg.cdntv.online/img/2088.png" group-title="Эстония", Eesti Kanal EE
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2088.m3u8
-#EXTINF:0 tvg-id="2089" tvg-logo="http://epg.cdntv.online/img/2089.png" group-title="Эстония", ETV 2 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2089.m3u8
-#EXTINF:0 tvg-id="2090" tvg-logo="http://epg.cdntv.online/img/2090.png" group-title="Эстония", ETV HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2090.m3u8
-#EXTINF:0 tvg-id="2091" tvg-logo="http://epg.cdntv.online/img/2091.png" group-title="Эстония", Go3 Films HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2091.m3u8
-#EXTINF:0 tvg-id="2092" tvg-logo="http://epg.cdntv.online/img/2092.png" group-title="Эстония", Go3 Sport 1 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2092.m3u8
-#EXTINF:0 tvg-id="2093" tvg-logo="http://epg.cdntv.online/img/2093.png" group-title="Эстония", Go3 Sport 2 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2093.m3u8
-#EXTINF:0 tvg-id="2094" tvg-logo="http://epg.cdntv.online/img/2094.png" group-title="Эстония", Go3 Sport 3 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2094.m3u8
-#EXTINF:0 tvg-id="2095" tvg-logo="http://epg.cdntv.online/img/2095.png" group-title="Эстония", Go3 Sport 4 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2095.m3u8
-#EXTINF:0 tvg-id="2096" tvg-logo="http://epg.cdntv.online/img/2096.png" group-title="Эстония", Go3 Sport Open HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2096.m3u8
-#EXTINF:0 tvg-id="2097" tvg-logo="http://epg.cdntv.online/img/2097.png" group-title="Эстония", Kanal 2 HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2097.m3u8
-#EXTINF:0 tvg-id="2098" tvg-logo="http://epg.cdntv.online/img/2098.png" group-title="Эстония", Kidzone Mini HD
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2098.m3u8
-#EXTINF:0 tvg-id="2099" tvg-logo="http://epg.cdntv.online/img/2099.png" group-title="Эстония", Nick Jr
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2099.m3u8
-#EXTINF:0 tvg-id="2100" tvg-logo="http://epg.cdntv.online/img/2100.png" group-title="Эстония", Nickelodeon
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2100.m3u8
-#EXTINF:0 tvg-id="2101" tvg-logo="http://epg.cdntv.online/img/2101.png" group-title="Эстония", TV3 HD EE
-#EXTGRP:Эстония
-http://cdntv.online/high/3rjt4s289i/2101.m3u8
-#EXTINF:0 tvg-id="2102" tvg-logo="http://epg.cdntv.online/img/2102.png" group-title="Латвия", Riga TV24 HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2102.m3u8
-#EXTINF:0 tvg-id="2103" tvg-logo="http://epg.cdntv.online/img/2103.png" group-title="Латвия", 360TV HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2103.m3u8
-#EXTINF:0 tvg-id="2104" tvg-logo="http://epg.cdntv.online/img/2104.png" group-title="Латвия", 8 TV HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2104.m3u8
-#EXTINF:0 tvg-id="2105" tvg-logo="http://epg.cdntv.online/img/2105.png" group-title="Латвия", Best4Sport 2 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2105.m3u8
-#EXTINF:0 tvg-id="2106" tvg-logo="http://epg.cdntv.online/img/2106.png" group-title="Латвия", Best4Sport HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2106.m3u8
-#EXTINF:0 tvg-id="2107" tvg-logo="http://epg.cdntv.online/img/2107.png" group-title="Латвия", Discovery Channel
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2107.m3u8
-#EXTINF:0 tvg-id="2108" tvg-logo="http://epg.cdntv.online/img/2108.png" group-title="Латвия", Duo 3 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2108.m3u8
-#EXTINF:0 tvg-id="2109" tvg-logo="http://epg.cdntv.online/img/2109.png" group-title="Латвия", Duo 5 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2109.m3u8
-#EXTINF:0 tvg-id="2110" tvg-logo="http://epg.cdntv.online/img/2110.png" group-title="Латвия", Duo 6 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2110.m3u8
-#EXTINF:0 tvg-id="2111" tvg-logo="http://epg.cdntv.online/img/2111.png" group-title="Латвия", Epic Drama HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2111.m3u8
-#EXTINF:0 tvg-id="2112" tvg-logo="http://epg.cdntv.online/img/2112.png" group-title="Латвия", FilmUA Drama HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2112.m3u8
-#EXTINF:0 tvg-id="2113" tvg-logo="http://epg.cdntv.online/img/2113.png" group-title="Латвия", Filmzone HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2113.m3u8
-#EXTINF:0 tvg-id="2114" tvg-logo="http://epg.cdntv.online/img/2114.png" group-title="Латвия", Filmzone Plus HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2114.m3u8
-#EXTINF:0 tvg-id="2115" tvg-logo="http://epg.cdntv.online/img/2115.png" group-title="Латвия", Go3 Films HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2115.m3u8
-#EXTINF:0 tvg-id="2116" tvg-logo="http://epg.cdntv.online/img/2116.png" group-title="Латвия", Go3 Sport 1 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2116.m3u8
-#EXTINF:0 tvg-id="2117" tvg-logo="http://epg.cdntv.online/img/2117.png" group-title="Латвия", Go3 Sport 2 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2117.m3u8
-#EXTINF:0 tvg-id="2118" tvg-logo="http://epg.cdntv.online/img/2118.png" group-title="Латвия", Go3 Sport 3 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2118.m3u8
-#EXTINF:0 tvg-id="2119" tvg-logo="http://epg.cdntv.online/img/2119.png" group-title="Латвия", Go3 Sport 4 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2119.m3u8
-#EXTINF:0 tvg-id="2120" tvg-logo="http://epg.cdntv.online/img/2120.png" group-title="Латвия", Go3 Sport Open HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2120.m3u8
-#EXTINF:0 tvg-id="2121" tvg-logo="http://epg.cdntv.online/img/2121.png" group-title="Латвия", Kanal 7 HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2121.m3u8
-#EXTINF:0 tvg-id="2122" tvg-logo="http://epg.cdntv.online/img/2122.png" group-title="Латвия", Kidzone Max HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2122.m3u8
-#EXTINF:0 tvg-id="2123" tvg-logo="http://epg.cdntv.online/img/2123.png" group-title="Латвия", Kidzone Mini HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2123.m3u8
-#EXTINF:0 tvg-id="2124" tvg-logo="http://epg.cdntv.online/img/2124.png" group-title="Латвия", Latvijas Slagerkanals
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2124.m3u8
-#EXTINF:0 tvg-id="2125" tvg-logo="http://epg.cdntv.online/img/2125.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Латвия", LTV1 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2125.m3u8
-#EXTINF:0 tvg-id="2126" tvg-logo="http://epg.cdntv.online/img/2126.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Латвия", LTV7 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2126.m3u8
-#EXTINF:0 tvg-id="2127" tvg-logo="http://epg.cdntv.online/img/2127.png" group-title="Латвия", Nick Jr HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2127.m3u8
-#EXTINF:0 tvg-id="2128" tvg-logo="http://epg.cdntv.online/img/2128.png" group-title="Латвия", Nickelodeon
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2128.m3u8
-#EXTINF:0 tvg-id="2129" tvg-logo="http://epg.cdntv.online/img/2129.png" group-title="Латвия", Nicktoons
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2129.m3u8
-#EXTINF:0 tvg-id="2130" tvg-logo="http://epg.cdntv.online/img/2130.png" group-title="Латвия", OTV HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2130.m3u8
-#EXTINF:0 tvg-id="2131" tvg-logo="http://epg.cdntv.online/img/2131.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Латвия", Re:TV HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2131.m3u8
-#EXTINF:0 tvg-id="2132" tvg-logo="http://epg.cdntv.online/img/2132.png" group-title="Латвия", Smartzone HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2132.m3u8
-#EXTINF:0 tvg-id="2133" tvg-logo="http://epg.cdntv.online/img/2133.png" group-title="Латвия", Star Cinema HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2133.m3u8
-#EXTINF:0 tvg-id="2134" tvg-logo="http://epg.cdntv.online/img/2134.png" group-title="Латвия", Star Family HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2134.m3u8
-#EXTINF:0 tvg-id="2135" tvg-logo="http://epg.cdntv.online/img/2135.png" group-title="Латвия", STV Pirma! HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2135.m3u8
-#EXTINF:0 tvg-id="2136" tvg-logo="http://epg.cdntv.online/img/2136.png" group-title="Латвия", Super Baltic HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2136.m3u8
-#EXTINF:0 tvg-id="2137" tvg-logo="http://epg.cdntv.online/img/2137.png" group-title="Латвия", Супер+ HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2137.m3u8
-#EXTINF:0 tvg-id="2138" tvg-logo="http://epg.cdntv.online/img/2138.png" group-title="Латвия", TLC HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2138.m3u8
-#EXTINF:0 tvg-id="2139" tvg-logo="http://epg.cdntv.online/img/2139.png" group-title="Латвия", TV Extra
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2139.m3u8
-#EXTINF:0 tvg-id="2140" tvg-logo="http://epg.cdntv.online/img/2140.png" group-title="Латвия", TV Jurmala HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2140.m3u8
-#EXTINF:0 tvg-id="2141" tvg-logo="http://epg.cdntv.online/img/2141.png" group-title="Латвия", TV3 HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2141.m3u8
-#EXTINF:0 tvg-id="2142" tvg-logo="http://epg.cdntv.online/img/2142.png" group-title="Латвия", TV3 Life HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2142.m3u8
-#EXTINF:0 tvg-id="2143" tvg-logo="http://epg.cdntv.online/img/2143.png" group-title="Латвия", TV3 Mini HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2143.m3u8
-#EXTINF:0 tvg-id="2144" tvg-logo="http://epg.cdntv.online/img/2144.png" group-title="Латвия", TV3 Plus HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2144.m3u8
-#EXTINF:0 tvg-id="2145" tvg-logo="http://epg.cdntv.online/img/2145.png" group-title="Латвия", TV4 HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2145.m3u8
-#EXTINF:0 tvg-id="2146" tvg-logo="http://epg.cdntv.online/img/2146.png" group-title="Латвия", TV6 HD LV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2146.m3u8
-#EXTINF:0 tvg-id="2147" tvg-logo="http://epg.cdntv.online/img/2147.png" group-title="Латвия", Viasat Explore HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2147.m3u8
-#EXTINF:0 tvg-id="2148" tvg-logo="http://epg.cdntv.online/img/2148.png" group-title="Латвия", Viasat History HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2148.m3u8
-#EXTINF:0 tvg-id="2149" tvg-logo="http://epg.cdntv.online/img/2149.png" group-title="Латвия", Viasat Kino Action HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2149.m3u8
-#EXTINF:0 tvg-id="2150" tvg-logo="http://epg.cdntv.online/img/2150.png" group-title="Латвия", Viasat Kino Comedy HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2150.m3u8
-#EXTINF:0 tvg-id="2151" tvg-logo="http://epg.cdntv.online/img/2151.png" group-title="Латвия", Viasat Kino HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2151.m3u8
-#EXTINF:0 tvg-id="2152" tvg-logo="http://epg.cdntv.online/img/2152.png" group-title="Латвия", Viasat Nature HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2152.m3u8
-#EXTINF:0 tvg-id="2153" tvg-logo="http://epg.cdntv.online/img/2153.png" group-title="Латвия", Vidusdaugavas Televizija HD
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2153.m3u8
-#EXTINF:0 tvg-id="2154" tvg-logo="http://epg.cdntv.online/img/2154.png" group-title="Литва", 2TV HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2154.m3u8
-#EXTINF:0 tvg-id="2155" tvg-logo="http://epg.cdntv.online/img/2155.png" group-title="Литва", Balticum Auksinis HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2155.m3u8
-#EXTINF:0 tvg-id="2156" tvg-logo="http://epg.cdntv.online/img/2156.png" group-title="Литва", Balticum Platinum HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2156.m3u8
-#EXTINF:0 tvg-id="2157" tvg-logo="http://epg.cdntv.online/img/2157.png" group-title="Литва", Balticum TV HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2157.m3u8
-#EXTINF:0 tvg-id="2158" tvg-logo="http://epg.cdntv.online/img/2158.png" group-title="Литва", BTV HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2158.m3u8
-#EXTINF:0 tvg-id="2159" tvg-logo="http://epg.cdntv.online/img/2159.png" group-title="Литва", Delfi TV HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2159.m3u8
-#EXTINF:0 tvg-id="2160" tvg-logo="http://epg.cdntv.online/img/2160.png" group-title="Литва", Filmzone HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2160.m3u8
-#EXTINF:0 tvg-id="2161" tvg-logo="http://epg.cdntv.online/img/2161.png" group-title="Литва", Filmzone Plus HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2161.m3u8
-#EXTINF:0 tvg-id="2162" tvg-logo="http://epg.cdntv.online/img/2162.png" group-title="Литва", Go3 Films HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2162.m3u8
-#EXTINF:0 tvg-id="2163" tvg-logo="http://epg.cdntv.online/img/2163.png" group-title="Литва", Go3 Sport 1 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2163.m3u8
-#EXTINF:0 tvg-id="2164" tvg-logo="http://epg.cdntv.online/img/2164.png" group-title="Литва", Go3 Sport 2 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2164.m3u8
-#EXTINF:0 tvg-id="2165" tvg-logo="http://epg.cdntv.online/img/2165.png" group-title="Литва", Go3 Sport 3 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2165.m3u8
-#EXTINF:0 tvg-id="2166" tvg-logo="http://epg.cdntv.online/img/2166.png" group-title="Литва", Go3 Sport 4 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2166.m3u8
-#EXTINF:0 tvg-id="2167" tvg-logo="http://epg.cdntv.online/img/2167.png" group-title="Литва", Go3 Sport Open HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2167.m3u8
-#EXTINF:0 tvg-id="2168" tvg-logo="http://epg.cdntv.online/img/2168.png" group-title="Литва", Info TV HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2168.m3u8
-#EXTINF:0 tvg-id="2169" tvg-logo="http://epg.cdntv.online/img/2169.png" group-title="Литва", Kidzone Max HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2169.m3u8
-#EXTINF:0 tvg-id="2170" tvg-logo="http://epg.cdntv.online/img/2170.png" group-title="Литва", Kidzone Mini HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2170.m3u8
-#EXTINF:0 tvg-id="2171" tvg-logo="http://epg.cdntv.online/img/2171.png" group-title="Литва", Lietuvos ryto TV HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2171.m3u8
-#EXTINF:0 tvg-id="2172" tvg-logo="http://epg.cdntv.online/img/2172.png" group-title="Литва", LNK HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2172.m3u8
-#EXTINF:0 tvg-id="2173" tvg-logo="http://epg.cdntv.online/img/2173.png" group-title="Литва", LRT HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2173.m3u8
-#EXTINF:0 tvg-id="2174" tvg-logo="http://epg.cdntv.online/img/2174.png" group-title="Литва", LRT Lituanica HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2174.m3u8
-#EXTINF:0 tvg-id="2175" tvg-logo="http://epg.cdntv.online/img/2175.png" group-title="Литва", LRT Plius HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2175.m3u8
-#EXTINF:0 tvg-id="2176" tvg-logo="http://epg.cdntv.online/img/2176.png" group-title="Литва", Nick Jr
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2176.m3u8
-#EXTINF:0 tvg-id="2177" tvg-logo="http://epg.cdntv.online/img/2177.png" group-title="Литва", Nickelodeon
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2177.m3u8
-#EXTINF:0 tvg-id="2178" tvg-logo="http://epg.cdntv.online/img/2178.png" group-title="Литва", Nicktoons
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2178.m3u8
-#EXTINF:0 tvg-id="2179" tvg-logo="http://epg.cdntv.online/img/2179.png" group-title="Литва", Sport 1 Baltic
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2179.m3u8
-#EXTINF:0 tvg-id="2180" tvg-logo="http://epg.cdntv.online/img/2180.png" group-title="Литва", Sport 1 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2180.m3u8
-#EXTINF:0 tvg-id="2181" tvg-logo="http://epg.cdntv.online/img/2181.png" group-title="Литва", Sport 2 Baltic
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2181.m3u8
-#EXTINF:0 tvg-id="2182" tvg-logo="http://epg.cdntv.online/img/2182.png" group-title="Литва", Sport 4
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2182.m3u8
-#EXTINF:0 tvg-id="2183" tvg-logo="http://epg.cdntv.online/img/2183.png" group-title="Литва", TV1 HD
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2183.m3u8
-#EXTINF:0 tvg-id="2184" tvg-logo="http://epg.cdntv.online/img/2184.png" group-title="Литва", TV3 HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2184.m3u8
-#EXTINF:0 tvg-id="2185" tvg-logo="http://epg.cdntv.online/img/2185.png" group-title="Литва", TV6 HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2185.m3u8
-#EXTINF:0 tvg-id="2186" tvg-logo="http://epg.cdntv.online/img/2186.png" group-title="Литва", TV7 LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2186.m3u8
-#EXTINF:0 tvg-id="2187" tvg-logo="http://epg.cdntv.online/img/2187.png" group-title="Литва", TV8 HD LT
-#EXTGRP:Литва
-http://cdntv.online/high/3rjt4s289i/2187.m3u8
 #EXTINF:0 tvg-id="2188" tvg-logo="http://epg.cdntv.online/img/2188.png" group-title="Детские", КиноМульт
 #EXTGRP:Детские
 http://cdntv.online/high/3rjt4s289i/2188.m3u8
@@ -4175,12 +2767,6 @@ http://cdntv.online/high/3rjt4s289i/2206.m3u8
 #EXTINF:0 tvg-id="2207" tvg-logo="http://epg.cdntv.online/img/2207.png" group-title="Кинозалы", LIBERTY MUZYKA DE FHD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2207.m3u8
-#EXTINF:0 tvg-id="2208" tvg-logo="http://epg.cdntv.online/img/2208.png" group-title="Латвия", EWTN Latvija
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2208.m3u8
-#EXTINF:0 tvg-id="2209" tvg-logo="http://epg.cdntv.online/img/2209.png" group-title="Латвия", Radio SWH TV
-#EXTGRP:Латвия
-http://cdntv.online/high/3rjt4s289i/2209.m3u8
 #EXTINF:0 tvg-id="2210" tvg-logo="http://epg.cdntv.online/img/2210.png" group-title="Кинозалы", Clarity4k Вселенная
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2210.m3u8
