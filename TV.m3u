@@ -1386,7 +1386,9 @@ http://cdntv.online/high/3rjt4s289i/714.m3u8
 #EXTGRP:Региональные
 http://cdntv.online/high/3rjt4s289i/715.m3u8
 #EXTINF:0 tvg-id="717" tvg-logo="http://epg.cdntv.online/img/717.png" group-title="Региональные", СТС (Кузбасс)
-#EXTGRP:Региональные
+#EXTGRP:Региональные#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые [ВХОД СТРОГО 18+]", PassionXXX HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 http://cdntv.online/high/3rjt4s289i/717.m3u8
 #EXTINF:0 tvg-id="718" tvg-logo="http://epg.cdntv.online/img/718.png" group-title="Региональные", СТС Прима (Красноярск)
 #EXTGRP:Региональные
@@ -3034,6 +3036,7 @@ http://cdntv.online/high/3rjt4s289i/2295.m3u8
 #EXTINF:0 tvg-id="2296" tvg-logo="http://epg.cdntv.online/img/2296.png" group-title="Кинозалы", TV4 Русское кино HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2296.m3u8
+
 
 
 
