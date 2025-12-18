@@ -1397,6 +1397,9 @@ http://cdntv.online/high/3rjt4s289i/726.m3u8
 #EXTINF:0 tvg-id="playboy-tv" group-title="Взрослые", Playboy TV
 #EXTGRP:Взрослые
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-0 tvg-id="brazzers-tv-europe" group-title="Взрослые", Brazzers TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:0 tvg-id="730" tvg-logo="http://epg.cdntv.online/img/730.png" group-title="Взрослые", Anal
 #EXTGRP:Взрослые
 http://cdntv.online/high/3rjt4s289i/730.m3u8
@@ -3028,5 +3031,6 @@ http://cdntv.online/high/3rjt4s289i/2295.m3u8
 #EXTINF:0 tvg-id="2296" tvg-logo="http://epg.cdntv.online/img/2296.png" group-title="Кинозалы", TV4 Русское кино HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2296.m3u8
+
 
 
