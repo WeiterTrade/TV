@@ -1481,12 +1481,6 @@ http://cdntv.online/high/3rjt4s289i/874.m3u8
 #EXTINF:0 tvg-id="875" tvg-logo="http://epg.cdntv.online/img/875.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", СТВ Беларусь
 #EXTGRP:Беларусь
 http://cdntv.online/high/3rjt4s289i/875.m3u8
-#EXTINF:0 tvg-id="878" tvg-logo="http://epg.cdntv.online/img/878.png" group-title="Кинозалы", MGM HD
-#EXTGRP:Кинозалы
-http://cdntv.online/high/3rjt4s289i/878.m3u8
-#EXTINF:0 tvg-id="879" tvg-logo="http://epg.cdntv.online/img/879.png" group-title="Кинозалы", MGM HD
-#EXTGRP:Кинозалы
-http://cdntv.online/high/3rjt4s289i/879.m3u8
 #EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png" group-title="Кинозалы", Кино 1 INT
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/883.m3u8
@@ -3034,6 +3028,7 @@ http://cdntv.online/high/3rjt4s289i/2295.m3u8
 #EXTINF:0 tvg-id="2296" tvg-logo="http://epg.cdntv.online/img/2296.png" group-title="Кинозалы", TV4 Русское кино HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2296.m3u8
+
 
 
 
