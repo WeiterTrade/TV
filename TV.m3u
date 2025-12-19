@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml,https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
 #EXTGRP:Федеральные
 http://cdntv.online/high/3rjt4s289i/1.m3u8
@@ -3034,6 +3034,7 @@ http://cdntv.online/high/3rjt4s289i/2295.m3u8
 #EXTINF:0 tvg-id="2296" tvg-logo="http://epg.cdntv.online/img/2296.png" group-title="Кинозалы", TV4 Русское кино HD
 #EXTGRP:Кинозалы
 http://cdntv.online/high/3rjt4s289i/2296.m3u8
+
 
 
 
