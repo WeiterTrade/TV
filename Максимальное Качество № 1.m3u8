@@ -13118,7 +13118,7 @@ http://m.cdntv.online/f/3rjt4s289i/Idiot2019.m3u8
 http://m.cdntv.online/f/3rjt4s289i/OtcyIDeti1974.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/DomOknamiVPole.jpg" group-title="Театр на экране", Дом окнами в поле (1979)
 http://m.cdntv.online/f/3rjt4s289i/DomOknamiVPole.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/WeiterTrade/-/blob/main/And%20Now%20Tomorrow.jpg?raw=true" group-title="Классика Голливудского Кино", Завтра Наступает Сейчас (1944)
+#EXTINF:-1 tvg-id="130411" tvg-name="Сейчас и Завтра (1944)" tvg-logo="https://www.themoviedb.org/t/p/w1280/4p3xBkHbviV0shBaDP4e9cbOdmZ.jpg" tvg-tmdb="130411" group-title="Мелодрама", Сейчас и Завтра (1944)
 https://archive.org/download/aristocrat-incmediateka/Завтра%20Наступает%20Сейчас%20%281944%29.mp4
 #EXTINF:-1 tvg-logo="https://github.com/WeiterTrade/-/blob/main/Breakfast%20for%20Two.jpg?raw=true" group-title="Классика Голливудского Кино", Завтрак Для Двоих (1937)
 https://archive.org/download/aristocrat-incmediateka/Завтрак%20Для%20Двоих%20%281937%29.mp4
