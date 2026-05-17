@@ -451,8 +451,8 @@ http://m.cdntv.online/f/3rjt4s289i/Ballada_o_Soldate_1959.m3u8
 http://m.cdntv.online/f/3rjt4s289i/Belyj_Bim_Chernoe_Uho_1977.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/ItsaWonderfulLife.jpg" group-title="Популярные", Эта замечательная жизнь (1946)
 http://m.cdntv.online/f/3rjt4s289i/Eta_zamechatelnaja_zhizn_1946.m3u8
-#EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/GonewiththeWind.jpg" group-title="Популярные", Унесённые ветром (1939)
-http://m.cdntv.online/f/3rjt4s289i/Gone_with_the_Wind_1939.m3u8
+#EXTINF:-1 tvg-id="770" tvg-name="Унесённые Ветром (1939)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dCIXqelr22SRFHGjEUAskg54RiE.jpg" tvg-tmdb="770" group-title="Мелодрама", Унесённые ветром (1939)
+https://calfium.host.cinemap.cc/ca857221f7f264c34100a6137bd396b3:2026051723/movies/7ac3a41120eb63738038bd568e7948055b96e8d9/720.mp4
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Alien.jpg" group-title="Популярные", Чужой (1979)
 http://m.cdntv.online/f/3rjt4s289i/Alien_1979.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Aliens.jpg" group-title="Популярные", Чужие (1986)
