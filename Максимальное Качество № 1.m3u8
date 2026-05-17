@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="49046" tvg-name="На Западном Фронте Без Перемен (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yzn6vRTjTZZ9ySBPQojKtzWqHwX.jpg" tvg-tmdb="49046" group-title="Драма", На Западном фронте без перемен (2022)
 http://m.cdntv.online/f/3rjt4s289i/Im_Westen_nichts_Neues_2022.m3u8
-#EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Pride_and_Prejudice.jpg" group-title="Популярные", Гордость и предубеждение (2005)
+#EXTINF:-1 tvg-id="4348" tvg-name="Гордость и Предубеждение (2005)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg" tvg-tmdb="4348" group-title="Мелодрама", Гордость и Предубеждение (2005)
 http://m.cdntv.online/f/3rjt4s289i/Pride_Prejudice_2005.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/djumanji_2.jpg" group-title="Популярные", Джуманджи: Новый уровень (2019)
 http://m.cdntv.online/f/3rjt4s289i/Jumanji_The_Next_Level_2019.m3u8
