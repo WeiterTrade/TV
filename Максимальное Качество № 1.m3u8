@@ -111,7 +111,7 @@ http://m.cdntv.online/f/3rjt4s289i/Gattaca_1997.m3u8
 http://m.cdntv.online/f/3rjt4s289i/Green_Book_2018.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/HiddenFigures.jpg" group-title="Популярные", Скрытые фигуры (2016)
 http://m.cdntv.online/f/3rjt4s289i/Hidden_Figures_2016.m3u8
-#EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Jumanji.jpg" group-title="Популярные", Джуманджи (1995)
+#EXTINF:-1 tvg-id="8844" tvg-name="Джуманджи (1995)" tvg-logo="https://www.themoviedb.org/t/p/w1280/s5jCx2gd29X8JyFqjCsdQVJhIj2.jpg" tvg-tmdb="8844" group-title="Фэнтези", Джуманджи (1995)
 http://m.cdntv.online/f/3rjt4s289i/Jumanji_1995.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Limitless.jpg" group-title="Популярные", Области тьмы (2011)
 http://m.cdntv.online/f/3rjt4s289i/Limitless_2011.m3u8
@@ -11451,7 +11451,7 @@ http://m.cdntv.online/f/3rjt4s289i/Everest_2015.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Pride_and_Prejudice.jpg" group-title="Мелодрамы", Гордость и предубеждение. (2005)
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/djumanji_2.jpg" group-title="Комедии", Джуманджи: Новый уровень. (2019)
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/djumanji_2.jpg" group-title="Приключения", Джуманджи: Новый уровень.. (2019)
-#EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/JumanjiWelcometotheJungle.jpg" group-title="Комедии", Джуманджи: Зов джунглей (2017)
+#EXTINF:-1 tvg-id="353486" tvg-name="Джуманджи: Зов Джунглей (2017)" tvg-logo="https://www.themoviedb.org/t/p/w1280/8x54Dct05F1mIGKmmswasHFVumt.jpg" tvg-tmdb="353486" group-title="Фэнтези", Джуманджи: Зов Джунглей (2017)
 http://m.cdntv.online/f/3rjt4s289i/JumanjiWelcometotheJungle.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/JumanjiWelcometotheJungle.jpg" group-title="Приключения", Джуманджи: Зов джунглей (2017).
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Jumanji.jpg" group-title="Приключения", Джуманджи. (1995)
