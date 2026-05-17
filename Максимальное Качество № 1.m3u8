@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="49046" tvg-name="На Западном Фронте Без Перемен (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yzn6vRTjTZZ9ySBPQojKtzWqHwX.jpg" tvg-tmdb="49046" group-title="Драма", На Западном фронте без перемен (2022)
+#EXTINF:-1 tvg-id="49046" tvg-name="На Западном Фронте Без Перемен (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/yzn6vRTjTZZ9ySBPQojKtzWqHwX.jpg" tvg-tmdb="49046" group-title="Драмы", На Западном фронте без перемен (2022)
 http://m.cdntv.online/f/3rjt4s289i/Im_Westen_nichts_Neues_2022.m3u8
-#EXTINF:-1 tvg-id="4348" tvg-name="Гордость и Предубеждение (2005)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg" tvg-tmdb="4348" group-title="Мелодрама", Гордость и Предубеждение (2005)
+#EXTINF:-1 tvg-id="4348" tvg-name="Гордость и Предубеждение (2005)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5j0JrcBCuGceNrwjyHMEoI6v5fQ.jpg" tvg-tmdb="4348" group-title="Мелодрамы", Гордость и Предубеждение (2005)
 http://m.cdntv.online/f/3rjt4s289i/Pride_Prejudice_2005.m3u8
 #EXTINF:-1 tvg-id="512200" tvg-name="Джуманджи: Новый Уровень (2019)" tvg-logo="https://www.themoviedb.org/t/p/w1280/eEjh9ljWHGLg8jrvgzNJxRrqQVK.jpg" tvg-tmdb="512200" group-title="Фэнтези", Джуманджи: Новый Уровень (2019)
 http://m.cdntv.online/f/3rjt4s289i/Jumanji_The_Next_Level_2019.m3u8
@@ -451,7 +451,7 @@ http://m.cdntv.online/f/3rjt4s289i/Ballada_o_Soldate_1959.m3u8
 http://m.cdntv.online/f/3rjt4s289i/Belyj_Bim_Chernoe_Uho_1977.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/ItsaWonderfulLife.jpg" group-title="Популярные", Эта замечательная жизнь (1946)
 http://m.cdntv.online/f/3rjt4s289i/Eta_zamechatelnaja_zhizn_1946.m3u8
-#EXTINF:-1 tvg-id="770" tvg-name="Унесённые Ветром (1939)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dCIXqelr22SRFHGjEUAskg54RiE.jpg" tvg-tmdb="770" group-title="Мелодрама", Унесённые ветром (1939)
+#EXTINF:-1 tvg-id="770" tvg-name="Унесённые Ветром (1939)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dCIXqelr22SRFHGjEUAskg54RiE.jpg" tvg-tmdb="770" group-title="Мелодрамы", Унесённые ветром (1939)
 https://calfium.host.cinemap.cc/ca857221f7f264c34100a6137bd396b3:2026051723/movies/7ac3a41120eb63738038bd568e7948055b96e8d9/720.mp4
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Alien.jpg" group-title="Популярные", Чужой (1979)
 http://m.cdntv.online/f/3rjt4s289i/Alien_1979.m3u8
@@ -13118,9 +13118,9 @@ http://m.cdntv.online/f/3rjt4s289i/Idiot2019.m3u8
 http://m.cdntv.online/f/3rjt4s289i/OtcyIDeti1974.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/DomOknamiVPole.jpg" group-title="Театр на экране", Дом окнами в поле (1979)
 http://m.cdntv.online/f/3rjt4s289i/DomOknamiVPole.m3u8
-#EXTINF:-1 tvg-id="130411" tvg-name="Сейчас и Завтра (1944)" tvg-logo="https://www.themoviedb.org/t/p/w1280/4p3xBkHbviV0shBaDP4e9cbOdmZ.jpg" tvg-tmdb="130411" group-title="Мелодрама", Сейчас и Завтра (1944)
+#EXTINF:-1 tvg-id="130411" tvg-name="Сейчас и Завтра (1944)" tvg-logo="https://www.themoviedb.org/t/p/w1280/4p3xBkHbviV0shBaDP4e9cbOdmZ.jpg" tvg-tmdb="130411" group-title="Мелодрамы", Сейчас и Завтра (1944)
 https://archive.org/download/aristocrat-incmediateka/Завтра%20Наступает%20Сейчас%20%281944%29.mp4
-#EXTINF:-1 tvg-id="83240" tvg-name="Завтрак Для Двоих (1937)" tvg-logo="https://www.themoviedb.org/t/p/w1280/mt7r4VLPbCg119WeZLvlRUhTfoy.jpg" tvg-tmdb="83240" group-title="Мелодрама", Завтрак Для Двоих (1937)
+#EXTINF:-1 tvg-id="83240" tvg-name="Завтрак Для Двоих (1937)" tvg-logo="https://www.themoviedb.org/t/p/w1280/mt7r4VLPbCg119WeZLvlRUhTfoy.jpg" tvg-tmdb="83240" group-title="Мелодрамы", Завтрак Для Двоих (1937)
 https://archive.org/download/aristocrat-incmediateka/Завтрак%20Для%20Двоих%20%281937%29.mp4
 #EXTINF:-1 tvg-id="107592" tvg-name="Свадебный завтрак (1956)" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/hfRcP2beAtOSHUNnB9vCbezZFHJ.jpg" tvg-tmdb="107592" group-title="Мелодрамы", Свадебный завтрак (1956)
 https://archive.org/download/aristocrat-incmediateka/Свадебный%20Завтрак%20%281956%29.mp4
