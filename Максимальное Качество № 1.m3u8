@@ -1491,7 +1491,7 @@ http://m.cdntv.online/f/3rjt4s289i/AboutFate.m3u8
 http://m.cdntv.online/f/3rjt4s289i/FValentinesDay.m3u8
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/Coutures.jpg" group-title="Мелодрамы", Кутюр (2025)
 http://m.cdntv.online/f/3rjt4s289i/Coutures.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/WeiterTrade/-/blob/main/All%20About%20Eve.jpg?raw=true" group-title="Драмы", Всё о Еве (1950)
+#EXTINF:-1 tvg-id="705" tvg-name="Всё о Еве (1950)" tvg-logo="https://www.themoviedb.org/t/p/w1280/x9dJQ2jGggTU3fa6MMmxgD9HFrw.jpg" tvg-tmdb="705" group-title="Драмы", Всё о Еве (1950)
 https://archive.org/download/aristocrat-incmediateka/Всё%20о%20Еве%20%281950%29.mp4
 #EXTINF:-1 tvg-logo="http://m.cdntv.online/tvg-logo/3rjt4s289i/RemindersofHim.jpg" group-title="Мелодрамы", Напоминание о нём (2026)
 http://m.cdntv.online/f/3rjt4s289i/RemindersofHim.m3u8
