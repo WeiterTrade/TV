@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTM3U url-tvg="http://epg3.myrutv.ru/epg.xml.gz"
 #EXTINF:-1 tvg-id="Первый канал" group-title="Информационные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://live.myrutv.ru/8001/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="14", Первый канал
-http://live.myrutv.ru/8001/video.m3u8?token=8fjDuMNEjZhX1FWB
+http://live.myrutv.ru/8001/video.m3u8
 #EXTINF:-1 tvg-id="Первый канал HD" group-title="Информационные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="14" catchup-source="http://live.myrutv.ru/8150/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="14", Первый канал HD
 http://live.myrutv.ru/8150/video.m3u8?token=8fjDСолоuMNEjZhX1FWB
 #EXTINF:-1 tvg-id="Первый канал (+2)" group-title="Информационные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+2.png" catchup-days="0", Первый канал (+2)
@@ -57,7 +57,7 @@ http://live.myrutv.ru/8306/video.m3u8?token=8fjDuMNEjZhX1FWB
 #EXTINF:-1 tvg-id="НТВ Сериал" group-title="Киноканалы"  tvg-logo="http://icon.myrutv.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png" catchup="default" catchup-days="7" catchup-source="http://live.myrutv.ru/8308/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="7", НТВ Сериал
 http://live.myrutv.ru/8308/video.m3u8?token=8fjDuMNEjZhX1FWB
 #EXTINF:-1 tvg-id="НТВ Хит" group-title="Развлекательные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%B8%D1%82%20HD.png" catchup="default" catchup-days="14" catchup-source="http://live.myrutv.ru/8383/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="14", НТВ Хит
-http://live.myrutv.ru/8383/video.m3u8?token=8fjDuMNEjZhX1FWB
+http://live.myrutv.ru/8383/video.m3u8
 #EXTINF:-1 tvg-id="РЕН ТВ" group-title="Развлекательные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.myrutv.ru/8004/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="14", РЕН ТВ
 http://live.myrutv.ru/8004/video.m3u8?token=8fjDuMNEjZhX1FWB
 #EXTINF:-1 tvg-id="РЕН ТВ HD" group-title="Развлекательные"  tvg-logo="http://icon.myrutv.ru/icon/%D0%A0%D0%B5%D0%BD%20%D0%A2%D0%92%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://live.myrutv.ru/8312/video-${start}-${duration}.m3u8?token=8fjDuMNEjZhX1FWB" timeshift="14", РЕН ТВ HD
