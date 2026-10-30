@@ -6,11 +6,4 @@
       "operator": "VipLime",
       "expiryDate": "2027-04-30"
     },
-    {
-      "name": "ТЕСТОВЫЙ ПОЛЬЗОВАТЕЛЬ (УДАЛИТЬ ПОТОМ)",
-      "email": "test@test.com",
-      "operator": "Тест",
-      "expiryDate": "2026-10-31"
-    }
-  ]
-}
+    
