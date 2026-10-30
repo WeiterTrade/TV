@@ -6,9 +6,5 @@
       "operator": "VipLime",
       "expiryDate": "2027-04-30"
     }
-  ],
-  "telegram": {
-    "botToken": "9016704793:AAEqucQawaMy_rcqV-n0Qdab_ZBvWxmlIB0",
-    "chatId": "7853741703"
-  }
+  ]
 }
