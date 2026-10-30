@@ -1,15 +1,25 @@
 const fs = require('fs');
 const https = require('https');
 
-// Читаем файл подписок
+// Читаем файл подписок (без данных Telegram — они в секретах)
 const data = JSON.parse(fs.readFileSync('subscribers.json', 'utf8'));
-const { subscribers, telegram } = data;
+const subscribers = data.subscribers;
+
+// Получаем токены из переменных окружения (GitHub Secrets)
+const botToken = process.env.TELEGRAM_BOT_TOKEN;
+const chatId = process.env.TELEGRAM_CHAT_ID;
+
+// Проверяем, что секреты настроены
+if (!botToken || !chatId) {
+  console.error('❌ Ошибка: не настроены секреты TELEGRAM_BOT_TOKEN или TELEGRAM_CHAT_ID');
+  process.exit(1);
+}
 
 // Получаем текущую дату
 const today = new Date();
 today.setHours(0, 0, 0, 0);
 
-// Находим подписки, истекающие через 7 дней или меньше
+// Находим подписки, истекающие через 7 дней или меньше (но ещё не истёкшие)
 const expiring = subscribers.filter(sub => {
   if (!sub.expiryDate) return false;
   const expiry = new Date(sub.expiryDate);
@@ -20,7 +30,7 @@ const expiring = subscribers.filter(sub => {
 
 // Если нет истекающих подписок, завершаем
 if (expiring.length === 0) {
-  console.log('Нет истекающих подписок');
+  console.log('✅ Нет истекающих подписок — уведомление не отправляется');
   process.exit(0);
 }
 
@@ -34,16 +44,17 @@ expiring.forEach(sub => {
   const year = expiry.getFullYear();
   
   message += `👤 <b>${sub.name}</b>\n`;
-  message += `   📧 ${sub.email}\n`;
-  message += `    Действует до: ${day}.${month}.${year}\n`;
+  if (sub.email) message += `   📧 ${sub.email}\n`;
+  if (sub.operator) message += `   🌐 ${sub.operator}\n`;
+  message += `   📅 Действует до: ${day}.${month}.${year}\n`;
   message += `   ⏰ Осталось: ${diffDays} дн.\n\n`;
 });
 message += '🔗 Aristocrat TV Panel';
 
 // Отправляем в Telegram
-const url = `https://api.telegram.org/bot${telegram.botToken}/sendMessage`;
+const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
 const postData = JSON.stringify({
-  chat_id: telegram.chatId,
+  chat_id: chatId,
   text: message,
   parse_mode: 'HTML'
 });
@@ -57,18 +68,23 @@ const options = {
 };
 
 const req = https.request(url, options, (res) => {
-  let data = '';
-  res.on('data', (chunk) => data += chunk);
+  let responseData = '';
+  res.on('data', (chunk) => responseData += chunk);
   res.on('end', () => {
-    const response = JSON.parse(data);
+    const response = JSON.parse(responseData);
     if (response.ok) {
-      console.log('✅ Уведомление отправлено');
+      console.log('✅ Уведомление успешно отправлено в Telegram');
     } else {
-      console.error('❌ Ошибка:', response.description);
+      console.error('❌ Ошибка Telegram API:', response.description);
+      process.exit(1);
     }
   });
 });
 
-req.on('error', (e) => console.error('❌ Ошибка запроса:', e.message));
+req.on('error', (e) => {
+  console.error('❌ Ошибка запроса:', e.message);
+  process.exit(1);
+});
+
 req.write(postData);
 req.end();
