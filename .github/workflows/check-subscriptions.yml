@@ -1,0 +1,24 @@
+name: Check Subscriptions
+
+on:
+  schedule:
+    # Запускается каждый день в 9:00 UTC (12:00 по Москве)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Позволяет запускать вручную
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Check subscriptions and send notifications
+        run: |
+          node check-subscriptions.js
