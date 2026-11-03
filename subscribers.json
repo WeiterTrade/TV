@@ -4,7 +4,8 @@
     "email": "o.poliaev@gmail.com",
     "operator": "VipLime",
     "expiryDate": "2027-04-30",
-    "connectLink": "https://clck.ru/3WiqE8/"
+    "connectLink": "https://clck.ru/3WiqE8/",
+    "isEditing": false
   },
   {
     "name": "Денис/Инкогнито",
@@ -12,6 +13,14 @@
     "operator": "VipLime",
     "expiryDate": "2027-10-03",
     "connectLink": "https://clck.ru/test",
+    "isEditing": false
+  },
+  {
+    "name": "test",
+    "email": "w.poliaev@gmail.com",
+    "operator": "VipLime",
+    "expiryDate": "2027-06-03",
+    "connectLink": "https://clck.ru/reed",
     "isEditing": false
   }
 ]
