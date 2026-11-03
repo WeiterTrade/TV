@@ -1,0 +1,59 @@
+{
+  "servers": [
+    {
+      "name": "VipLime",
+      "url": "https://viplime.fun",
+      "login": "o.poliaev@gmail.com",
+      "password": "Iptv281199"
+    },
+    {
+      "name": "VipLime",
+      "url": "https://viplime.fun",
+      "login": "w.poliaev@gmail.com",
+      "password": "Iptv281199",
+      "isEditing": false
+    }
+  ],
+  "blacklist": {
+    "countries": [
+      "германия",
+      "germany",
+      "deutschland",
+      "украина",
+      "ukraine",
+      "україна",
+      "израиль",
+      "israel",
+      "армения",
+      "armenia",
+      "грузия",
+      "georgia",
+      "молдова",
+      "moldova",
+      "азербайджан",
+      "azerbaijan",
+      "таджикистан",
+      "tajikistan",
+      "узбекистан",
+      "uzbekistan",
+      "турция",
+      "turkey",
+      "türkiye",
+      "польша",
+      "poland",
+      "саудовская аравия",
+      "saudi arabia",
+      "эстония",
+      "estonia",
+      "латвия",
+      "latvia",
+      "литва",
+      "lithuania"
+    ],
+    "channels": [
+      "соловьёв live",
+      "соловьев live",
+      "настоящее время"
+    ]
+  }
+}
