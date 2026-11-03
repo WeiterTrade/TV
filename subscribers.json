@@ -1,16 +1,9 @@
-{
-  "subscribers": [
-    {
-      "name": "Владимир Юрьевич / Талант",
-      "email": "w.poliaev@gmail.com",
-      "operator": "VipLime 1",
-      "expiryDate": "2027-04-30"
-    },
-    {
-      "name": "Друг Дисы/Клим",
-      "email": "o.poliaev@gmail.com",
-      "operator": "VipLime 2",
-      "expiryDate": "2028-06-16"
-    }
-  ]
-}
+[
+  {
+    "name": "Владимир Юрьевич / Клим / Талант",
+    "email": "o.poliaev@gmail.com",
+    "operator": "VipLime",
+    "expiryDate": "2027-04-30",
+    "connectLink": "https://clck.ru/3WiqE8/"
+  }
+]
