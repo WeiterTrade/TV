@@ -4,12 +4,20 @@
       "name": "VipLime",
       "url": "https://viplime.fun",
       "login": "o.poliaev@gmail.com",
-      "password": "Iptv281199"
+      "password": "Iptv281199",
+      "isEditing": false
     },
     {
       "name": "VipLime",
       "url": "https://viplime.fun",
       "login": "w.poliaev@gmail.com",
+      "password": "Iptv281199",
+      "isEditing": false
+    },
+    {
+      "name": "VipLime",
+      "url": "https://viplime.fun",
+      "login": "polyaev.1199@mail.ru",
       "password": "Iptv281199",
       "isEditing": false
     }
